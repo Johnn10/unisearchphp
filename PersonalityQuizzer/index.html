@@ -1,0 +1,258 @@
+<html>
+<head>
+	<title></title>
+
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+	<script type="text/javascript" src="vendor/dombars.min.js"></script>
+
+
+</head>
+<body>
+
+<a href="https://github.com/stefanhayden/PersonalityQuizzer/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github-camo.global.ssl.fastly.net/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
+
+
+		<style type="text/css">
+		.clearfix:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+
+		.quiz {
+			width:746px;
+			font-family: "Helvetica Neue",Arial,Helvetica,sans-serif; 
+		}
+
+		.question:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+
+		.question h1 {
+			text-align: center;
+			background:#7FD863;
+			font-size: 50px; 
+			font-weight:bold; 
+			padding:10px 0px;
+			font-family: "Helvetica Neue",Arial,Helvetica,sans-serif; 
+			color:#FFF;
+			text-shadow: 2px 2px 2px #000;
+
+		}
+
+
+		.answers {
+			margin-left: -15px;
+		}
+
+		.answer {
+			width:365px;
+			min-height:150px;
+			float:left;
+			background:#DDD;
+			margin:0px 0px 10px 15px;
+			color:#FFF;
+			box-shadow: 1px 1px 1px #AAA;
+		}
+
+		.answer:hover {
+			background: #EEE;
+		}
+
+		.answer.selected {
+			background:rgb(255, 255, 112);
+		}
+
+		.answer .wrapper {
+			margin:20px;
+		}
+
+		.answer .wrapper .table {
+			display: table;
+			width:100%;
+		}
+
+		.answer .text {
+			text-shadow: 2px 2px rgba(0,0,0,0.4);
+			box-shadow: 1px 1px 1px #AAA;
+			font-weight:900;
+			text-align: center;
+			background:#7FD863;
+			height: 90px;
+			font-size: 29px; 
+			font-family: "Helvetica Neue",Arial,Helvetica,sans-serif; 
+			-webkit-font-smoothing: antialiased; 
+			font-smoothing: antialiased;
+			display:table-cell; 
+			vertical-align:middle;
+		}
+
+		.answer .checkbox {
+			height: 20px;
+			width:20px;
+			background:#FFF;
+			float:right;
+			margin:0px 20px 10px 0px;
+			box-shadow: 1px 1px 2px #000;
+			position: relative;
+		}
+		.answer.selected .checkbox:before {
+			color:#000;
+			font-size:40px;
+			content:"\2713\0020";
+			position: absolute;
+			top:-15px;
+			left:-5px;
+		}
+
+		.result {
+			display:none;
+		}
+
+		.result.selected {
+			display:block;
+		}
+		.result .wrapper {
+			padding:50px;
+			border:1px solid #AAA;
+		}
+		.result .wrapper:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+		.result .title {
+			margin-bottom:20px;
+		}
+		.result .mainImage {
+			float:left;
+			margin-right: 30px;
+		}
+		.result p {
+			line-height: 1.5em;
+			margin:0px;
+		}
+
+
+	</style>
+
+
+<script id="quiz_template" type="text/x-handlebars-template">
+	<div class="quiz">
+		<div class="questions">
+			{{{outlet 'questions'}}}
+		</div>
+		<div class="results">
+			{{{outlet 'results'}}}
+		</div>
+	</div>
+</script>
+
+
+<script id="question_template" type="text/x-handlebars-template">
+	<div class="question" >
+		<h1 style="background:{{color}}">{{{title}}}</h1>
+		<div class="answers">
+				{{{outlet 'answers'}}}
+		</div>
+	</div>
+</script>
+
+<script id="answer_template" type="text/x-handlebars-template">
+	
+	<div class="answer {{#if selected}}selected{{/if}}" >
+		<div class="wrapper">
+		<div class="table">
+			<div class="text" style="background:{{parent.color}}">
+				{{text}}
+			</div>
+		</div>
+		</div>
+		<div class="footer">
+			<div class="checkbox"></div>
+		</div>
+	</div>
+	
+</script>
+
+<script id="result_template" type="text/x-handlebars-template">
+		<div class="result {{#if selected}}selected{{/if}}" >
+			<div class="wrapper">
+				<div class="title">{{parent.title}}</div>
+				<p>{{text}}</p>
+			</div>
+		</div>
+</script>
+
+
+<script type="text/javascript" src="PersonalityQuizzer.js"></script>
+
+<script type="text/javascript">
+	var quiz = new PersonalityQuizzer();
+	quiz.set("title","What Number are you?")
+	quiz.addQuestion({ 
+		color: "#7FD863",
+		title: "Pick a Number",
+		answers: [
+			{ 
+				text: "One or Two",
+				result: [1,2]
+			},
+			{ 
+				text: "Two",
+				result: 2
+			},
+		]
+	});
+	quiz.addQuestion({ 
+		color: "#63D8B3",
+		title: "Pick a Number",
+		answers: [
+			{ 
+				text: "One",
+				result: 1
+			},
+			{ 
+				text: "Two",
+				result: 2
+			},
+		]
+	});
+	quiz.addQuestion({ 
+		color: "#8463D8",
+		title: "Pick a Number",
+		answers: [
+			{ 
+				text: "One",
+				result: 1
+			},
+			{ 
+				text: "Two",
+				result: 2
+			},
+		]
+	});
+
+	quiz.addResults([
+		{
+			id: 1,
+			text: "You're a number 1"
+		},
+		{
+			id: 2,
+			text: "You're a Number 2"
+		},
+	]);
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
