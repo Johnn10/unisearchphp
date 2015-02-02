@@ -210,14 +210,11 @@ $count = $database->count("careers");
               </div>
               <div class="panel-body">
                 <div class="form-group">
-                  <textarea class="form-control" height="200">
-                  	
-                  	<?php
+                  <textarea class="form-control" style="min-height: 325px !important;"><?php
 $myfile = fopen("../crawler/indexes.txt", "r") or die("Unable to open file!");
 echo fread($myfile,filesize("../crawler/indexes.txt"));
 fclose($myfile);
-?>
-                  </textarea>
+?></textarea>
                 </div>
                 <div class="text-right">
                   <a href="#">View All Activity <i class="fa fa-arrow-circle-right"></i></a>
@@ -232,14 +229,11 @@ fclose($myfile);
               </div>
               <div class="panel-body">
                 <div class="form-group">
-                  <textarea class="form-control" height="200">
-                  	
-                  	                  	<?php
+                  <textarea class="form-control"style="min-height: 325px !important;"><?php
 $myfile = fopen("../crawler/keywords.txt", "r") or die("Unable to open file!");
 echo fread($myfile,filesize("../crawler/keywords.txt"));
 fclose($myfile);
-?>
-                  </textarea>
+?></textarea>
                 </div>
                 <div class="text-right">
                   <a href="#">View All Transactions <i class="fa fa-arrow-circle-right"></i></a>
