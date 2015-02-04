@@ -28,15 +28,22 @@ class MyCrawler extends PHPCrawler
 		//var_dump($element->links_found); 
 		
 		$string = $sitetitle;
-foreach ($owned_urls as $url) {
+		$pieces = explode("|", $string);
+		try{
+		if($pieces[0]){}
+		
+		}catch(Exception $c){
+			
+		}
+/*foreach ($owned_urls as $url) {
     //if (strstr($string, $url)) { // mine version
     if (strpos($string, $url) !== FALSE) { // Yoshi version
         echo "Match found"; 
         return true;
     }
-}
-echo "Not found!";
-return false;
+}*/
+//echo "Not found!";
+//return false;
   
 	}
 	
@@ -73,7 +80,7 @@ return false;
 $crawler = new MyCrawler();
 
 // URL to crawl
-$crawler->setURL("www.kenya-portals.com/");
+$crawler->setURL("www.4icu.org/ke/kenyan-universities.htm");
 
 // Only receive content of files with content-type "text/html"
 $crawler->addContentTypeReceiveRule("#text/html#");
