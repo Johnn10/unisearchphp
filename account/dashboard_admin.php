@@ -262,7 +262,14 @@ fclose($myfile);
           
           $( "#indexesholder" ).change(function() {
   
-  $.post( "save_files.php",  { indexseed: $( "#indexesholder" ).val() },function( data ){alert(data);});
+  $.post( "save_files.php",  
+  		{ indexseed: $( "#indexesholder" ).val() },
+  		function( data ){
+  			
+  			$.ajax({url: "scantrigger.php"
+  			});
+  			
+  			});
 });
 
 $( "#keywordsholder" ).change(function() {

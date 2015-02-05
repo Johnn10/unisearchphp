@@ -55,7 +55,7 @@ $last_user_id = $database->insert("universities", [
 ]);
 		
 	}
-	break;
+	//break;
 }
 					}
 				}
