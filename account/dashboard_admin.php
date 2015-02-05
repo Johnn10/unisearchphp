@@ -210,14 +210,14 @@ $count = $database->count("careers");
               </div>
               <div class="panel-body">
                 <div class="form-group">
-                  <textarea class="form-control" style="min-height: 325px !important;"><?php
+                  <textarea class="form-control" id="indexesholder" style="min-height: 325px !important;"><?php
 $myfile = fopen("../crawler/indexes.txt", "r") or die("Unable to open file!");
 echo fread($myfile,filesize("../crawler/indexes.txt"));
 fclose($myfile);
 ?></textarea>
                 </div>
                 <div class="text-right">
-                  <a href="#">View All Activity <i class="fa fa-arrow-circle-right"></i></a>
+                  <a href="#">trigger scan <i class="fa fa-arrow-circle-right"></i></a>
                 </div>
               </div>
             </div>
@@ -229,7 +229,7 @@ fclose($myfile);
               </div>
               <div class="panel-body">
                 <div class="form-group">
-                  <textarea class="form-control"style="min-height: 325px !important;"><?php
+                  <textarea class="form-control" id="keywordsholder" style="min-height: 325px !important;"><?php
 $myfile = fopen("../crawler/keywords.txt", "r") or die("Unable to open file!");
 echo fread($myfile,filesize("../crawler/keywords.txt"));
 fclose($myfile);
@@ -260,6 +260,14 @@ fclose($myfile);
               debug: false
           });
           
+          $( "#indexesholder" ).change(function() {
+  
+  $.post( "save_files.php",  { indexseed: $( "#indexesholder" ).val() },function( data ){alert(data);});
+});
+
+$( "#keywordsholder" ).change(function() {
+  $.post( "save_files.php",  { keywords: $( "#keywordsholder" ).val() }, function( data ){alert(data);});
+});
         });      
     </script>
   </body>

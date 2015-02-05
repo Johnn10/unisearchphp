@@ -6,6 +6,7 @@ set_time_limit(1000000000);
 // Inculde the phpcrawl-mainclass
 include ("libs/PHPCrawler.class.php");
 
+include ("../medoo.min.php");
 //include("simple_html_dom.php");
 
 include ("ganon.php");
@@ -45,6 +46,13 @@ if(strpos(strtolower($pieces[$i]),"university")){
 		//do nothing
 	}else{
 		//save
+		
+$count = $database->count("universities");
+$last_user_id = $database->insert("universities", [
+	"uni_name" => $unisave,
+	"uni_address" => $uniurl,
+	"uni_website" => $uniloc
+]);
 		
 	}
 	break;
@@ -101,7 +109,7 @@ if(strpos(strtolower($pieces[$i]),"university")){
 $crawler = new MyCrawler();
 
 // URL to crawl
-$crawler -> setURL("www.4icu.org/ke/kenyan-universities.htm");
+$crawler -> setURL($urltocrawl);
 
 // Only receive content of files with content-type "text/html"
 $crawler -> addContentTypeReceiveRule("#text/html#");
