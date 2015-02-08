@@ -6,16 +6,26 @@ set_time_limit(1000000000);
 // Inculde the phpcrawl-mainclass
 include ("libs/PHPCrawler.class.php");
 
-include ("../medoo.min.php");
+//include ("../medoo.min.php");
 //include("simple_html_dom.php");
 
 include ("ganon.php");
 
-$urltocrawl=urldecode($_GET['urltocrawl']);
+include '../medoo.min.php';
+$urltocrawl = urldecode($_GET['urltocrawl']);
 // Extend the class and override the handleDocumentInfo()-method
 class MyCrawler extends PHPCrawler {
+	
 	function handleDocumentInfo($DocInfo) {
 
+	// Or initialize via independent configuration
+$database = new medoo([
+	'database_type' => 'mysql',
+	'database_name' => 'unisearch',
+	'server' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+]);
 		// Just detect linebreak for output ("\n" in CLI-mode, otherwise "<br>").
 		if (PHP_SAPI == "cli")
 			$lb = "\n";
@@ -30,33 +40,29 @@ class MyCrawler extends PHPCrawler {
 			//var_dump($element->links_found);
 
 			$string = $sitetitle;
-			$pieces = explode("|", $string);
+			$pieces = preg_split( "/(-|\|)/", $string);
+			
 			try {
 
 				if (sizeof($pieces) > 0) {
-					for ($i = 0; $i < $pieces; $i++) {
-if(strpos(strtolower($pieces[$i]),"university")){
-	$unisave=trim($pieces[$i]);
-	$uniurl=trim($DocInfo -> url);
-	//creating map url to google (NO API KEY)
-	$uniloc="https://www.google.co.ke/maps/place/".urlencode($unisave);
-	$domainanalysis=parse_url($uniurl);
-	$uniurl=$domainanalysis['host'];
-	if($uniurl!=$DocInfo -> url){
-		//do nothing
-	}else{
-		//save
-		
-$count = $database->count("universities");
-$last_user_id = $database->insert("universities", [
-	"uni_name" => $unisave,
-	"uni_address" => $uniurl,
-	"uni_website" => $uniloc
-]);
-		
-	}
-	//break;
-}
+					for ($i = 0; $i < sizeof($pieces); $i++) {
+						if (strpos(strtolower($pieces[$i]), "university")) {
+							$unisave = trim($pieces[$i]);
+							$uniurl = trim($DocInfo -> url);
+							var_dump($pieces);
+							//creating map url to google (NO API KEY)
+							$uniloc = "https://www.google.co.ke/maps/place/" . urlencode($unisave);
+							$domainanalysis = parse_url($uniurl);
+							$uniurl = $domainanalysis['host'];
+							//if ($urltocrawl!= $DocInfo -> url) {
+								//do nothing
+							//} else {
+								//save
+						$last_user_id = $database->insert("universities", ["uni_name" => $unisave,"uni_address" => $uniurl,"uni_website" => $uniloc ]);
+
+							//}
+							break;
+						}
 					}
 				}
 
@@ -122,7 +128,7 @@ $crawler -> enableCookieHandling(true);
 
 // Set the traffic-limit to 1 MB (in bytes,
 // for testing we dont want to "suck" the whole site)
-$crawler -> setTrafficLimit(1000 * 1024);
+$crawler -> setTrafficLimit(10000 * 1024);
 
 // Thats enough, now here we go
 $crawler -> go();
