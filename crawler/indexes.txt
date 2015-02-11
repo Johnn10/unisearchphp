@@ -7,3 +7,5 @@ http://www.uonbi.ac.ke
 http://www.harvard.edu
 http://maseno.ac.ke/
 http://www.cuea.edu
+http://www.piu.ac.ke/
+http://IUEA.com
