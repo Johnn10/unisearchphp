@@ -1,0 +1,435 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<!--<link href='http://fonts.googleapis.com/css?family=Exo:400,600' rel='stylesheet' type='text/css'>-->
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,900,700' rel='stylesheet' type='text/css'>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+ <title>Pioneer International  University</title>
+
+
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+ <!--<html class=""><![endif]-->
+         <link rel="shortcut icon" type="image/x-icon" href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/favi.png">
+
+		<link rel="stylesheet" type="text/css" href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/css/icons.css" />
+		<link rel="stylesheet" type="text/css" href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/css/component.css" />
+
+        <link href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/css/style.css" rel="stylesheet" type="text/css" />
+        <!--<link href="css/queries.css" rel="stylesheet" type="text/css" />-->
+
+        <link href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/css/jquery.bxslider.css" rel="stylesheet" type="text/css" />
+
+   <!-- <link href="css/tabulous.css" rel="stylesheet" type="text/css" />-->
+
+<link href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/css/menu.css" rel="stylesheet" type="text/css" />
+<link href="http://www.piu.ac.ke/wp-content/themes/pioneerblog/css/queries.css" rel="stylesheet" type="text/css" />
+
+ <script type="text/javascript">
+        var BASE_URL = "http://www.piu.ac.ke/wp-content/themes/pioneerblog/";
+        var SITE_BASE = "http://www.piu.ac.ke/";
+    </script>
+
+
+    <script src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/js/modernizr.custom.97074.js"></script>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-52438199-2', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+</head>
+
+
+<!-- END NAVIGATION HERE  -->
+
+<body>
+                <!-- left menu slide-->
+
+                     <div class="open"><img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/menu.png" alt="menu" /></div>
+                     <div class="closed"><img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/closed.png" alt="menu" /></div>
+                      
+                     <div class="menu_slide">
+                       
+                       <div id="accordian">
+
+
+
+                           <ul id="menu" class="menu"><li id="menu-item-7" class="icon_home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7"><a href="http://www.piu.ac.ke/">Home</a></li>
+<li id="menu-item-6" class="icon_about menu-item menu-item-type-post_type menu-item-object-page menu-item-6"><a href="http://www.piu.ac.ke/about-us/">About Us</a></li>
+<li id="menu-item-33" class="icon_course menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://www.piu.ac.ke/courses/">courses</a></li>
+<li id="menu-item-32" class="icon_students menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.piu.ac.ke/students/">students</a></li>
+<li id="menu-item-29" class="icon_started menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://www.piu.ac.ke/get-started-today/">get started today</a></li>
+<li id="menu-item-300" class="icon_events menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.piu.ac.ke/events/">events</a></li>
+<li id="menu-item-31" class="icon_blog menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://www.piu.ac.ke/blog/">blog</a></li>
+<li id="menu-item-28" class="icon_contacts menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.piu.ac.ke/contact-us/">contact us</a></li>
+</ul>                       
+
+
+                                 
+                     </div>
+                     
+                     </div>
+                   
+                <!-- left menu slide-->      
+    
+                <!--top-->
+                 <div class="top">
+                          <div class="top_logo"><a href="http://www.piu.ac.ke"><img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/logo.png" class="expand"  alt="logo" /></a></div>
+                 </div>
+                 <div class="clearBoth"></div>
+
+
+                <div  class="rollover_banner"><a href="http://www.piu.ac.ke/get-started-today/" >January 2015 intake ongoing-enroll now </a></div>
+                 
+                 <!--end top-->
+                <!-- slider-->
+
+<!-- slider-->
+<!-- slider-->
+<div class="slider">
+
+    <div class="scroll">scroll for more</div>
+
+    <ul id="slider1">
+
+                    <li>
+                <div class="banner_slider">
+                    <div class="patern"></div>
+                    <div class="slider_caption">
+                        <div class="caption">CONNECTING YOU WITH YOUR DREAM</div>
+                        <a href="http://www.piu.ac.ke/courses" class="slider_btn">FIND A COURSE</a>
+                        <a href="http://www.piu.ac.ke/events" class="slider_btn">IMPORTANT DATES</a>
+                        <a href="#" class="slider_arrw"><img
+                                src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/arrow.png" alt="arrow"/></a>
+                    </div>
+                    <img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/uploads/1416903372.jpg" alt=""
+                         class="expand"/>
+                </div>
+            </li>
+                    <li>
+                <div class="banner_slider">
+                    <div class="patern"></div>
+                    <div class="slider_caption">
+                        <div class="caption">CONNECTING YOU WITH YOUR DREAM</div>
+                        <a href="http://www.piu.ac.ke/courses" class="slider_btn">FIND A COURSE</a>
+                        <a href="http://www.piu.ac.ke/events" class="slider_btn">IMPORTANT DATES</a>
+                        <a href="#" class="slider_arrw"><img
+                                src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/arrow.png" alt="arrow"/></a>
+                    </div>
+                    <img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/uploads/1416903382.jpg" alt=""
+                         class="expand"/>
+                </div>
+            </li>
+                    <li>
+                <div class="banner_slider">
+                    <div class="patern"></div>
+                    <div class="slider_caption">
+                        <div class="caption">CONNECTING YOU WITH YOUR DREAM</div>
+                        <a href="http://www.piu.ac.ke/courses" class="slider_btn">FIND A COURSE</a>
+                        <a href="http://www.piu.ac.ke/events" class="slider_btn">IMPORTANT DATES</a>
+                        <a href="#" class="slider_arrw"><img
+                                src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/arrow.png" alt="arrow"/></a>
+                    </div>
+                    <img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/uploads/1416903394.jpg" alt=""
+                         class="expand"/>
+                </div>
+            </li>
+                    <li>
+                <div class="banner_slider">
+                    <div class="patern"></div>
+                    <div class="slider_caption">
+                        <div class="caption">CONNECTING YOU WITH YOUR DREAM</div>
+                        <a href="http://www.piu.ac.ke/courses" class="slider_btn">FIND A COURSE</a>
+                        <a href="http://www.piu.ac.ke/events" class="slider_btn">IMPORTANT DATES</a>
+                        <a href="#" class="slider_arrw"><img
+                                src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/arrow.png" alt="arrow"/></a>
+                    </div>
+                    <img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/uploads/1416903404.jpg" alt=""
+                         class="expand"/>
+                </div>
+            </li>
+                    </ul>
+
+
+</div>
+
+<!-- slider-->
+<!-- slider-->
+
+<!-- mobile caption-->
+
+<div class="mobile_caption">
+    <div class="mob_caption">CONNECTING YOU WITH <br/>YOUR DREAM </div>
+    <a href="about.html" class="mslider_btn">FIND A COURSE</a>
+    <a href="about.html" class="mslider_btn">IMPORTANT DATES</a>
+    <a href="#" class="slider_arrw"><img src="img/arrow.png" alt="arrow" /></a>
+</div>
+<!-- mobile caption-->
+
+<div class="clearBoth"></div>
+
+
+<!-- section3-->
+<div class="section3">
+    <div class="section_header">PIONEER INTERNATIONAL UNIVERSITY </div>
+    <div class="section_text">
+        <br>
+        <h3><strong>Vision</strong> </h3>
+
+        To be a world class market driven University of excellence for the good of society
+
+
+
+        <br>
+        <br>
+        <h3><strong>Mission</strong> </h3>
+
+        Pioneer International University will direct its resources on advancement of knowledge through cutting edge research and innovation, melding its rich experiences into holistic educative processes that expand horizons, produce high caliber leaders, nurture creativity and meet the needs and ambitions of a culturally and internationally diverse range of stakeholders
+        <br>
+        <br>
+
+        <h3>    <strong>Philosophy</strong> </h3>
+
+
+        Pioneer International University (PIU) is founded on the philosophy of pioneer-ship. Drawn from the legacy of its founders, PIU is where people and ideas come together to develop in each member of the PIU family the ability and passion to work creatively and effectively for the betterment of humankind.
+
+        <div class="section_btns">
+            <a href="http://www.piu.ac.ke/about" class="sect_btn">10 REASONS WHY PIU</a>
+            <a href="http://www.piu.ac.ke/quality-statement" class="sect_btn">Quality Statement</a>
+            <br><br>
+            <a href="http://www.piu.ac.ke/piu" class="sect_btn">Governance Structure</a>
+
+
+            <!-- <a href="/piu" class="sect_btn">Governance Structure</a>-->
+        </div>
+
+    </div>
+</div>
+<div class="clearBoth"></div>
+<!-- section3-->
+
+
+<!-- section1-->
+<div class="section1">
+    <div class="updates_box">
+        
+                <div class="updates ">
+                    <div class="date">12 23,2014</div>
+                    <div class="update_title">JANUARY-APRIL 2015 NEW STUDENTS REGISTRATION AND ORIENTATION</div>
+                    <div class="update_text">
+                        <p>Find your course of interest and join the great PIU family this January. Register on-line or visit us at the University on Murang&#8217;a Road for career guidance and advice.</p>
+                    </div>
+                    <a href="http://www.piu.ac.ke/january-april-2015-new-students-registration-and-orietation/" class="more_btn">read more</a>
+
+                </div>
+            
+                            <div class="updates margin">
+                    <div class="date">12 19,2014</div>
+                    <div class="update_title">THE PIU LEADERSHIP AND MENTORSHIP ACADEMY (PIU-LMA)</div>
+                    <div class="update_text">
+                        <p>The PIU-LMA alumni will form a network of leaders and mentors for future fellows of the academy.</p>
+                    </div>
+                    <a href="http://www.piu.ac.ke/the-piu-leadership-and-mentorship-academy-piu-lma/" class="more_btn">read more</a>
+
+                </div>
+
+            
+            
+                <div class="updates ">
+                    <div class="date">10 29,2014</div>
+                    <div class="update_title">FORM 4 LEAVERS’ YOUTH MENTORSHIP AND LEADERSHIP PROGRAMME</div>
+                    <div class="update_text">
+                        <p>The period between the KCSE Examinations result and the joining of University marks a critical stage and turn in the lives of our Youth.</p>
+                    </div>
+                    <a href="http://www.piu.ac.ke/form-4-leavers-youth-mentorship-and-leadership-programme/" class="more_btn">read more</a>
+
+                </div>
+            
+                    <div class="clearBoth"></div>
+
+
+    </div>
+
+
+</div>
+<div class="clearBoth"></div>
+<!-- section1-->
+<!-- section1-->
+
+
+
+<!-- section2-->
+<div class="section2">
+    <div class="section_header">DISCOVER YOUR SELF</div>
+    <div class="section_btns">
+        <a href="javascript:void(0);" class="sect_btn register_course">REGISTER YOUR INTEREST</a>
+        <a href="http://www.piu.ac.ke/courses" class="sect_btn">FIND A COURSE</a>
+    </div>
+</div>
+<div class="clearBoth"></div>
+<!-- section2-->
+
+
+
+<!-- section_insta-->
+<div class="section_insta">
+    <div class="foot">
+        <div class="copyright">
+
+            <div class="section_header"> BE SURE TO JOIN IN THE INSTAFUN! </div>
+            <div class="life_btn"> <a href="http://www.piu.ac.ke/instagram" class="sect_btn">#PIULIFE</a></div>
+        </div>
+
+    </div>
+</div>
+<div class="clearBoth"></div>
+<!-- section_insta-->
+
+
+
+
+<!--footer-->
+
+<!-- section4-->
+<div class="section4">
+    <div class="foot">
+        <div class="copyright">
+
+            Copyright © PIONEER INTERNATIONAL UNIVERSITY 2015.</br>Telephone: 0727 532 044, 0700 372 352, 0700 372 354, 0700 372 355, 0736 330 333</br>
+            admissions@piu.ac.ke , P.O.BOX 33421-00600 NAIROBI
+
+        </div>
+
+    </div>
+</div>
+<div class="clearBoth"></div>
+<!-- section4-->
+<!--end footer-->
+
+
+
+<!--scripts-->
+<script type="text/javascript" src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src='http://www.piu.ac.ke/wp-content/themes/pioneerblog/js/functions.js'></script>
+<script type="text/javascript" src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/js/jquery.bxslider.js"></script>
+<script type="text/javascript" src="http://www.piu.ac.ke/wp-content/themes/pioneerblogjs/JqueryRotate.js"></script>
+<script type="text/javascript" src='http://www.piu.ac.ke/wp-content/themes/pioneerblog/js/allscripts.js'></script>
+<script src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/js/jquery.selectbox-0.2.js"></script>
+<script type="text/javascript" src="http://www.piu.ac.ke/wp-content/themes/pioneerblogjs/jquery.dd.min.js"></script>
+
+
+<script type="text/javascript">
+    $(window).scroll(function(){
+        var leftToBottom = $(document).height() - $(window).height() - $(window).scrollTop();
+        var distanceFromTop = $(window).scrollTop();
+        if( distanceFromTop > 600 && !$("#fade-in-area").is(":visible")
+            && leftToBottom > 600) {
+            $("#fade-in-area").fadeIn();
+        }else if($("#fade-in-area").is(":visible") && (distanceFromTop < 600 || leftToBottom < 600)){
+            $("#fade-in-area").fadeOut();
+        }
+    });
+</script>
+
+
+
+
+<div class="register">REGISTER YOUR INTEREST PROGRAM</div>
+<div class="register_box">
+    <span class="reg_title">REGISTER YOUR INTEREST PROGRAM</span>
+    <div class="clearboth"></div>
+
+    <div id='reg_form'>
+
+        <div id="error_div"></div>
+        <form onsubmit="return saveContact();" class="eventform">
+            <input name="name" id="name" type="text"  class="form_input2" value="Name"onfocus="if(this.value==this.defaultValue)this.value='';"
+                   onblur="if(this.value=='')this.value=this.defaultValue;">
+
+            <input name="phone" id="phone" type="text" class="form_input2" value="phone Number"onfocus="if(this.value==this.defaultValue)this.value='';"
+                   onblur="if(this.value=='')this.value=this.defaultValue;">
+
+
+            <input name="email" id="email" type="text"  class="form_input2" value="email"onfocus="if(this.value==this.defaultValue)this.value='';"
+                   onblur="if(this.value=='')this.value=this.defaultValue;">
+
+            <input name="location" id="location" type="text"  class="form_input2" value="location"onfocus="if(this.value==this.defaultValue)this.value='';"
+                   onblur="if(this.value=='')this.value=this.defaultValue;">
+
+
+            <div  class="selectbox">
+                <div class='select'>
+                    <select name="course" class="tech" id="course" style="width:100%">
+                        <option value="" data-image="">Select a course</option>
+                        Array                        <option value="JANUARY-APRIL 2015 NEW STUDENTS REGISTRATION AND ORIENTATION " data-image="">January-april 2015 new students registration and orientation </option>
+
+                                                <option value="THE PIU LEADERSHIP AND MENTORSHIP ACADEMY (PIU-LMA)" data-image="">The piu leadership and mentorship academy (piu-lma)</option>
+
+                                                <option value="BACHELOR OF COMMERCE-ENTREPRENEURSHIP" data-image="">Bachelor of commerce-entrepreneurship</option>
+
+                                                <option value="BACHELOR OF COMMERCE-INSURANCE MANAGEMENT " data-image="">Bachelor of commerce-insurance management </option>
+
+                                                <option value="BACHELOR OF COMMERCE- STRATEGIC MANAGEMENT" data-image="">Bachelor of commerce- strategic management</option>
+
+                                                <option value="BACHELOR OF COMMERCE- MARKETING" data-image="">Bachelor of commerce- marketing</option>
+
+                                                <option value="BACHELOR OF COMMERCE- HUMAN RESOURCES MANAGEMENT" data-image="">Bachelor of commerce- human resources management</option>
+
+                                                <option value="BACHELOR OF COMMERCE- ACCOUNTING" data-image="">Bachelor of commerce- accounting</option>
+
+                                                <option value="BACHELOR OF COMMERCE-FINANCE" data-image="">Bachelor of commerce-finance</option>
+
+                                                <option value="CERTIFICATE IN INFORMATION TECHNOLOGY" data-image="">Certificate in information technology</option>
+
+                                                <option value="DIPLOMA IN INFORMATION TECHNOLOGY" data-image="">Diploma in information technology</option>
+
+                                                <option value="BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY - ARTIFICIAL INTELLIGENCE" data-image="">Bachelor of science in information technology - artificial intelligence</option>
+
+                                                <option value="BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY - DISTRIBUTED SYSTEMS" data-image="">Bachelor of science in information technology - distributed systems</option>
+
+                        
+                    </select>
+                </div>
+            </div>
+
+            <div class="selectbox">
+                <div class='select'>
+                    <select name="start_date" class="tech" id="start_date" style="width:100%">
+                        <option value="" data-image="">Expected start date</option>
+                        <option value="September Intake" data-image="">September Intake </option>
+                        <option value="January Intake" data-image="">January Intake  </option>
+                        <option value="May Intake" data-image="">May Intake </option>
+                    </select>
+                </div>
+            </div>
+
+
+            <input type="submit"  value="submit" class="submit_button_event">
+
+
+            <div class="clearboth"></div>
+        </form>
+    </div>
+    <div class="clearboth"></div>
+
+    <div class="register_close"><img src="http://www.piu.ac.ke/wp-content/themes/pioneerblog/img/closed.png" alt="close" /></div>
+
+</div>
+
+</body>
+</html>
+

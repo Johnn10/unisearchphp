@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <base href="http://www.zetech.ac.ke/about-zetech/about-the-university" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Zetech University" />
+  <meta name="author" content="Zetech University" />
+  <meta name="description" content="Zetech University is the premier university for the education of Technology and Science oriented global leaders, offering an exceptional learning experience to thousands of youth from Kenya and beyond. With a highly experienced and trained faculty, administrative and support staff members, Zetech provides a huge variety of opportunities for students and individuals with diverse backgrounds." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>About the University - Zetech University</title>
+  <link href="http://www.zetech.ac.ke/about-zetech/about-the-university" rel="canonical" />
+  <link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.zetech.ac.ke/component/search/?Itemid=121&amp;format=opensearch" rel="search" title="Search Zetech University" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/modals/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/protostar/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_cinch_menu/tmpl/css/accordion.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_cinch_menu/tmpl/css/flyout.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.zetech.ac.ke/modules/mod_icemegamenu/themes/default/css/default_icemegamenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.zetech.ac.ke/modules/mod_icemegamenu/themes/default/css/default_icemegamenu-reponsive.css" type="text/css" />
+  <style type="text/css">
+    ul.accordion-menu, ul.accordion-menu li {list-style: none !important; padding:0px !important; margin: 0px !important; }
+    #accordion_menu_113{	text-align: left; border-right:1px solid #1a1a1a;border-left:1px solid #1a1a1a;margin:-1px 0px; background: #0c163a;overflow:hidden;}
+    #accordion_menu_113 a{color: #ffffff;float: left;}
+    #accordion_menu_113 li:last-child,#accordion_menu_113 > li.last{border-bottom: 0px;}
+    #accordion_menu_113 li{cursor: pointer;border-top: 1px solid #1A1A1A;}
+    #accordion_menu_113 li.opened > .item-wrapper{border-top: 1px solid #1A1A1A;margin-top:-1px;}
+    #accordion_menu_113 .item-wrapper:hover a, #accordion_menu_113 li.current > .item-wrapper a{color: #005580;}
+    #accordion_menu_113 > li > .item-wrapper{text-align: left;}
+    #accordion_menu_113 li .item-wrapper .menu-button{float:right;}
+    #accordion_menu_113 li .item-wrapper .menu-link{float: left;padding-left:5px;}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/modals/js/jquery.colorbox-min.js" type="text/javascript"></script>
+  <script src="/media/modals/js/script.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script src="/modules/mod_cinch_menu/tmpl/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_cinch_menu/tmpl/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+var modal_class = 'modal_link'; var modal_defaults = { opacity: '0.8',maxWidth: '95%',maxHeight: '95%',current: '{current} / {total}',previous: 'previous',next: 'next',close: 'close',xhrError: 'This content failed to load.',imgError: 'This image failed to load.' };
+</script>
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' />
+<style type="text/css">
+h1, h2, h3, h4, h5, h6, .site-title {
+	font-family: 'Droid Serif', sans-serif;
+}
+</style>
+<style type="text/css">
+body.site {
+	background-color: #E1E1E1 !important;
+}
+a {
+	color: #0C163A;
+}
+.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .btn-primary {
+	background: #2a4191;
+}
+.navbar-inner {
+	-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+}
+</style>
+<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+	<meta name="google-site-verification" content="NJW9QvMbeMt4mZBVkEEY7TjUSV5_PxYz-ezq9DzAvxo" />
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54226582-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body class="site com_content view-article no-layout no-task itemid-121">
+
+<!-- Top Header -->
+<div id="topHeader">
+  <div id="topinnerHeader">
+    <header class="header" role="banner">
+      <div class="header-inner clearfix"> <a class="brand pull-left" href="/">
+        <img src="http://www.zetech.ac.ke/images/zetech-logo1.png" alt="Zetech University" />        </a>
+        <div id="invent">
+          
+
+<div class="custom"  >
+	<p>Invent Your Future</p></div>
+
+        </div>
+        <div class="header-search pull-right">
+          <div class="nav-top">
+            
+          </div>
+          <div class="header-search pull-right1">
+            
+          </div>
+          <div class="header-search pull-right2">
+          <div id="top-menu-links"><ul class="nav menu" id="_top_position">
+<li class="item-305"><a href="http://blog.zetech.ac.ke/" target="_blank" >Zetech Blog</a></li><li class="item-307"><a href="http://zetech.ac.ke/emailsupport" target="_blank" >Student Mail</a></li><li class="item-309"><a href="http://elearning.zetech.ac.ke/" target="_blank" >E-Learning</a></li><li class="item-314"><a href="http://www.zetech.ac.ke/docs/ZU-SCHOLARSHIP-PROGRAMME-POLICY.doc" >Scholarship Policy</a></li></ul>
+</div>
+            <div class="search">
+    <form action="/about-zetech/about-the-university" method="post" class="form-inline">
+    		<label for="mod-search-searchword" class="element-invisible">Search...</label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" /> <input type="image" value="Search" class="button" src="/templates/protostar/images/searchButton.gif" onclick="this.form.searchword.focus();"/>    	<input type="hidden" name="task" value="search" />
+    	<input type="hidden" name="option" value="com_search" />
+    	<input type="hidden" name="Itemid" value="299" />
+    </form>
+</div>
+
+          </div>
+        </div>
+      </div>
+    </header>
+        <nav class="navigation" role="navigation">
+      <div class="icemegamenu"><div class="ice-megamenu-toggle"><a data-toggle="collapse" data-target=".nav-collapse">Menu</a></div><div class="nav-collapse icemegamenu collapse  "><ul id="icemegamenu" class="meganizr mzr-slide mzr-responsive"><li id="iceMenu_101" class="iceMenuLiLevel_1"><a href="http://www.zetech.ac.ke/" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Home</span></a></li><li id="iceMenu_103" class="iceMenuLiLevel_1 mzr-drop parent active"><a href="/about-zetech" class="icemega_active iceMenuTitle"><span class="icemega_title icemega_nosubtitle">About Us</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_121" class="iceMenuLiLevel_2 active"><a href="/about-zetech/about-the-university" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">About the University</span></a></li><li id="iceMenu_311" class="iceMenuLiLevel_2"><a href="/about-zetech/university-management-board" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">University Management Board</span></a></li><li id="iceMenu_125" class="iceMenuLiLevel_2"><a href="/about-zetech/history" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">History</span></a></li><li id="iceMenu_126" class="iceMenuLiLevel_2"><a href="/about-zetech/mission-vision-core-values" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Mission Vision, Core values</span></a></li><li id="iceMenu_127" class="iceMenuLiLevel_2"><a href="/about-zetech/from-the-chancellor" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">From the Chancellor</span></a></li><li id="iceMenu_128" class="iceMenuLiLevel_2"><a href="/about-zetech/from-the-vc" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">From the Vice Chancellor</span></a></li><li id="iceMenu_129" class="iceMenuLiLevel_2"><a href="/about-zetech/from-the-registrar" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">From the Registrar</span></a></li><li id="iceMenu_151" class="iceMenuLiLevel_2 mzr-drop parent"><a href="/about-zetech/campuses" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Campuses</span></a><ul class="icesubMenu  sub_level_2" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_155" class="iceMenuLiLevel_3"><a href="/about-zetech/campuses/stanbank-campus" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">StanBank Campus</span></a></li><li id="iceMenu_157" class="iceMenuLiLevel_3"><a href="/about-zetech/campuses/pioneer-campus" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Pioneer Campus</span></a></li><li id="iceMenu_159" class="iceMenuLiLevel_3"><a href="/about-zetech/campuses/agriculture-campus" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Agriculture Campus</span></a></li><li id="iceMenu_229" class="iceMenuLiLevel_3"><a href="/about-zetech/campuses/thika-road-campus" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Thika Road Main Campus</span></a></li></ul></div></li></ul></li><li id="iceMenu_152" class="iceMenuLiLevel_2"><a href="/about-zetech/computer-labs" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Computer Labs</span></a></li><li id="iceMenu_153" class="iceMenuLiLevel_2"><a href="/about-zetech/media-studios" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Media Studios</span></a></li><li id="iceMenu_154" class="iceMenuLiLevel_2"><a href="/about-zetech/hospitality-facilities" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Hospitality Facilities</span></a></li></ul></div></li></ul></li><li id="iceMenu_105" class="iceMenuLiLevel_1 mzr-drop parent"><a href="/admissions" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Admissions</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_132" class="iceMenuLiLevel_2"><a href="/admissions/application-procedure" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Application Procedure</span></a></li><li id="iceMenu_215" class="iceMenuLiLevel_2"><a href="/admissions/fee-structure" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Fee Structure</span></a></li><li id="iceMenu_133" class="iceMenuLiLevel_2"><a href="/admissions/fee-payment-schedule" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Fee Payment Schedule</span></a></li><li id="iceMenu_138" class="iceMenuLiLevel_2"><a href="/admissions/apply-online" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Apply Online</span></a></li><li id="iceMenu_139" class="iceMenuLiLevel_2"><a href="/admissions/download-application-packet" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Download Application Packet</span></a></li><li id="iceMenu_312" class="iceMenuLiLevel_2"><a href="http://www.zetechuniversity.com/docs/semester-schedules-2015-copy.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Semester Schedule - January- April 2015</span></a></li></ul></div></li></ul></li><li id="iceMenu_106" class="iceMenuLiLevel_1 mzr-drop parent"><a href="/programmes" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_243" class="iceMenuLiLevel_2 mzr-drop parent"><a href="#" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Zetech University Programmes</span></a><ul class="icesubMenu  sub_level_2" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_246" class="iceMenuLiLevel_3"><a href="/programmes/zetech-university-programmes/degree" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Degree</span></a></li><li id="iceMenu_247" class="iceMenuLiLevel_3"><a href="/programmes/zetech-university-programmes/diploma" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Diploma</span></a></li><li id="iceMenu_248" class="iceMenuLiLevel_3"><a href="/programmes/zetech-university-programmes/certificate" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Certificate</span></a></li><li id="iceMenu_249" class="iceMenuLiLevel_3"><a href="/programmes/zetech-university-programmes/pre-university" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Pre-University</span></a></li></ul></div></li></ul></li><li id="iceMenu_244" class="iceMenuLiLevel_2 mzr-drop parent"><a href="#" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Continuing Education Programmes</span></a><ul class="icesubMenu  sub_level_2" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_160" class="iceMenuLiLevel_3"><a href="/programmes/continuing-programmes/school-of-business" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">School of Business</span></a></li><li id="iceMenu_161" class="iceMenuLiLevel_3"><a href="/programmes/continuing-programmes/school-of-hospitality" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">School of Hospitality</span></a></li><li id="iceMenu_164" class="iceMenuLiLevel_3"><a href="/programmes/continuing-programmes/school-of-development-studies" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">School of Development Studies </span></a></li><li id="iceMenu_163" class="iceMenuLiLevel_3"><a href="/programmes/continuing-programmes/school-of-ict-and-engineering" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">School of ICT &amp; Engineering</span></a></li><li id="iceMenu_162" class="iceMenuLiLevel_3"><a href="/programmes/continuing-programmes/school-of-media-arts-and-design" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">School of Media Arts &amp; Design</span></a></li></ul></div></li></ul></li><li id="iceMenu_245" class="iceMenuLiLevel_2"><a href="/programmes/corporate-training" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Corporate Training</span></a></li><li id="iceMenu_313" class="iceMenuLiLevel_2"><a href="http://www.zetechuniversity.com/docs/ZU-FAQs-A3-POSTER.pdf" target="_blank" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Programmes FAQs</span></a></li></ul></div></li></ul></li><li id="iceMenu_119" class="iceMenuLiLevel_1 mzr-drop parent"><a href="#" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Library</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_196" class="iceMenuLiLevel_2"><a href="/zetech-library/about" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">About</span></a></li><li id="iceMenu_271" class="iceMenuLiLevel_2"><a href="/zetech-library/vision-and-core-values" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Vision and Core Values</span></a></li><li id="iceMenu_272" class="iceMenuLiLevel_2"><a href="/zetech-library/library-services" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Library Services</span></a></li><li id="iceMenu_273" class="iceMenuLiLevel_2"><a href="/zetech-library/opening-hours" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Opening Hours</span></a></li></ul></div></li></ul></li><li id="iceMenu_107" class="iceMenuLiLevel_1 mzr-drop parent"><a href="#" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Student Affairs</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_251" class="iceMenuLiLevel_2"><a href="/schools/dean-of-students" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Dean of Students</span></a></li><li id="iceMenu_142" class="iceMenuLiLevel_2"><a href="/schools/student-union" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Student Union</span></a></li><li id="iceMenu_143" class="iceMenuLiLevel_2"><a href="/schools/clubs-associations" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Clubs &amp; Associations</span></a></li><li id="iceMenu_144" class="iceMenuLiLevel_2"><a href="/schools/sports" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Sports </span></a></li><li id="iceMenu_146" class="iceMenuLiLevel_2"><a href="/schools/student-magazine" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Student Magazine</span></a></li><li id="iceMenu_147" class="iceMenuLiLevel_2"><a href="/schools/accomodation-security" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Accommodation &amp; Security</span></a></li><li id="iceMenu_149" class="iceMenuLiLevel_2"><a href="/schools/student-placement-office" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Student Placement Office</span></a></li><li id="iceMenu_252" class="iceMenuLiLevel_2"><a href="/schools/health-and-counselling" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Health and Counseling</span></a></li></ul></div></li></ul></li><li id="iceMenu_289" class="iceMenuLiLevel_1 mzr-drop parent"><a href="/the-campus-life" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Media</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_232" class="iceMenuLiLevel_2"><a href="/the-campus-life/press-release" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Press Release</span></a></li><li id="iceMenu_233" class="iceMenuLiLevel_2"><a href="/the-campus-life/newsletters" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Newsletters</span></a></li><li id="iceMenu_240" class="iceMenuLiLevel_2"><a href="/the-campus-life/speeches" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Speeches</span></a></li><li id="iceMenu_201" class="iceMenuLiLevel_2"><a href="/the-campus-life/news-events" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">News &amp; Events</span></a></li></ul></div></li></ul></li><li id="iceMenu_115" class="iceMenuLiLevel_1 mzr-drop parent"><a href="#" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Alumni</span></a><ul class="icesubMenu  sub_level_1" style="width:0px"><li><div style="float:left;width:220px; background-color:#ffffff;" class="iceCols"><ul><li id="iceMenu_300" class="iceMenuLiLevel_2"><a href="/alumni/about-the-alumni-association" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">About the Alumni Association</span></a></li><li id="iceMenu_302" class="iceMenuLiLevel_2"><a href="/alumni/membership-and-services" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Membership and Services</span></a></li><li id="iceMenu_301" class="iceMenuLiLevel_2"><a href="/alumni/message-from-the-officials" class=" iceMenuTitle"><span class="icemega_title icemega_nosubtitle">Message from the Officials</span></a></li></ul></div></li></ul></li></ul></div></div>
+
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		var browser_width1 = jQuery(window).width();
+		jQuery("#icemegamenu").find(".icesubMenu").each(function(index){
+			var offset1 = jQuery(this).offset();
+			var xwidth1 = offset1.left + jQuery(this).width();
+			if(xwidth1 >= browser_width1){
+				jQuery(this).addClass("ice_righttoleft");
+			}
+		});
+		
+	})
+	jQuery(window).resize(function() {
+		var browser_width = jQuery(window).width();
+		jQuery("#icemegamenu").find(".icesubMenu").removeClass("ice_righttoleft");
+		jQuery("#icemegamenu").find(".icesubMenu").each(function(index){
+			var offset = jQuery(this).offset();
+			var xwidth = offset.left + jQuery(this).width();
+			
+			if(xwidth >= browser_width){
+				jQuery(this).addClass("ice_righttoleft");
+			}
+		});
+	});
+</script>
+    </nav>
+      </div>
+</div>
+<!-- end Top Header --> 
+<!-- Body -->
+<div class="body">
+  <div class="container"> 
+    <!-- Header -->
+            
+    <div class="row-fluid">
+            <!-- Begin Sidebar -->
+      <div id="sidebar" class="span3">
+        <div class="sidebar-nav">
+          		<div class="moduletableside_navigation">
+					
+<script type="text/javascript">
+var onProcess = false;
+jQuery(document).ready(function($){
+	var acMenu = $("#accordion_menu_113");
+	acMenu.children("li").eq(0).addClass("first");
+	acMenu.children("li").eq(acMenu.children("li").length - 1 ).addClass("last");
+	
+	acMenu.find("a").click(function(){
+		if ($(this).attr("target") == '_blank') {
+			window.open($(this).attr("href"));
+		} else {
+			location = $(this).attr("href");
+		}		
+		return false;
+	});
+	
+	try{
+		var current = $("#accordion_menu_113 li.opened");
+		var root = current.parents('.accordion-menu'), lis = current.parents('li');
+		$('li', root).filter(lis).addClass('opened');
+	} catch(e){
+		console.log(e.message);
+	}
+//	if(current.length != 0){
+//		while(!current.parent().hasClass("accordion-menu")){
+//			if(current.parent().prop("li")){
+//				current.parent().addClass("opened");
+//			}
+//			current = current.parent();	
+//		}
+//	}
+	$("#accordion_menu_113 li.opened > .ul-wrapper").css("display","block");
+	$("#accordion_menu_113 li.opened > .item-wrapper  .menu-button img").attr("src", "http://www.zetech.ac.ke/modules/mod_cinch_menu/tmpl/images/minus.png");
+ 
+	acMenu.find("li").mouseenter(function(){
+		if(onProcess) return true;
+		var ul = $(this).children(".ul-wrapper");
+		if(ul.length){ 
+			onProcess = true;
+			$(this).addClass("opened");
+			$(this).children(".item-wrapper").children(".menu-button").children("img").attr("src", "http://www.zetech.ac.ke/modules/mod_cinch_menu/tmpl/images/minus.png");
+			ul.slideDown(300,function(){
+				onProcess = false;
+			});
+		}
+	}).mouseleave(function(){
+		if(onProcess) return true;
+		if($(this).children(".ul-wrapper").length){ 
+			onProcess = true;
+			$(this).children(".item-wrapper").children(".menu-button").children("img").attr("src", "http://www.zetech.ac.ke/modules/mod_cinch_menu/tmpl/images/plus.png");
+			$(this).children(".ul-wrapper").slideUp(300,function(){
+				onProcess = false;
+			});
+		}
+        onProcess = false;
+		$(this).removeClass("opened");
+	});
+});
+</script>
+				     <ul class='accordion-menu' id='accordion_menu_113'>
+			<li ><div class='item-wrapper' ><div class='menu-button' ><img class='menuicon' alt='' src='http://www.zetech.ac.ke/modules/mod_cinch_menu/tmpl/images/plus.png'/></div><div class='menu-link' ><a  href='/school-of-continuing-program'>School of Continuing Education Program</a></div></div><div class='ul-wrapper'><ul><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/school-of-continuing-program/school-of-hospitality-catering'>School of Hospitality & Catering</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/school-of-continuing-program/school-of-media-arts-design'>School of Media Arts & Design</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/school-of-continuing-program/school-of-ict-engineering'>School of ICT & Engineering</a></div></div></li><li ><div class='item-wrapper' ><div class='menu-button' ></div><div class='menu-link' ><a  href='/school-of-continuing-program/school-of-business'>School of Business</a></div></div></li></ul></div></ul>
+
+		</div>
+	
+          		<div class="moduletable">
+					<h3>Application Form</h3>
+					<div class="application">
+  <form action="/about-zetech/about-the-university" method="POST">
+	      <div class="wrapper-block">
+      <select name="course" required>
+        <option value="">Choose your Program of Interest</option>
+                <option value="1|Bachelor of Business Administration and Management- BBAM
+">Bachelor of Business Administration and Management- BBAM
+</option>
+                <option value="2|Bachelor of Business Information Technology- BBIT
+">Bachelor of Business Information Technology- BBIT
+</option>
+                <option value="3|Bachelor of Science in Information Technology- BSCIT
+">Bachelor of Science in Information Technology- BSCIT
+</option>
+                <option value="4|Diploma in Business Management
+">Diploma in Business Management
+</option>
+                <option value="5|Diploma in Purchasing and Supplies Management
+">Diploma in Purchasing and Supplies Management
+</option>
+                <option value="6|Diploma in Procurement and Logistics Management
+">Diploma in Procurement and Logistics Management
+</option>
+                <option value="7|Diploma in Human Resource Management
+">Diploma in Human Resource Management
+</option>
+                <option value="8|Diploma in Marketing 
+">Diploma in Marketing 
+</option>
+                <option value="9|Diploma in Business and Office Management
+">Diploma in Business and Office Management
+</option>
+                <option value="10|Diploma in Communication and Media Studies (Options: Broadcast, Print, Advertising and Public Relations)
+">Diploma in Communication and Media Studies (Options: Broadcast, Print, Advertising and Public Relations)
+</option>
+                <option value="11|Diploma in Community Development
+">Diploma in Community Development
+</option>
+                <option value="12|Diploma in Community Health
+">Diploma in Community Health
+</option>
+                <option value="13|Diploma in Counseling Psychology
+">Diploma in Counseling Psychology
+</option>
+                <option value="14|Diploma in Project Management
+">Diploma in Project Management
+</option>
+                <option value="15|Diploma in Early Childhood Development and Education
+">Diploma in Early Childhood Development and Education
+</option>
+                <option value="16|Diploma in Information Technology
+">Diploma in Information Technology
+</option>
+                <option value="17|Diploma in Business Information Technology
+">Diploma in Business Information Technology
+</option>
+                <option value="18|Diploma in Computer Science
+">Diploma in Computer Science
+</option>
+                <option value="19|Diploma in Electrical and Electronics Engineering
+">Diploma in Electrical and Electronics Engineering
+</option>
+                <option value="20|Diploma in Electrical Engineering (Power Option)
+">Diploma in Electrical Engineering (Power Option)
+</option>
+                <option value="21|Diploma in Hospitality Management
+">Diploma in Hospitality Management
+</option>
+                <option value="22|Diploma in Nutrition and Health
+">Diploma in Nutrition and Health
+</option>
+                <option value="23|Diploma in Tourism Management
+">Diploma in Tourism Management
+</option>
+                <option value="24|Diploma in Tour Guiding and Travel Management
+">Diploma in Tour Guiding and Travel Management
+</option>
+                <option value="25|Certificate in Business Management
+">Certificate in Business Management
+</option>
+                <option value="26|Certificate in Purchasing, Supplies and Logistics Management
+">Certificate in Purchasing, Supplies and Logistics Management
+</option>
+                <option value="27|Certificate in Journalism and Media Studies
+">Certificate in Journalism and Media Studies
+</option>
+                <option value="28|Certificate in Early Childhood Development and Education
+">Certificate in Early Childhood Development and Education
+</option>
+                <option value="29|Certificate in Development Studies
+">Certificate in Development Studies
+</option>
+                <option value="30|Certificate in Information Technology
+">Certificate in Information Technology
+</option>
+                <option value="31|Certificate in Electrical and Electronics Engineering
+">Certificate in Electrical and Electronics Engineering
+</option>
+                <option value="32|Certificate in Hospitality and Tourism Management
+">Certificate in Hospitality and Tourism Management
+</option>
+                <option value="33|Certificate in Food Science and Nutrition
+">Certificate in Food Science and Nutrition
+</option>
+                <option value="34|Bridging Certificate in English
+">Bridging Certificate in English
+</option>
+                <option value="35|Bridging Certificate in Mathematics
+">Bridging Certificate in Mathematics
+</option>
+              </select>
+    </div><br /><br />
+      <div class="wrapper-block">
+      <label for="name">Full Name:</label>
+      <input id="name" type="text" name="name" value="" required="required" />
+      <span class="error"> </div>
+    <div class="wrapper-block">
+      <label for="email">Email:</label>
+      <input id="email" type="email" name="email" value="" class="ccm-input-text" required="required" />
+      <span class="error"> </div>
+    <div class="wrapper-block">
+      <label for="phone">Phone:</label>
+      <input id="phone" type="text" name="phone" value="" required="required" />
+      <span class="error"> </div>
+    <div class="wrapper-block">
+      <label for="grade">KCSE Grade:</label>
+      <input id="grade" type="text" name="grade" value=""  class="ccm-input-text" required="required" />
+      <span class="error"> </div>
+    <div class="wrapper-block">
+      <label for="maths">Maths Grade:</label>
+      <input id="maths" type="text" name="maths" value=""  class="ccm-input-text" required="required" />
+      <span class="error"> </div>
+    <div class="wrapper-block">
+      <label for="english">English Grade:</label>
+      <input id="englis" type="text" name="english" value=""  class="ccm-input-text" required="required" />
+      <span class="error"> </div>
+    <p id="submit-wrapper">
+      <input id="submit" class="btn btn-primary" type="submit" name="submit" style="float:left; margin-left:0px;" value="Submit">
+    </p>
+  </form>
+</div>
+
+		</div>
+	
+          		<div class="moduletable">
+					<div class="random-image"><a href="/images/youtube/Zetech-University.mp4" class="modal_link" data-modal-inner-width="800" data-modal-inner-height="500" data-modal-title="Zetech University" data-modal-iframe="true">
+<!--<a href="/images/youtube/Zetech-University.mp4">-->
+	<img src="/images/home/Virtual-Tour.jpg" alt="Virtual-Tour.jpg" width="300" height="250" /></a>
+<!--</a>-->
+</div>		</div>
+	
+          <div class="onlineapplication">
+            
+          </div>
+          
+        </div>
+      </div>
+      <!-- End Sidebar -->
+            <main id="content" role="main" class="span9"> 
+        <!-- Begin Content -->
+        
+        
+        
+<div id="system-message-container">
+<div id="system-message">
+</div>
+</div>
+        <div class="item-page">
+			<div class="page-header">
+		<h2>
+															About The University									</h2>
+	</div>
+							
+	
+		
+								<p style="text-align: justify;"><img src="/images/about-the-university.jpg" alt="" /></p>
+<p style="text-align: justify;">Zetech University is the premier university for the education of Technology, Science and Business programmes, offering an exceptional learning experience to thousands of youth from Kenya and beyond. With a highly experienced and trained faculty, administrative and support staff members, Zetech provides a great variety of opportunities for individuals with diverse backgrounds.</p>
+<p style="text-align: justify;">Today, Zetech University is robustly equipping graduates with skills to invent new technologies for the future. The quality of our education continues to create our reputation for excellence. </p>
+<p style="text-align: justify;">At Zetech University, students experience some rare opportunities to prepare for their future careers. As an educational centre to thousands of immensely talented intellectuals, Zetech provides the ideal environment and academic programmes to give students the opportunity to invent and shape the future of our society through meaningful and exciting technological approaches.</p>
+<p style="text-align: justify;"> </p>
+	
+						 </div>
+
+        <div class="zetechnews">
+          
+        </div>
+        <div class="zetechgallery">
+          
+        </div>
+        <div>
+          <div class="onlineapplication">
+            
+          </div>
+          <div class="zetechvideo">
+            
+          </div>
+        </div>
+        <!-- End Content --> 
+      </main>
+          </div>
+    <div class="breadcrumblink">
+      
+    </div>
+         <div id="s2ocialMedia">
+    	<div class="socialmedia">
+	<ul>
+		<li>
+		
+            <a href="https://www.linkedin.com/company/zetech-college" target="_BLANK" title="Follow our Company on Linkedin">
+				<img src="/images/social-media/32-linkedin.png" alt="Follow our Company on Linkedin" />
+			</a>
+		</li>
+		<li>
+		     <a href="https://www.youtube.com/user/zetechcollege" target="_BLANK" title="Like our Youtube Channel">
+				<img src="/images/social-media/32-youtube-2.png" alt="Like our Youtube Channel" />
+			</a>
+		</li>
+		<li>
+			<a href="https://twitter.com/ZetechUni" target="_BLANK" title="Follow us on Twitter">
+				<img src="/images/social-media/32-twitter.png" alt="Follow us on Twitter" />
+			</a>
+		</li>
+		<li>
+			<a href="https://www.facebook.com/ZetechUniversity" target="_BLANK" title="Like us on Facebook">
+				<img src="/images/social-media/32-facebook.png" alt="Facebook Link" />
+			</a>
+		</li>
+        	<li>
+			<a href="http://instagram.com/zetech_university" target="_BLANK" title="Follow us on Instagram">
+				<img src="/images/social-media/instagram.png" alt="Instagram Link" />
+			</a>
+		</li>
+        	<li>
+			<a href="https://www.flickr.com/search/?q=zetech+college" target="_BLANK" title="Follow us on Flickr">
+				<img src="/images/social-media/32-flickr.png" alt="Flickr Link" />
+			</a>
+		</li>
+	</ul>
+</div>
+    </div>
+        </div>
+</div>
+<!-- Footer -->
+<footer class="footer" role="contentinfo">
+  <div class="container">
+    <hr />
+    <div class="footerlinks">
+      <div class="pull-right footer">
+        <ul class="nav menu nav-footer">
+<li class="item-109"><a href="/" >Home</a></li><li class="item-112"><a href="/careers" >Careers</a></li><li class="item-120"><a href="/contacts" >Contact Us</a></li><li class="item-203"><a href="/faqs" >FAQs</a></li><li class="item-122"><a href="/terms-of-use" >Terms of Use</a></li><li class="item-123"><a href="/disclaimer-notice" >Disclaimer Notice</a></li><li class="item-124"><a href="/privacy-policy" >Privacy Policy</a></li><li class="item-310"><a href="/email-policy" >Email Policy</a></li></ul>
+
+              </div>
+      <div>&copy; Zetech University 2015</div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

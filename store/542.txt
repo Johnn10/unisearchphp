@@ -1,0 +1,875 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- jsn_epic_free 5.1.0 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	  <base href="http://www.ku.ac.ke/sports/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Kenyatta University  Sports</title>
+  <link href="/sports/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/sports/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/sports/templates/jsn_epic_free/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.ku.ac.ke/bookshop" rel="canonical" />
+  <link rel="stylesheet" href="/sports/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.ku.ac.ke/sports/modules/mod_bt_contentslider/tmpl/css/btcontentslider.css" type="text/css" />
+  <link rel="stylesheet" href="/sports/components/com_imageshow/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/sports/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/sports/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/sports/templates/jsn_epic_free/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/sports/templates/jsn_epic_free/css/colors/blue.css" type="text/css" />
+  <link rel="stylesheet" href="/sports/templates/jsn_epic_free/css/styles/business.css" type="text/css" />
+  <style type="text/css">
+#btcontentslider149 .bt_handles_num{top: 0px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}
+	#jsn-page {
+		width: 960px;
+	}
+	#jsn-pos-promo-left {
+		float: left;
+		width: 23%;
+		left: -100%;
+	}
+	#jsn-pos-promo {
+		width: 100%;
+		left: 0;
+	}
+	#jsn-pos-promo-right {
+		float: right;
+		width: 23%;
+	}
+
+		#jsn-content_inner { right: 77%; }
+		#jsn-content_inner1 { left: 77%; }
+	
+		#jsn-content_inner2 { left: 77%; }
+		#jsn-content_inner3 { right: 77%; }
+	
+	#jsn-leftsidecontent {
+		float: left;
+		width: 23%;
+		left: -54%;
+	}
+	#jsn-maincontent {
+		float: left;
+		width: 54%;
+		left: 23%;
+	}
+	#jsn-rightsidecontent {
+		float: right;
+		width: 23%;
+	}
+
+	#jsn-pos-innerleft {
+		float: left;
+		width: 28%;
+		left: -100%;
+	}
+	#jsn-centercol {
+		float: left;
+		width: 100%;
+		left: 0;
+	}
+	#jsn-pos-innerright {
+		float: right;
+		width: 28%;
+	}
+
+  </style>
+  <script src="/sports/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/sports/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/sports/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/sports/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/sports/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="http://www.ku.ac.ke/sports/modules/mod_bt_contentslider/tmpl/js/jquery.min.js" type="text/javascript"></script>
+  <script src="http://www.ku.ac.ke/sports/modules/mod_bt_contentslider/tmpl/js/slides.js" type="text/javascript"></script>
+  <script src="http://www.ku.ac.ke/sports/modules/mod_bt_contentslider/tmpl/js/default.js" type="text/javascript"></script>
+  <script src="http://www.ku.ac.ke/sports/modules/mod_bt_contentslider/tmpl/js/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="/sports/plugins/system/jsntplframework/assets/joomlashine/js/noconflict.js" type="text/javascript"></script>
+  <script src="/sports/plugins/system/jsntplframework/assets/joomlashine/js/utils.js" type="text/javascript"></script>
+  <script src="/sports/templates/jsn_epic_free/js/jsn_template.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+				JSNTemplate.initTemplate({
+					templatePrefix			: "jsn_epic_free_",
+					templatePath			: "/sports/templates/jsn_epic_free",
+					enableRTL				: false,
+					enableGotopLink			: true,
+					enableMobile			: false,
+					enableMobileMenuSticky	: true
+				});
+			
+  </script>
+
+</head>
+<body id="jsn-master" class="jsn-textstyle-business jsn-textsize-medium jsn-color-blue jsn-direction-ltr jsn-specialfont jsn-desktop  jsn-joomla-25 jsn-com-content jsn-view-featured jsn-itemid-101 jsn-homepage">
+	<div id="jsn-page">
+			<div id="jsn-header">
+			<div id="jsn-logo">
+			<a href="/sports/index.php" title=""><img src="/sports/templates/jsn_epic_free/images/logo.png" alt="" id="jsn-logo-desktop" /></a>			</div>
+			<div id="jsn-headerright">
+							<div id="jsn-pos-top">
+					<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<ul class="menu-divmenu">
+<li  class="first">		<a class="" href="https://www.google.com/a/ku.ac.ke/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/a/ku.ac.ke/&ss=1&ltmpl=default&ltmplcache=2" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" >
+			<span>
+			Corporate Mail			</span>
+		</a>	
+</li><li  class="last">		<a class="" href="http://support.ku.ac.ke/" target="_blank" >
+			<span>
+			Online Support			</span>
+		</a>
+</li></ul><div class="clearbreak"></div></div></div></div>
+					<div class="clearbreak"></div>
+				</div>
+						</div>
+			<div class="clearbreak"></div>
+		</div>
+		<div id="jsn-body">
+					<div id="jsn-menu">
+							<div id="jsn-pos-mainmenu">
+					<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<ul class="menu-mainmenu">
+<li  class="current active first"><a class="current" href="/sports/" title="Start here..." >
+	<span>
+		<span class="jsn-menutitle">Home</span><span class="jsn-menudescription">Start here...</span>	</span>
+</a></li><li ><a  href="/sports/index.php/about-ci.html" >
+	<span>
+		About Us.	</span>
+</a></li><li ><a  href="/sports/index.php/staff-profiles.html" >
+	<span>
+		Staff Profiles	</span>
+</a></li><li ><a  href="/sports/index.php/activities-sports-clubs.html" >
+	<span>
+		Activities 	</span>
+</a></li><li ><a  href="/sports/index.php/facilities.html" >
+	<span>
+		Facilities	</span>
+</a></li><li ><a  href="/sports/index.php/event-calendar.html" >
+	<span>
+		Events Calendar	</span>
+</a></li><li ><a  href="/sports/index.php/achievements.html" >
+	<span>
+		Achievements	</span>
+</a></li><li ><a  href="/sports/index.php/competitions.html" >
+	<span>
+		Competitions	</span>
+</a></li><li  class="last"><a  href="/sports/index.php/our-contacts.html" >
+	<span>
+		Our Contacts	</span>
+</a></li></ul><div class="clearbreak"></div></div></div></div>
+				</div>
+			            <div class="clearbreak"></div>
+			</div>
+					<div id="jsn-content-top" class="">
+				<div id="jsn-promo">
+			                    <div id="jsn-pos-promo">
+                        <div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><div class="jsn-modulecontent">
+        <link rel="stylesheet" href="http://www.ku.ac.ke/sports/modules/mod_asnivo_slider/css/styles.css" type="text/css" media="screen" />
+		
+         
+            <script type="text/javascript" src="http://www.ku.ac.ke/sports/modules/mod_asnivo_slider/scripts/jquery-1.8.0.min.js"></script>    
+         
+<style type="text/css">
+
+.slider
+{
+    background-image: url(http://www.ku.ac.ke/sports/images/stories/images/background.jpg);
+    border-radius : 0px;	
+}
+
+#as_slideshow_146{
+    width: 960px;
+    height: 370px;
+    margin: 2px 0px 2px 0px;
+	padding: 0px;
+    background-color: transparent;
+    background-image: url(http://www.ku.ac.ke/sports/images/stories/images/background.jpg);
+    background-repeat: no-repeat;
+    border: 0px solid #;
+    border-radius : 0px;
+	box-shadow: 1px 1px 2px #;
+		
+	float: none;
+	position: relative;
+	overflow: hidden;
+}
+
+#as_slideshow_146 #as_slider_146 
+{
+    left: 35px;
+    top: 10px; 
+    border-radius : 0px;	  
+    border: 0px solid #;	
+	box-shadow: 1px 1px 2px #;	
+	
+    width: 0;
+    height: 0;
+    margin: 0;
+	overflow: hidden; 
+}
+
+#as_slideshow_146 #as_slider_146 .nivoSlider 
+{
+	position: relative;
+	background: #fff url('../images/loading.gif') no-repeat 50% 50%;
+    -webkit-box-shadow: 0px 1px 5px 0px #4a4a4a;
+    box-shadow: 0px 1px 5px 0px #4a4a4a;
+}
+
+#as_slideshow_146 #as_slider_146 .nivoSlider img 
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	display: none;
+}
+
+#as_slideshow_146 #as_slider_146 .nivoSlider a 
+{
+	border: 0;
+	display: block;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-slice 
+{
+	display: block;
+	position: absolute;
+	z-index: 5;
+	height: 100%;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-box 
+{
+	display: block;
+	position: absolute;
+	z-index: 5;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-controlNav 
+{
+    left: 10%;
+    bottom: 3%;
+    display: block;
+	position: absolute;
+    margin-left: -35px;
+	z-index: 9;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-controlNav a 
+{
+	position: relative;
+	cursor: pointer;
+	display: block;
+	width: 14px;
+	height: 22px;
+	background: url('http://www.ku.ac.ke/sports/modules/mod_asnivo_slider/images/bullets.png') no-repeat;	
+	text-indent: -9999px;
+	border: 0;
+	margin-right: 3px;
+	float: left;	
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-controlNav a.active 
+{
+	font-weight: bold;
+	background-position: 0 -22px;	
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-caption
+{
+    width: 380px;
+    height: 35px;
+    padding: 10px;
+    line-height: 15px;
+    left: 55px;
+    top: 280px;
+    background-color: #007ACC;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: bold; 
+    border-radius: 12px; 
+    border: 0px solid #;  
+	
+	position: absolute;
+	z-index: 8;	
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-caption p
+{
+    color: #FFFFFF;	
+    font-size: 13px;
+    font-weight: bold; 
+    font-style: normal; 
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-caption h1,
+#as_slideshow_146 #as_slider_146 .nivo-caption h2,
+#as_slideshow_146 #as_slider_146 .nivo-caption h3
+{
+    font-size: 17px;
+    color: #FFFFFF;
+    margin: 0px 0px 0px;
+    padding: 0px 0px 7px 0px;	
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-caption p 
+{
+	margin: 0px;
+	text-align: left;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-caption a 
+{
+	display: inline !important;
+    color: #fff;
+    border-bottom: 1px dotted #fff;	
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-caption a:hover 
+{
+    color: #fff;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-html-caption 
+{
+    display: none;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-directionNav a 
+{
+    display: block;
+	width: 30px;
+	height: 106px;
+	position: absolute;
+	top: 33%;
+	z-index: 9;
+	cursor: pointer;	
+	background: url('http://www.ku.ac.ke/sports/modules/mod_asnivo_slider/images/arrows.png') no-repeat;
+	text-indent: -9999px;
+	border: 0;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-prevNav 
+{
+	left: 0px;
+}
+
+#as_slideshow_146 #as_slider_146 a.nivo-prevNav 
+{
+	left: 15px;
+}
+
+#as_slideshow_146 #as_slider_146 .nivo-nextNav 
+{
+	right: 0px;
+}
+
+#as_slideshow_146 #as_slider_146 a.nivo-nextNav 
+{
+	background-position: -30px 0;
+	right: 15px;
+}
+
+#as_slideshow_146 .nivoSlider a.nivo-imageLink 
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	z-index: 6;
+}
+
+
+</style>
+    <div id="as_slideshow_146">
+        <div class="as_slider-wrapper">
+            <div id="as_slider_146" class="nivoSlider">
+                <img src="http://www.ku.ac.ke/sports/images/stories/gallery/ku_sports1.jpg" title="" /><img src="http://www.ku.ac.ke/sports/images/stories/gallery/ku_sports2.jpg" title="" /><img src="http://www.ku.ac.ke/sports/images/stories/gallery/ku_sports3.jpg" title="" /><img src="http://www.ku.ac.ke/sports/images/stories/gallery/ku_sports4.jpg" title="" />                            
+            </div>
+        </div>   
+            
+        <script type="text/javascript" src="http://www.ku.ac.ke/sports/modules/mod_asnivo_slider/scripts/jquery.slider.pack.js"></script>  
+        
+        <script type="text/javascript">
+            jQuery.noConflict();
+            jQuery(window).load(function() {
+                jQuery('#as_slider_146').nivoSlider({
+                effect: 'fade',
+                slices: 12,
+                boxCols: 8,
+                captionOpacity: 0.8,
+                boxRows: 4,
+                animSpeed: 1000,
+                pauseTime: 4000                });
+            });
+        </script>
+    </div>
+
+
+<div class="clearbreak"></div></div></div></div></div></div>
+                    </div>
+							<div class="clearbreak"></div>
+				</div>
+						</div>
+					<div id="jsn-content" class="jsn-hasleft jsn-hasright ">
+				<div id="jsn-content_inner"><div id="jsn-content_inner1"><div id="jsn-content_inner2"><div id="jsn-content_inner3"><div id="jsn-content_inner4"><div id="jsn-content_inner5"><div id="jsn-content_inner6"><div id="jsn-content_inner7">
+					<div id="jsn-maincontent">
+						<div id="jsn-centercol">
+							<div id="jsn-centercol_inner">
+										<div id="jsn-breadcrumbs">
+									<div id="jsn-pos-breadcrumbs" class="">
+<span class="breadcrumbs pathway clearafter">
+<span class="current">Home</span></span>
+</div>
+								</div>
+										<div id="jsn-mainbody-content" class=" jsn-hasmainbody">
+											<div id="jsn-mainbody">
+										
+<div id="system-message-container">
+</div>
+										<div class="com-content ">
+<div class="front-page-blog">
+		
+			<div class="jsn-leading">
+			<div class="jsn-leading-0">
+			
+<div class="jsn-article">
+	<h2 class="contentheading">
+					Welcome Sports and Games Directorate			</h2>
+
+
+
+		
+		<div class="jsn-article-toolbar">
+				<ul class="jsn-article-tools">
+									<li class="jsn-article-print-button"><a href="/sports/index.php/47-template-details/general/15-welcome-sports-and-games-directorate.html?tmpl=component&amp;print=1&amp;page=" class="jsn-article-print-button" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">&nbsp;</a></li>
+													<li class="jsn-article-email-button"><a href="/sports/index.php/component/mailto/?tmpl=component&amp;template=jsn_epic_free&amp;link=f2d181d29a5c5ca43478ae131fcb0d204cb8b512" class="jsn-article-email-button" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;">&nbsp;</a></li>
+										</ul>
+				
+		<div class="clearbreak"></div>
+	</div>
+		
+	
+	<h3 style="color: #333333; font-family: 'Trebuchet MS'; line-height: 16.899999618530273px; text-align: center;">Welcome to Kenyatta University Sports<br />A vital part of the University Co-Curriculum Activities<span style="line-height: 1.5;">&nbsp;</span></h3>
+<table class="contentpaneopen" style="border-collapse: collapse; margin-left: 5px; color: #333333; font-family: 'Trebuchet MS'; font-size: 13.333333969116211px; line-height: 16.899999618530273px;">
+<tbody>
+<tr>
+<td style="font-family: 'Trebuchet MS'; font-size: 13px; color: #333333; line-height: 1.3em; padding: 0px;" valign="top">
+<table class="contentpaneopen" style="border-collapse: collapse; margin-left: 5px; color: #333333; font-size: 13.333333969116211px; line-height: 16.899999618530273px;" border="0">
+<tbody>
+<tr>
+<td style="font-family: 'Trebuchet MS'; font-size: 13px; color: #333333; line-height: 1.3em; padding: 0px;" valign="top">
+<p style="margin-top: 0px; line-height: 22px;">The department is mandated to organize sports, games and recreational exercise activities in Kenyatta University; this department leads in sports amongst Kenyan Universities as well as in the region. It’s been ranked best in Kenya for the past 8 years</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><div id="btcontentslider149" style="display:none;width:auto" class="bt-cs">
+		<a class="prev" href="#">Prev</a><a class="next" href="#">Next</a> 
+			<div class="slides_container" style="width:auto;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="News"
+						href="/sports/index.php/33-news.html"> News					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="Kenyatta University shines at the 9th Edition of Eastern Africa University Games."
+						href="/sports/index.php/33-news/108-kenyatta-university-shines-at-the-9th-edition-of-eastern-africa-university-games.html"> Kenyatta University shines at the 9th Edition of... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Kenyatta University shines at the 9th Edition of Eastern Africa University Games." href="/sports/index.php/33-news/108-kenyatta-university-shines-at-the-9th-edition-of-eastern-africa-university-games.html">
+						<img class="hovereffect" src="http://www.ku.ac.ke/sports/cache/mod_bt_contentslider/eed329a324681529e710c5a5f772f4b2-certOfAppre.jpg" alt="Kenyatta University shines at the 9th Edition of Eastern Africa University Games."  style="width:180px;" title="Kenyatta University shines at the 9th Edition of Eastern Africa University Games." />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					Kenyatta University presented a team of 120 students to the Bi annual Games which were held at Ugand...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Kenyatta University shines at the 9th Edition of Eastern Africa University Games."
+							href="/sports/index.php/33-news/108-kenyatta-university-shines-at-the-9th-edition-of-eastern-africa-university-games.html"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="News"
+						href="/sports/index.php/33-news.html"> News					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="WEEKEND SPORTS FIXTURES RESULTS :6th October"
+						href="/sports/index.php/33-news/107-weekend-sports-fixtures-results-6th-october.html"> WEEKEND SPORTS FIXTURES RESULTS :6th October </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="WEEKEND SPORTS FIXTURES RESULTS :6th October" href="/sports/index.php/33-news/107-weekend-sports-fixtures-results-6th-october.html">
+						<img class="hovereffect" src="http://www.ku.ac.ke/sports/cache/mod_bt_contentslider/ebdd74da25474428a7a65c32e9452074-no-image.jpg" alt="WEEKEND SPORTS FIXTURES RESULTS :6th October"  style="width:180px;" title="WEEKEND SPORTS FIXTURES RESULTS :6th October" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					Kenyatta university teams took part in University leagues held at KU grounds and in National federat...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="WEEKEND SPORTS FIXTURES RESULTS :6th October"
+							href="/sports/index.php/33-news/107-weekend-sports-fixtures-results-6th-october.html"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="News"
+						href="/sports/index.php/33-news.html"> News					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="RESULTS FROM THE UNIVERSITIES LEAGUES"
+						href="/sports/index.php/33-news/106-results-from-the-universities-leagues.html"> RESULTS FROM THE UNIVERSITIES LEAGUES </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="RESULTS FROM THE UNIVERSITIES LEAGUES" href="/sports/index.php/33-news/106-results-from-the-universities-leagues.html">
+						<img class="hovereffect" src="http://www.ku.ac.ke/sports/cache/mod_bt_contentslider/ebdd74da25474428a7a65c32e9452074-no-image.jpg" alt="RESULTS FROM THE UNIVERSITIES LEAGUES"  style="width:180px;" title="RESULTS FROM THE UNIVERSITIES LEAGUES" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					&nbsp;
+SPORTS FIXTURES RESULTS: KENYATTA UNIVERSITY TEAMS POST IMPRESSIVE RESULTS IN THE UNIVERSITI...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="RESULTS FROM THE UNIVERSITIES LEAGUES"
+							href="/sports/index.php/33-news/106-results-from-the-universities-leagues.html"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="News"
+						href="/sports/index.php/33-news.html"> News					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="2014-2015 KUSA NAIROBI PROVINCE FIRST ROUND LEAGUES MATCHES "
+						href="/sports/index.php/33-news/105-the-2014-2015-kusa-nairobi-province-first-round-leagues-matches.html"> 2014-2015 KUSA NAIROBI PROVINCE FIRST ROUND LEAGUES MATCHES... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="2014-2015 KUSA NAIROBI PROVINCE FIRST ROUND LEAGUES MATCHES " href="/sports/index.php/33-news/105-the-2014-2015-kusa-nairobi-province-first-round-leagues-matches.html">
+						<img class="hovereffect" src="http://www.ku.ac.ke/sports/cache/mod_bt_contentslider/3def1e6d76004c7ed1372ff0ea71f6e7-karate.jpg" alt="2014-2015 KUSA NAIROBI PROVINCE FIRST ROUND LEAGUES MATCHES "  style="width:180px;" title="2014-2015 KUSA NAIROBI PROVINCE FIRST ROUND LEAGUES MATCHES " />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					Kenya University Sports Association league (KUSA) first round league matches are set to kick off on ...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="2014-2015 KUSA NAIROBI PROVINCE FIRST ROUND LEAGUES MATCHES "
+							href="/sports/index.php/33-news/105-the-2014-2015-kusa-nairobi-province-first-round-leagues-matches.html"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="News"
+						href="/sports/index.php/33-news.html"> News					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="LAUNCHING OF THE SPORTS COACHES ACADEMY"
+						href="/sports/index.php/33-news/104-launch-of-sport-academy-for-coaches.html"> LAUNCHING OF THE SPORTS COACHES ACADEMY </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="LAUNCHING OF THE SPORTS COACHES ACADEMY" href="/sports/index.php/33-news/104-launch-of-sport-academy-for-coaches.html">
+						<img class="hovereffect" src="http://www.ku.ac.ke/sports/cache/mod_bt_contentslider/e8ae40995931e11fc05418fd5719d5fe-sportslaunch.jpg" alt="LAUNCHING OF THE SPORTS COACHES ACADEMY"  style="width:180px;" title="LAUNCHING OF THE SPORTS COACHES ACADEMY" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					The Sports Coaches Academy whose mission is to train and develop high level manpower in sports coach...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="LAUNCHING OF THE SPORTS COACHES ACADEMY"
+							href="/sports/index.php/33-news/104-launch-of-sport-academy-for-coaches.html"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="News"
+						href="/sports/index.php/33-news.html"> News					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="Sports 30th May 2014"
+						href="/sports/index.php/33-news/91-sports-30th-may-2014.html"> Sports 30th May 2014 </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Sports 30th May 2014" href="/sports/index.php/33-news/91-sports-30th-may-2014.html">
+						<img class="hovereffect" src="http://www.ku.ac.ke/sports/cache/mod_bt_contentslider/b34a5f40ecffeb05703d3d1c9a53eb65-volley_ball_1.jpg" alt="Sports 30th May 2014"  style="width:180px;" title="Sports 30th May 2014" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					KU teams are scheduled to take part in the KUSA central province championships to be held in Meru on...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Sports 30th May 2014"
+							href="/sports/index.php/33-news/91-sports-30th-may-2014.html"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+																	<a class="bt-category" target="_parent"
+						title="News"
+						href="/sports/index.php/33-news.html"> News					</a>
+					<br />
+					
+										<a class="bt-title" target="_parent"
+						title="Sports fixtures"
+						href="/sports/index.php/33-news/90-sports-fixtures.html"> Sports fixtures </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Sports fixtures" href="/sports/index.php/33-news/90-sports-fixtures.html">
+						<img class="hovereffect" src="http://www.ku.ac.ke/sports/cache/mod_bt_contentslider/6db95622da6adca20493603766c865ba-basketball_1.jpg" alt="Sports fixtures"  style="width:180px;" title="Sports fixtures" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					
+
+
+
+
+ Sports fixtures results dates 22nd -23rd September
+
+
+
+In Swimming KU was ranked 5th o...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Sports fixtures"
+							href="/sports/index.php/33-news/90-sports-fixtures.html"> Read more						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
+	btcModuleIds.push(149);
+	btcModuleOpts.push({
+			slideEasing : 'easeInCubic',
+			fadeEasing : 'easeInCubic',
+			effect: 'slide,slide',
+			preloadImage: 'http://www.ku.ac.ke/sports//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatePagination: true,
+			play: 5000,						
+			hoverPause: true,	
+			slideSpeed : 500,
+			autoHeight:true,
+			fadeSpeed : 500,
+			equalHeight:true,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationClass: 'bt_handles_num',
+			generateNextPrev:false,
+			prependPagination:true,
+			touchScreen:0	});
+</script>
+
+</p>	
+		
+		
+	</div>
+	 
+	<div class="article_separator"></div>
+				</div>
+				</div>
+		
+			
+		
+	
+	
+</div>
+</div>
+
+									</div>
+										</div>
+									</div>
+						</div>
+							<div class="clearbreak"></div></div>
+							<div id="jsn-leftsidecontent">
+						<div id="jsn-leftsidecontent_inner">
+							<div id="jsn-pos-left">
+								<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Sports Clubs/Disciplines </span></h3><div class="jsn-modulecontent">
+<div  >
+	<p><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Athletics (Track &amp; Field)</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Badminton</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Baseball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Basketball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Body building</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Boxing</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Chess</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Darts</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Football</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Goalball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Handball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Hockey</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Judo</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Karate</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Netball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Rollball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Rugby</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Scrabble</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Scrabble</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Softball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Squash</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Swimming</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Table Tennis&nbsp;</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Taekwondo</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Tennis</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Volleyball</span><br style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" /><img style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;" src="http://www.ku.ac.ke/sports/images/stories/pictures/soccerball_icon.png" alt="" border="0" /><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; line-height: 15.807999610900879px;">&nbsp;Woodball</span></p></div><div class="clearbreak"></div></div></div></div></div></div>
+							</div>
+						</div>
+					</div>
+							<div id="jsn-rightsidecontent">
+						<div id="jsn-rightsidecontent_inner">
+							<div id="jsn-pos-right">
+								<div class="box-blue jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div><div><h3 class="jsn-moduletitle"><span class="jsn-moduleicon">Quick Links</span></h3><div class="jsn-modulecontent">
+<ul class="menu-treemenu">
+<li  class="first">	<a  href="http://universitysportskenya.co.ke/index.php?option=com_content&view=article&id=16&Itemid=36" >
+		<span>
+		KUSA		</span>
+	</a>
+	</li><li >	<a  href="http://www.fisu.net/en/FISU-homepage-3137.html" >
+		<span>
+		FISU		</span>
+	</a>
+	</li><li >	<a  href="http://africauniversitysports.com/" >
+		<span>
+		FASU		</span>
+	</a>
+	</li><li  class="last">	<a  href="#" >
+		<span>
+		EAUSF		</span>
+	</a>
+	</li></ul><div class="clearbreak"></div></div></div></div></div></div>
+							</div>
+						</div>
+					</div>
+						<div class="clearbreak"></div></div></div></div></div></div></div></div></div>
+			</div>
+				</div>
+					<div id="jsn-footer">
+				<div id="jsn-footermodules" class="jsn-modulescontainer jsn-modulescontainer1">
+								<div id="jsn-pos-footer">
+						<div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<div  >
+	<p>Kenyatta University ...ISO 9001,2008 Certified.</p>
+<p>Copyright © 2014 <a href="http://www.ku.ac.ke">Kenyatta University</a>. All rights reserved.&nbsp;</p></div><div class="clearbreak"></div></div></div></div><div class=" jsn-modulecontainer"><div class="jsn-modulecontainer_inner"><div class="jsn-modulecontent">
+<ul class="menu-divmenu">
+<li  class="first">	<a  href="http://www.ku.ac.ke/bookshop" >
+		<span>
+		Home		</span>
+	</a>
+	</li><li  class="last">	<a  href="http://www.ku.ac.ke/" >
+		<span>
+		KU Main Site		</span>
+	</a>
+	</li></ul><div class="clearbreak"></div></div></div></div>
+					</div>
+								<div class="clearbreak"></div>
+				</div>
+			</div>
+			</div>
+	<div id="jsn-brand">
+		<strong>Kenyatta University Confucius Institute</strong>
+	</div>
+
+</body>
+</html>

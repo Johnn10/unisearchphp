@@ -1,0 +1,1150 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+    <base href="http://www.cuea.edu/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="About Cuea" />
+  <meta name="description" content="Catholic University of Eastern Africa is one of the leading universities in Kenya." />
+  <meta name="generator" content="" />
+  <title>The Catholic University of Eastern Africa - Welcome | Karibu</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/lightbreeze-red/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.cuea.edu/index.php/component/search/?format=opensearch" rel="search" title="Search The Catholic University of Eastern Africa" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="http://www.cuea.edu//plugins/system/jatypo/jatypo/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.cuea.edu//plugins/system/jatypo/jatypo/typo/typo.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.cuea.edu/modules/mod_tabs_gk4/styles/style2.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.cuea.edu/modules/mod_bt_contentslider/tmpl/css/btcontentslider.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.cuea.edu/modules/mod_news_pro_gk4/interface/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.cuea.edu/modules/mod_highlighter_gk4/interface/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.cuea.edu/modules/mod_image_show_gk4/styles/gk_black_and_white/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.cuea.edu/plugins/system/gk_ajax_search/gk_ajax_search.css" type="text/css" />
+  <style type="text/css">
+#gkTab-70 .gkTabContainer0, #gkTab-70 .gkTabContainer1, #gkTab-70 .gkTabContainer2 { height: 300px; }#gkHighlighterGK4-gkHighlight_50 .gkHighlighterInterface span.text { color: #FFFfFf; } #gkHighlighterGK4-gkHighlight_50 .gkHighlighterInterface { background-color: #6D0713; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; }
+  </style>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu//plugins/system/jatypo/jatypo/assets/script.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/modules/mod_imgscrawler/crawler.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_tabs_gk4/scripts/engine.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_bt_contentslider/tmpl/js/jquery.min.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_bt_contentslider/tmpl/js/slides.min.jquery.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_bt_contentslider/tmpl/js/default.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_bt_contentslider/tmpl/js/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_news_pro_gk4/interface/scripts/engine.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_highlighter_gk4/interface/scripts/engine.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/modules/mod_image_show_gk4/styles/gk_black_and_white/engine.js" type="text/javascript"></script>
+  <script src="http://www.cuea.edu/plugins/system/gk_ajax_search/gk_ajax_search.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});function addLoadEvent(func) { if (typeof window.onload != 'function') { window.onload = func; } else { var oldonload = window.onload; window.onload = function() { if (oldonload) { oldonload(); } func(); } } }addLoadEvent(function(){marqueeInit({uniqueid: 'myimgscrawler-1',style:{'width':'100%','height':'100px','background':'#ffffcc'},inc:1,mouse:'pause',direction:'left',valign:'top',moveatleast:1,neutral:50,savedirection:true});});//<![CDATA[
+		try {$Gavick;}catch(e){$Gavick = {};};
+		$Gavick["gktab-gkTab-70"] = {
+			"activator" : "click",
+			"animation" : 0,
+			"animation_speed" : 250,
+			"animation_interval" : 5000,
+			"animation_type" : "opacity",
+			"animation_function" : Fx.Transitions.linear,
+			"active_tab" : 1,
+			"cookie_save" : 0
+		};
+		//]]>try {$Gavick;}catch(e){$Gavick = {};};$Gavick["gkIs-gk-is-33"] = { "anim_speed": 1800, "anim_interval": 5000, "autoanim": 1, "anim_type": "stripes-mixed", "slide_links": 1, "stripe_width": 40 };try{$Gavick;}catch(e){$Gavick = {};} $Gavick["gk_ajax_search"] = { "container_id": "", "delay": "", "length": "", "lang_close": "Close", "lang_all_results": "View all results", "lang_no_results": "No results for specified phrase&hellip;" }
+  </script>
+
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/lightbreeze-red/css/template.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
+  <script type="text/javascript" src="/templates/lightbreeze-red/js/sfhover.js"></script>
+</head>
+<body>
+<div id="wrapper">
+
+  <div id="header">
+
+    <!-- TopNav -->
+        <div id="topnav">
+      		<div class="moduletable">
+					
+
+<div class="custom"  >
+	<p><span style="font-size: 8pt;"><a href="/city">NAIROBI CITY CAMPUS</a></span> &nbsp;&nbsp;&nbsp; <span style="font-size: 8pt;"><a href="/gaba">GABA CAMPUS</a></span>&nbsp; &nbsp; &nbsp; <span style="font-size: 8pt;"><a href="/kisumu">KISUMU CAMPUS</a></span> &nbsp; &nbsp;&nbsp; <span style="font-size: 8pt;"><a href="/alumni">ALUMNI</a></span>&nbsp; &nbsp; &nbsp; <span style="font-size: 8pt;"><a href="http://www.amecea.org">AMECEA</a></span></p></div>		</div>
+	
+    </div>
+        
+
+
+    <!-- Logo -->
+    <div id="logo">
+      
+          <a href="/"><img src="/images/logo.png"  alt="The Catholic University of Eastern Africa" /></a>
+        
+      </div>
+  
+    <!-- Search -->
+    <div id="search">    
+      <form action="/index.php" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="SEARCH..."  onblur="if (this.value=='') this.value='SEARCH...';" onfocus="if (this.value=='SEARCH...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="101" />
+	</div>
+</form>
+
+
+<div class="custom"  >
+	<p><span style="font-size: 18pt; font-family: arial,helvetica,sans-serif;"><strong>&nbsp;&nbsp;<a href="http://mail.cuea.edu"><span style="font-size: 12pt;"><span style="font-size: 18pt; font-family: arial,helvetica,sans-serif;"> </span> </span> </a><a target="_blank" href="http://mail.cuea.edu"> <span style="font-size: 12pt;"> <img alt="mails" src="/images/mails.png" height="47" width="60" /> </span></a> </strong><a target="_blank" href="https://www.facebook.com/TheCatholicUniversityOfEasternAfricaCuea?ref=bookmarks"><img src="/images/facebook.png" height="50" width="50" /></a><a target="_blank" href="https://twitter.com/cuea_official"><img alt="twitter" src="/images/twitter.png" height="50" width="50" /></a><a href="https://twitter.com/cuea_official"> </a></span></p></div>
+    </div>
+  </div>
+  
+  <div id="topmenu">
+    
+<ul class="menu">
+<li class="item-101 current active"><a href="/" >Home</a></li><li class="item-102 parent"><a href="/index.php/about-us" >About Us</a></li><li class="item-113 parent"><a href="/index.php/faculties" >Faculties</a></li><li class="item-124 parent"><a href="/index.php/library" >Library</a></li><li class="item-135 parent"><a href="/index.php/admissions" >Admissions</a></li><li class="item-141 parent"><a href="/index.php/departments" >Departments</a></li><li class="item-155 parent"><a href="/index.php/facilities" >Facilities</a></li><li class="item-194"><a href="/studentportal" >Student Portal</a></li></ul>
+     
+  </div>
+  <br clear="all" />
+  
+  <!-- Breadcrumbs -->
+    <div id="breadcrumbs">
+    
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><span>Home</span></div>
+       
+  </div>
+      <!-- Slideshow -->
+    <div id="slideshow">
+    <div class="gkHighlighterGK4" id="gkHighlighterGK4-gkHighlight_50">
+        <div class="gkHighlighterInterface">
+                <span class="text">HOT NEWS</span>
+                        <div><a href="#" class="prev"></a>
+        <a href="#" class="next"></a></div>
+            </div>
+        <div class="gkHighlighterWrapper">
+                                                    	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/494-bishop-of-ngong-launches-year-of-consecrated-life"><span>Bishop of Ngong Launches ‘Year of Consec</span>Feb 5, 2015: &nbsp;The Catholic Bishop of Ngong Diocese, Rt.</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/493-students-make-presentation-on-service-learning-to-vatican-forum"><span>Students Make Presentation on ‘Service L</span>Feb 2, 2015: Two CUEA students made an online presentation o</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/484-summer-research-internship-job-at-ibm-research-africa"><span>Summer Research Internship Job at IBM Re</span>Are you looking for adventure? Come work with us in Africa. </a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/480-university-council-member-appointed-archbishop"><span>University Council Member Appointed Arch</span>The Holy Father Pope Francis, on 19th January 2015, erected </a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/479-university-hosts-screening-of-the-un-human-rights-universal-review-proceedings"><span>University Hosts Screening of the UN Hum</span>The University hosted the screening of the Universal Periodi</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/474-archbishop-elect-mombasa-launches-year-of-the-priest-book-1"><span>Archbishop-elect Mombasa launches “Year </span>Archbishop-elect Mombasa, Most Rev. Martin Kivuva presided o</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/473-archbishop-launches-paths-of-development-book"><span>Archbishop launches “Paths of Developmen</span>Archbishop Zacchaeus Okoth launched the book “Paths of Devel</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/471-cuea-signs-mou-with-ieseg-school-of-management"><span>CUEA signs MoU with IESEG School of Mana</span>The University signed a memorandum of understanding with IES</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/467-cuea-chancellor-appointed-cardinal"><span>CUEA Chancellor Appointed Cardinal</span>The CUEA Chancellor, Most Rev Berhaneyesus Demerew&nbsp;Sour</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/464-student-launches-first-book"><span>Student Launches First Book</span>
+Ferzana Cocker, a Bachelor of Education (English and Engli</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/446-faculty-of-commerce-voted-as-good-business-school"><span>Faculty of Commerce voted as a ‘good bus</span>The Faculty of Commerce, CUEA has been ranked among the top </a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/445-new-security-officer"><span>New Security Officer</span>Mr Samuel Makori has been appointed as the new Security Offi</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/440-cuea-signs-moa-with-american-university"><span>CUEA Signs MOA with American University</span>
+October 14, 2014
+The Catholic University of Eastern Afric</a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/index.php/news-a-events/429-30th-graduation"><span>The Catholic University of Eastern Afric</span>The Cabinet Secretary for National Treasury, Hon. Henry Roti</a></span></div>
+                                        </div>
+</div>
+
+<script type="text/javascript">
+	try{$Gavick;}catch(e){$Gavick = {};}
+	$Gavick["gkHighlighterGK4-gkHighlight_50"] = {
+		"animationType" : 'slides',
+        "animationSpeed" : 450,
+		"animationInterval" : 5000,
+		"animationFun" : Fx.Transitions.linear,
+		"mouseover" : false	};
+</script>
+
+<div class="custom"  >
+	<img src="/images/white.png" height="4" width="100%" /></div>
+<div id="gkIs-gk-is-33" class="gkIsWrapper-gk_black_and_white slide-links">
+
+	<div class="gkIsPreloader">Loading...</div>
+	
+	<div class="gkIsSlides" style="width: 950px;height: 300px;">
+								
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.sec_generalgk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.consecratedlifegk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.commservpresgk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.uprgk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.christianunitygk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.pathtodevelopmentgk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.yearofthepriestgk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.mouwithfrenchuniversitygk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.booklaunchgk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.lrc_gardensgk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.mr-n-miss-cuea-2014gk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.cueachancellor2014gk-is-33.jpg</span>
+			
+											
+						
+			<span class="gkIsSlide">http://www.cuea.edu/modules/mod_image_show_gk4/cache/Slideshow900x300.Graduation20142gk-is-33.jpg</span>
+			
+						
+	</div>
+
+		<div class="gkIsText" style="bottom:20px;right:20px;width:300px;">Text</div>
+		
+		<ul class="gkIsPagination" style="top:320px;left:20px;">
+	    	     
+	    <li>1</li>
+	    	    	     
+	    <li>2</li>
+	    	    	     
+	    <li>3</li>
+	    	    	     
+	    <li>4</li>
+	    	    	     
+	    <li>5</li>
+	    	    	     
+	    <li>6</li>
+	    	    	     
+	    <li>7</li>
+	    	    	     
+	    <li>8</li>
+	    	    	     
+	    <li>9</li>
+	    	    	     
+	    <li>10</li>
+	    	    	     
+	    <li>11</li>
+	    	    	     
+	    <li>12</li>
+	    	    	     
+	    <li>13</li>
+	    	    	</ul>
+	
+	<div class="gkIsTextData">
+							
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Sec</span> General's Courtesy Call</a></h4>
+				<p>Secretary Generals from the AMECEA region flanked by Bishop Anyolo (left of VC) and AMECEA Sec Gen, Fr. Lugonzo pose for a photo with the VC, Feb 13, 2015 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Year</span> of Consecrated Life Launched</a></h4>
+				<p>Bishop John Oballa, Ngong unveils the banner of the year with the VC accompanied by Priests, Brothers and Sisters, Feb 5, 2015
+ 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Student's</span> Presentation to Rome on Service Learning</a></h4>
+				<p>Sr. Dr. Elizabeth Nduku interacts with Brian and Kimberly after a presentation on service learning to a scholars forum in Rome witnessed by Pope Francis. 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Sreening</span> of Geneva UPR Proceedings</a></h4>
+				<p>Panelists discuss the report by AG Muigai in Geneva on Human Rights Progress under the Universal Periodic Review (UPR) mechanism, LRC, Jan 22, 2015. 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Christian</span> Unity Ecumenical Service</a></h4>
+				<p>Religious leaders from different Christian Denominations hold hands during the service. Lady Kate Davson (Centre) gave the Homily. 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="http://www.cuea.edu/index.php/news-a-events/473-archbishop-launches-paths-of-development-book"><span>'Paths</span> of Development' Launch</a></h4>
+				<p> Archbishop Okoth hands a copy of the book to Rev Prof Baitu after the launch, Jan 15, 2015. 	                	                <a href="http://www.cuea.edu/index.php/news-a-events/473-archbishop-launches-paths-of-development-book" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="http://www.cuea.edu/index.php/news-a-events/474-archbishop-elect-mombasa-launches-year-of-the-priest-book-1"><span>'Year</span> of the Priest' Launch</a></h4>
+				<p>Archbishop-elect, Martin Kivuva shows the book 'Year of the Priest after he launched it flanked by Prof Lukwata, the book editor, Jan 15, 2015 	                	                <a href="http://www.cuea.edu/index.php/news-a-events/474-archbishop-elect-mombasa-launches-year-of-the-priest-book-1" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>MoU</span> Signing with French University</a></h4>
+				<p>The VC exchanges documents with Stephen Murdoch from the IESEG School of Management, France. 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Student</span> Launches Book</a></h4>
+				<p>Ferzana Cocker (3rd Left) poses for a photo with members of the University after the launch of her book, December 7, 2014 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Participants</span> of the Slavery Conference 2014</a></h4>
+				<p>Scholars attending the conference on slavery chat over tea at the LRC square 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>Mr</span> and Miss Cuea 2014/2015</a></h4>
+				<p>Mr Kevin Owiti and Sindi Mochere 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/index.php/news-a-events/428-the-most-rev-berhaneyesus-demerew-souraphiel"><span>H.E.</span> Berhaneyesus Cardinal D. Souraphiel</a></h4>
+				<p>The new Chancellor for The Catholic University of Eastern Africa 	                	                <a href="/index.php/news-a-events/428-the-most-rev-berhaneyesus-demerew-souraphiel" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+										
+						
+			<div class="gkIsTextItem">
+				<h4><a href="/"><span>30th</span> Graduation Ceremony</a></h4>
+				<p>Congratulations Class of 2014 	                	                <a href="/" class="readon">&raquo;</a>
+	                            
+	            </p>
+			</div>
+			
+						</div>
+</div>		
+
+<div class="custom"  >
+	<p><img alt="yellow" src="/images/flag1/yellow.gif" height="15" width="100%" /></p></div>
+  </div>
+      
+    <!-- Left Menu -->
+    <div id="leftmenu">
+    		<div class="moduletable">
+					
+
+<div class="custom"  >
+	<table align="left" bgcolor="#f1f1f1" border="0">
+<tbody>
+<tr>
+<td>
+<p><a href="http://cuea.melimu.com/registration/public/index.php/index"><strong><span style="font-size: 10pt;"><span style="font-family: Oswald,sans-serif; background-color: initial;"><img style="border: 0px double #660000;" alt="cuea odel" src="/images/cuea_odel.jpg" /></span></span></strong></a></p>
+</td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td>
+<p><a href="/index.php/working-university-lines"><strong><img style="border-image: none;" alt="universit-contacts" src="/images/universit-contacts.png" height="50" width="210" /></strong></a></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;<strong><img alt="strip" src="/images/strip.png" height="4" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/index.php/faculties"><img alt="facult" src="/images/facult.jpg" height="70" width="210" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/index.php/admissions/admission-adverts"><img alt="appltoday" src="/images/appltoday.gif" height="70" width="210" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/index.php/conferences?layout=blog"><img alt="" src="/images/confs.jpg" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/studentportal/index.php?option=com_ckforms&amp;view=ckforms&amp;id=2&amp;Itemid=14"><img alt="" src="/images/suggest.gif" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/city"><img alt="citycampus" src="/images/citycampus.gif" height="70" width="210" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+<td><strong>&nbsp;</strong></td>
+</tr>
+<tr>
+<td><strong><a href="/studentportal/index.php?option=com_content&amp;view=article&amp;id=3:academic-calendar&amp;catid=2:downloads"><img alt="academicalendar" src="/images/academicalendar.gif" height="70" width="210" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/facilities"><img alt="conf" src="/images/conf.gif" height="70" width="210" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="http://webcentre.cuea.edu/webcentre/"><img alt="ePayment" src="/images/ePayment.gif" height="70" width="210" /></a></strong></td>
+</tr>
+<tr>
+<td><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong><br /><strong><img alt="strip" src="/images/strip.png" height="5" width="100" /></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/irid"><img alt="irid" src="/images/irid.png" height="45" width="158" /></a></strong><br /><strong><span style="font-size: 10pt;"><a href="/irid">Building capacity for regional integration</a></span></strong></td>
+</tr>
+<tr>
+<td><strong><a href="/index.php/component/content/article/35-timetable/regular-programme/132-may-2012-teaching-timetable-regular-programme"><img alt="strip" src="/images/strip.png" height="5" width="100" /></a></strong><br /><strong><a href="/index.php/component/content/article/35-timetable/regular-programme/132-may-2012-teaching-timetable-regular-programme"><img alt="strip" src="/images/strip.png" height="5" width="100" /></a></strong></td>
+</tr>
+<tr>
+<td style="text-align: justify;"><strong><a href="ftp://iso.cuea.edu/"><img alt="iso-9001" src="/images/iso-9001.jpg" height="115" width="150" /></a></strong></td>
+</tr>
+<tr>
+<td style="text-align: justify;">
+<p><strong><a href="http://www.cueaconsultancy.com/"><img alt="consultancylinks" src="/images/consultancylinks.png" height="50" width="200" /><br /></a></strong></p>
+<p><strong>&nbsp;<a href="http://kumekucha.cuea.edu/"><img style="border: 1px solid #790000; float: left;" alt="kumekuchajournal" src="/images/kumekuchajournal.jpg" height="53" width="200" /></a></strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong><a href="http://41.89.18.5/studentportal/index.php?option=com_ckforms&amp;view=ckforms&amp;id=7&amp;Itemid=16"><br />Comment on this website!</a><br /></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="mcePaste" id="_mcePaste" style="position: absolute; left: -40px; top: 321px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1">http://www.cuea.edu/studentportal/index.php?option=com_ckforms&amp;view=ckforms&amp;id=7&amp;Itemid=16</div></div>		</div>
+	
+    
+    
+  </div>
+  
+
+  <!-- Right Menu -->
+    
+
+  <!-- Contents -->
+    <div id="content-w2">  
+      
+<div id="system-message-container">
+</div>
+    <div class="blog">
+	<h1>
+		Latest News	</h1>
+	
+	
+
+
+
+
+
+
+
+			<div class="items-row cols-1 row-0">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/news-a-events/494-bishop-of-ngong-launches-year-of-consecrated-life">
+			Bishop of Ngong Launches ‘Year of Consecrated Life’</a>
+			</h2>
+
+
+
+
+
+
+<p><em style="line-height: 1.6em;">Feb 5, 2015:</em><span style="line-height: 1.6em;"> &nbsp;The Catholic Bishop of Ngong Diocese, Rt. Rev. John Oballa Owaa launched the year of consecrated life here at the University.</span></p>
+<p>Speaking at the Thursday community mass which he celebrated, the Bishop said the year of consecrated life “is a moment of grace for the whole church and specifically for those who have consecrated themselves to God through the religious vows”.</p>
+
+		<p class="readmore">
+				<a href="/index.php/news-a-events/494-bishop-of-ngong-launches-year-of-consecrated-life">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-1">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/news-a-events/493-students-make-presentation-on-service-learning-to-vatican-forum">
+			Students Make Presentation on ‘Service Learning’ to Vatican Forum</a>
+			</h2>
+
+
+
+
+
+
+<p style="text-align: justify;"><em>Feb 2, 2015:</em> Two CUEA students made an online presentation on Service Learning to a Scholar’s forum in Rome on Service Learning also witnessed by Pope Francis.</p>
+<p style="text-align: justify;">The two students; Kimberly Mworia and Brian Nzioka made a case for the University’s initiative at the Kuwinda slums referred to as <em>CUEA for Kuwinda.</em></p>
+
+		<p class="readmore">
+				<a href="/index.php/news-a-events/493-students-make-presentation-on-service-learning-to-vatican-forum">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-2">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/news-a-events/484-summer-research-internship-job-at-ibm-research-africa">
+			Summer Research Internship Job at IBM Research Africa</a>
+			</h2>
+
+
+
+
+
+
+<p><span style="line-height: 1.6em;">Are you looking for adventure? Come work with us in Africa. Where else can you work on evolving cognitive solutions for a smarter planet in energy, water, agriculture, education, healthcare, mobility and financial inclusion during the week and then go on Safari on the weekend?</span></p>
+<p>We’re looking for individuals with strong programming skills and experience in areas such as data mining, optimization, machine learning, computer vision and high performance analytics.</p>
+
+		<p class="readmore">
+				<a href="/index.php/news-a-events/484-summer-research-internship-job-at-ibm-research-africa">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-3">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/news-a-events/480-university-council-member-appointed-archbishop">
+			University Council Member Appointed Archbishop</a>
+			</h2>
+
+
+
+
+
+
+<p style="text-align: justify;"><span style="line-height: 1.6em;"><img src="/images/BishopManghesteab.jpg" alt="BishopManghesteab" style="margin: 0px 0px 10px 10px; float: right;" height="184" width="150" />The Holy Father Pope Francis, on 19th January 2015, erected the Metropolitan Church sui iuris in Eritrea dividing&nbsp;it&nbsp;from the Metropolitan Archeparchy of Addis Ababa; and appointed the first Metropolitan Archbishop His Excellency Menghesteab Tesfamariam, MCCJ hitherto Eparchial Bishop of Asmara.</span></p>
+<p style="text-align: justify;">Most Rev. Menghesteab Tesfamariam, MCCJ,&nbsp; Archbishop Designate of Asmara is a member of the University Council.<span style="line-height: 1.6em;">The seat of the new metropolitan Church is Asmara, which is elevated to the status of metropolitan Archdiocese.</span></p>
+
+		<p class="readmore">
+				<a href="/index.php/news-a-events/480-university-council-member-appointed-archbishop">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-4">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/news-a-events/479-university-hosts-screening-of-the-un-human-rights-universal-review-proceedings">
+			University Hosts Screening of the UN Human Rights Universal Review Proceedings</a>
+			</h2>
+
+
+
+
+
+
+<p>The University hosted the screening of the Universal Periodic Review (UPR) proceedings for Kenya presented by the AG, Githu Muigai from Geneva, Switzerland on January 24, 2015.</p>
+<p>Locally, the screening held at the Learning Resource Centre Auditorium was hosted by the Centre for Social Justice and Ethics (CSJE) with other partner agencies in attendance. These included; KHRC, KNHRC, Pax Romana, Edmund Rice Advocacy Network, Franciscans International , the Office of Justice Peace and Integrity of Creation Franciscans Africa (JPICFA) and the French Embassy.</p>
+
+		<p class="readmore">
+				<a href="/index.php/news-a-events/479-university-hosts-screening-of-the-un-human-rights-universal-review-proceedings">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-5">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/news-a-events/474-archbishop-elect-mombasa-launches-year-of-the-priest-book-1">
+			Archbishop-elect Mombasa launches “Year of the Priest” book </a>
+			</h2>
+
+
+
+
+
+
+<p>Archbishop-elect Mombasa, Most Rev. Martin Kivuva presided over the launch of the book on “Year of the Priest, faithfulness of Christ, faithfulness of the Priest, 150 years of St. John Marie Vianney” edited by Rev. Prof. Lukwata.</p>
+<p>Most Rev. Martin Kivuva thanked the CUEA Faculty of Theology for the reflection on the beauty and demands of ‘the Priestly vocation today’, noting that, “writing about priesthood is a noble task”.</p>
+
+		<p class="readmore">
+				<a href="/index.php/news-a-events/474-archbishop-elect-mombasa-launches-year-of-the-priest-book-1">
+					Read more...</a>
+		</p>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+				
+
+
+
+
+	
+		<div class="pagination">
+										<ul><li class="pagination-start"><span class="pagenav">Start</span></li><li class="pagination-prev"><span class="pagenav">Prev</span></li><li><span class="pagenav">1</span></li><li><a title="2" href="/index.php?start=6" class="pagenav">2</a></li><li><a title="3" href="/index.php?start=12" class="pagenav">3</a></li><li><a title="4" href="/index.php?start=18" class="pagenav">4</a></li><li><a title="5" href="/index.php?start=24" class="pagenav">5</a></li><li><a title="6" href="/index.php?start=30" class="pagenav">6</a></li><li><a title="7" href="/index.php?start=36" class="pagenav">7</a></li><li><a title="8" href="/index.php?start=42" class="pagenav">8</a></li><li><a title="9" href="/index.php?start=48" class="pagenav">9</a></li><li><a title="10" href="/index.php?start=54" class="pagenav">10</a></li><li class="pagination-next"><a title="Next" href="/index.php?start=6" class="pagenav">Next</a></li><li class="pagination-end"><a title="End" href="/index.php?start=78" class="pagenav">End</a></li></ul>		</div>
+
+</div>
+
+  </div>
+
+  
+    
+  <!-- Footer -->
+  <div id="footer">
+    
+<div class="gkTab" id="gkTab-70">
+	<div class="gkTabWrap">
+	    	    <ul class="gkTabs top">
+	    		    		    	<li class="gkTab-1 active"><span>Call for Papers</span></li>
+	    		    		    	<li class="gkTab-2"><span>Jobs at Cuea</span></li>
+	    		    		    	<li class="gkTab-3"><span>Intranet</span></li>
+	    		    		    	<li class="gkTab-4"><span>Certificates</span></li>
+	    		    		    	<li class="gkTab-5"><span>Newsletter</span></li>
+	    		    		    	<li class="gkTab-6"><span>Catholic Identity</span></li>
+	    		    		    	<li class="gkTab-7"><span>Constituent Colleges</span></li>
+	    		    </ul>
+	    	                
+		<div class="gkTabContainer0">
+	        <div class="gkTabContainer1">
+	            <div class="gkTabContainer2">
+	                
+<div class="gkTabItem active">
+	<div class="gkTabItemSpace">
+	
+<div style="width:900px">
+
+	<div id="btcontentslider112" style="display:none" class="bt-cs">
+						<div class="slides_container" style="width:898px;">
+
+		
+			<div class="slide" style="width:898px">
+
+			
+				<div class="bt-row bt-row-first"  style="width:33%" >
+
+					<div class="bt-inner">
+					
+												<a class="bt-title" target="_parent"
+							title="Faculty of Arts and Social Sciences - Call for Papers"
+							href="/index.php/conferences/432-fassc-call-for-papers"> Faculty of Arts and Social Sciences - Call for Papers </a>
+																				
+												<div class="bt-introtext">
+						A JOURNAL OF THE FACULTY OF ARTS AND SOCIAL SCIENCES, CUEA
+Kumekucha: A Journal of the Faculty of Arts and Social Sciences invites papers for its fir...						</div>
+						
+												<p class="readmore">
+							<a target="_parent"
+								title="Faculty of Arts and Social Sciences - Call for Papers"
+								href="/index.php/conferences/432-fassc-call-for-papers"> Read more							</a>
+						</p>
+						
+					</div>
+					<!-- bt-inner -->
+
+				</div>
+				<!-- bt-row -->
+				
+								<div style="clear: both;"></div>
+
+			</div>
+			<!-- bt-main-item page	-->
+			
+		</div>
+
+
+	</div>
+	<!-- bt-container -->
+
+
+</div>
+			<div style="clear: both;"></div><script type="text/javascript">	
+	(function(){
+		jQuery('#btcontentslider112').fadeIn("fast");
+	})();
+</script>
+
+	</div>
+</div>
+<div class="gkTabItem">
+	<div class="gkTabItemSpace">
+		<div class="nspMain nspFs120" id="nsp-nsp_95" style="width:100%;">
+					<div class="nspArts bottom" style="width:100%;">
+								<div class="nspTopInterface">
+					<div>
+												<ul class="nspPagination">
+														<li>1</li>
+														<li>2</li>
+													</ul>
+												
+												<span class="nspPrev">Prev</span>
+						<span class="nspNext">Next</span>
+												
+											</div>
+				</div>
+								
+														<div class="nspArt" style="width:33.333333333333%;clear:both;"><div style="padding:0 20px 20px 0"><h4 class="nspHeader tleft fnone"><a href="/index.php/31-jobs/496-senior-lecturer-development-studiespdf" title="Senior Lecturer, Development Studies">Senior Lecturer, Development Studies</a></h4><p class="nspInfo  tleft fnone">13-02-2015 Hits:12 </p><p class="nspText tleft fleft">The Catholic University of Eastern Africa is seeking to recruit a dynamic, qualified and result oriented person to fill the position of Senior Lecturer, Development Studies
+</p><p class="nspInfo  tleft fleft"><a href="/index.php/31-jobs" >Jobs</a></p><a class="readon  fright" href="/index.php/31-jobs/496-senior-lecturer-development-studiespdf">Read more</a></div></div>
+														<div class="nspArt" style="width:33.333333333333%;"><div style="padding:0 20px 20px 0"><h4 class="nspHeader tleft fnone"><a href="/index.php/31-jobs/483-summer-research-internship-job-at-ibm-research-africa" title="Summer Research Internship Job at IBM Research | Africa">Summer Research Internship Job at IBM Research | Africa</a></h4><p class="nspInfo  tleft fnone">29-01-2015 Hits:85 </p><p class="nspText tleft fleft">Are you looking for adventure? Come work with us in Africa. Where else can you work on evolving cognitive solutions for a smarter planet in energy, water, agriculture, education, healthcare, mobility and financial inclusion during the week and then go...</p><p class="nspInfo  tleft fleft"><a href="/index.php/31-jobs" >Jobs</a></p><a class="readon  fright" href="/index.php/31-jobs/483-summer-research-internship-job-at-ibm-research-africa">Read more</a></div></div>
+														<div class="nspArt" style="width:33.333333333333%;"><div style="padding:0 20px 20px 0"><h4 class="nspHeader tleft fnone"><a href="/index.php/31-jobs/482-lecturer-in-literature" title="Lecturer in Literature - Lang'ata Campus">Lecturer in Literature - Lang'ata Campus</a></h4><p class="nspInfo  tleft fnone">28-01-2015 Hits:69 </p><p class="nspText tleft fleft">The Catholic University of Eastern Africa is seeking to recruit a dynamic, qualified and result oriented person to fill the position of Lecturer in Linguistics.
+</p><p class="nspInfo  tleft fleft"><a href="/index.php/31-jobs" >Jobs</a></p><a class="readon  fright" href="/index.php/31-jobs/482-lecturer-in-literature">Read more</a></div></div>
+														<div class="nspArt unvisible" style="width:33.333333333333%;clear:both;"><div style="padding:0 20px 20px 0"><h4 class="nspHeader tleft fnone"><a href="/index.php/31-jobs/481-lecturer-in-literature-eldoret-gaba-campus" title="Lecturer in Literature (Eldoret - Gaba Campus)">Lecturer in Literature (Eldoret - Gaba Campus)</a></h4><p class="nspInfo  tleft fnone">28-01-2015 Hits:75 </p><p class="nspText tleft fleft">The Catholic University of Eastern Africa is seeking to recruit a dynamic, qualified and result oriented person to fill the position of Lecturer in Linguistics.
+</p><p class="nspInfo  tleft fleft"><a href="/index.php/31-jobs" >Jobs</a></p><a class="readon  fright" href="/index.php/31-jobs/481-lecturer-in-literature-eldoret-gaba-campus">Read more</a></div></div>
+														<div class="nspArt unvisible" style="width:33.333333333333%;"><div style="padding:0 20px 20px 0"><h4 class="nspHeader tleft fnone"><a href="/index.php/31-jobs/442-director-of-university-advancement" title="Director of University Advancement">Director of University Advancement</a></h4><p class="nspInfo  tleft fnone">11-11-2014 Hits:351 </p><p class="nspText tleft fleft">The Catholic University of Eastern Africa (lang'ata Campus) is seeking to recruit a dynamic, qualified and result oriented person to fill the position of Director - University Advancement.
+</p><p class="nspInfo  tleft fleft"><a href="/index.php/31-jobs" >Jobs</a></p><a class="readon  fright" href="/index.php/31-jobs/442-director-of-university-advancement">Read more</a></div></div>
+														<div class="nspArt unvisible" style="width:33.333333333333%;"><div style="padding:0 20px 20px 0"><h4 class="nspHeader tleft fnone"><a href="/index.php/31-jobs/245-for-other-jobs" title="For Other Jobs...">For Other Jobs...</a></h4><p class="nspInfo  tleft fnone">30-04-2013 Hits:3943 </p><p class="nspText tleft fleft">&nbsp;
+Please check our Alumni webpage</p><p class="nspInfo  tleft fleft"><a href="/index.php/31-jobs" >Jobs</a></p><a class="readon  fright" href="/index.php/31-jobs/245-for-other-jobs">Read more</a></div></div>
+					
+			</div>
+					</div>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_95"] = {
+	"animation_speed": 400,
+	"animation_interval": 5000,
+	"animation_function": Fx.Transitions.Expo.easeIn,
+	"news_column": 3,
+	"news_rows": 1,
+	"links_columns_amount": 1,
+	"links_amount": 3,
+	"counter_text": '<strong>Page:</strong>'
+};
+//]]>
+</script>		</div>
+</div>
+<div class="gkTabItem">
+	<div class="gkTabItemSpace">
+		</div>
+</div>
+<div class="gkTabItem">
+	<div class="gkTabItemSpace">
+	 
+	<div style="width:900px">
+	
+	<div id="btcontentslider38"  style="display:none" class="bt-cs">
+						<div class="slides_container" style="width:898px;">
+			
+						
+				<div class="slide" style="width:898px">				
+					
+										
+					<div class="bt-row bt-row-first" style="width:33%" >
+					   
+						<div class="bt-inner">
+							 								
+														 <a class="bt-title" target="_blank" title="ISO 9001:2008 Quality Management System" href="/index.php/23-certificates/79-so-90012008-quality-management-system">
+							   ISO 9001:2008 Quality Management System							 </a>
+							 							
+														
+												
+							<div class="bt-introtext">
+								 								<a target="_blank" class="bt-image-link" title="ISO 9001:2008 Quality Management System" href="/index.php/23-certificates/79-so-90012008-quality-management-system">
+								  <img class= "hovereffect"  src="/images/isocertificate.jpg" alt="ISO 9001:2008 Quality Management System"  style=" height:200px; width:150px; float:left;margin-right:5px" title="ISO 9001:2008 Quality Management System" />
+								</a> 
+															  
+							</div>
+														
+														
+
+														<p class="readmore">
+							  <a  target="_blank"  title="ISO 9001:2008 Quality Management System" href="/index.php/23-certificates/79-so-90012008-quality-management-system">
+								Read more							  </a>
+							</p>
+														
+						</div>				
+					    <!-- bt-inner -->
+					   
+					</div> 			
+					<!-- bt-row -->					
+										
+										
+					<div class="bt-row bt-row-last" style="width:33%" >
+					   
+						<div class="bt-inner">
+							 								
+														 <a class="bt-title" target="_blank" title="Certificate of Re-Inspection " href="/index.php/23-certificates/78-certificate-of-re-inspection">
+							   Certificate of Re-Inspection 							 </a>
+							 							
+														
+												
+							<div class="bt-introtext">
+								 								<a target="_blank" class="bt-image-link" title="Certificate of Re-Inspection " href="/index.php/23-certificates/78-certificate-of-re-inspection">
+								  <img class= "hovereffect"  src="/images/certificate of re-inspection.jpg" alt="Certificate of Re-Inspection "  style=" height:200px; width:150px; float:left;margin-right:5px" title="Certificate of Re-Inspection " />
+								</a> 
+															  
+							</div>
+														
+														
+
+														<p class="readmore">
+							  <a  target="_blank"  title="Certificate of Re-Inspection " href="/index.php/23-certificates/78-certificate-of-re-inspection">
+								Read more							  </a>
+							</p>
+														
+						</div>				
+					    <!-- bt-inner -->
+					   
+					</div> 			
+					<!-- bt-row -->					
+										
+										<div style="clear:both;"></div>
+				
+				</div>			
+			<!-- bt-main-item page	-->	
+						
+			
+		</div>
+		
+	
+	</div> 
+	<!-- bt-container -->   
+
+
+  </div>
+  <div style="clear:both;"></div>
+<script type="text/javascript">	
+	(function(){
+		jQuery('#btcontentslider38').fadeIn("fast");
+	})();
+</script>
+
+	</div>
+</div>
+<div class="gkTabItem">
+	<div class="gkTabItemSpace">
+	<ul class="latestnewstemplate.css">
+	<li>
+		<a href="/index.php/25-downloadsaarchives/81-newsletter-archives">
+			Newsletter Archives</a>
+	</li>
+</ul>	</div>
+</div>
+<div class="gkTabItem">
+	<div class="gkTabItemSpace">
+	
+<div style="width:640px">
+
+	<div id="btcontentslider72" style="display:none" class="bt-cs">
+						<div class="slides_container" style="width:638px;">
+
+		
+			<div class="slide" style="width:638px">
+
+			
+				<div class="bt-row bt-row-first"  style="width:49%" >
+
+					<div class="bt-inner">
+					
+												<a class="bt-title" target="_parent"
+							title="Catholic Identity in a Catholic University "
+							href="/index.php/22-catholic-identity/76-catholic-identity-in-a-catholic-university"> Catholic Identity in a Catholic University  </a>
+																				
+												<div class="bt-introtext">
+						
+The Catholic University is an arm of the Church’s educational ministry. Its effectiveness must be measured against the goals of the overall organization (Abbot, 1966:643). The Catholic identity go...						</div>
+						
+												<p class="readmore">
+							<a target="_parent"
+								title="Catholic Identity in a Catholic University "
+								href="/index.php/22-catholic-identity/76-catholic-identity-in-a-catholic-university"> Read more							</a>
+						</p>
+						
+					</div>
+					<!-- bt-inner -->
+
+				</div>
+				<!-- bt-row -->
+				
+				
+				<div class="bt-row bt-row-last"  style="width:49%" >
+
+					<div class="bt-inner">
+					
+												<a class="bt-title" target="_parent"
+							title="Students and the Catholic Identity in CUEA "
+							href="/index.php/22-catholic-identity/77-students-and-the-catholic-identity-in-cuea"> Students and the Catholic Identity in CUEA  </a>
+																				
+												<div class="bt-introtext">
+						
+The Catholic University stands for Moral integrity, Truth, and Respect for Faith. This demands a high sense of discipline, and strength among students to resist the temptation to exploitation and co...						</div>
+						
+												<p class="readmore">
+							<a target="_parent"
+								title="Students and the Catholic Identity in CUEA "
+								href="/index.php/22-catholic-identity/77-students-and-the-catholic-identity-in-cuea"> Read more							</a>
+						</p>
+						
+					</div>
+					<!-- bt-inner -->
+
+				</div>
+				<!-- bt-row -->
+				
+								<div style="clear: both;"></div>
+
+			</div>
+			<!-- bt-main-item page	-->
+			
+		</div>
+
+
+	</div>
+	<!-- bt-container -->
+
+
+</div>
+			<div style="clear: both;"></div><script type="text/javascript">	
+	(function(){
+		jQuery('#btcontentslider72').fadeIn("fast");
+	})();
+</script>
+
+	</div>
+</div>
+<div class="gkTabItem">
+	<div class="gkTabItemSpace">
+	
+
+<div class="custom"  >
+	<table style="text-align: left; width: 100%; height: 163px;" border="0">
+<tbody style="text-align: left;">
+<tr style="text-align: left;"><th style="text-align: center;" scope="col" valign="top">
+<h3 style="text-align: center;"><span style="color: #993300;"><strong href="http://196.168.1.54/"><span style="font-size: 12pt;">AFFILIATED COLLEGES</span> </strong> </span></h3>
+<ul class="menu">
+<li style="text-align: left;" class="item44"><span style="font-size: 12pt;"><a href="http://196.168.1.54/">Bosco - Moshi</a></span></li>
+<li style="text-align: left;" class="item45"><span style="font-size: 12pt;"><a href="http://196.168.1.54/www.cuea.edu">Christ the King Major Seminary</a></span></li>
+<li style="text-align: left;" class="item46"><span style="font-size: 12pt;"><a href="http://www.smsnjiro.org">The Spiritan Seminary</a></span></li>
+<li style="text-align: left;" class="item47"><span style="font-size: 12pt;"><a href="http://www.amecea.org/pasto-institute.htm">AMECEA Pastoral Institute</a>&nbsp;&nbsp;</span></li>
+<li style="text-align: left;" class="item47"><span style="font-size: 12pt;"><a href="http://www.aoskenya.org/">Chemichemi ya Uzima Centre</a></span></li>
+</ul>
+<p style="text-align: left;"><strong href="http://196.168.1.54/"><span style="font-size: 12pt;">&nbsp;</span></strong></p>
+</th><th style="text-align: left;" scope="col" valign="top"><span style="font-size: 12pt; color: #993300;"><strong></strong></span>
+<h3 style="text-align: center;"><span style="color: #993300;"><strong><span style="font-size: 12pt;">CONSTITUENT COLLEGES</span> </strong> </span></h3>
+<span style="font-size: 12pt; color: #993300;"><strong></strong></span>
+<ul class="menu">
+<li class="item41"><span style="font-size: 12pt; color: #993300;"><a href="http://www.hekimacollege.org/"><span style="color: #993300;">Hekima College</span> </a> </span></li>
+<li class="item42"><span style="font-size: 12pt; color: #993300;"><a href="http://www.tangaza.org/"><span style="color: #993300;">Tangaza College</span> </a> </span></li>
+<li class="item43"><a href="http://www.miuc.ac.ke/miuc/index.php"><span style="font-size: 12pt; color: #993300;"><span style="color: #993300;">Marist International College</span></span></a></li>
+<li class="item137"><span style="font-size: 12pt; color: #993300;"><a href="http://www.rpuc.ac.ke/"><span style="color: #993300;">Regina Pacis University College</span> </a> </span></li>
+</ul>
+</th></tr>
+</tbody>
+</table></div>	</div>
+</div>	            </div>
+	        </div>
+	    </div>
+		
+			</div>
+		
+	</div>
+  </div>
+    <!-- Application Advert -->
+    <div id="advert">
+    
+<div class="ic_marquee" id="myimgscrawler-1">
+	<a href="/" ><img src="/images/flag/Believe-Belong-Become.png" alt="" style="margin-right:3px" height="50" /></a><img src="/images/flag/SUDAN.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/eritrea.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/ethiopia.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/kenya.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/malawi.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/south sudan.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/tanzania.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/uganda.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/vatican.png" alt="" style="margin-right:3px" height="50" /><img src="/images/flag/zambia.png" alt="" style="margin-right:3px" height="50" /></div>
+
+
+<div class="custom"  >
+	<p><img alt="yellow" src="/images/flag1/yellow.gif" width="100%" height="15" /></p></div>
+  </div>
+    
+      <!-- Banner/Links -->
+  <div id="box_wrap">
+    <div id="box_placeholder">
+      <div id="box1">		<div class="moduletable">
+					<h3>NAIROBI - LANG'ATA CAMPUS</h3>
+					
+
+<div class="custom"  >
+	<hr />
+<p>P.O. Box 62157 - code 00200 Nairobi<br />Email:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy14529 = '&#97;dm&#105;ss&#105;&#111;ns' + '&#64;';
+ addy14529 = addy14529 + 'c&#117;&#101;&#97;' + '&#46;' + '&#101;d&#117;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy14529 + '\'>');
+ document.write(addy14529);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br /> Tel:+(254) 20-8897000<br />&nbsp;&nbsp;&nbsp;&nbsp; +(254) 20-2525811/3<br /> Mobile&nbsp;: +(254) 722-509811</p></div>		</div>
+	</div>
+      <div id="box2">		<div class="moduletable">
+					<h3>KISUMU CAMPUS</h3>
+					
+
+<div class="custom"  >
+	<hr />
+<p>P.O. Box 1580 Kisumu<br />Email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy25121 = 'r&#101;g&#105;stryk&#105;s&#117;m&#117;' + '&#64;';
+ addy25121 = addy25121 + 'c&#117;&#101;&#97;' + '&#46;' + '&#101;d&#117;';
+ var addy_text25121 = 'r&#101;g&#105;stryk&#105;s&#117;m&#117;' + '&#64;' + 'c&#117;&#101;&#97;' + '&#46;' + '&#101;d&#117;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy25121 + '\'>');
+ document.write(addy_text25121);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br />Mobile: +(254)-715-685771<br /> Mobile: +(254) -738-239-065<br /> Tel: +(254) -057-202-4202</p></div>		</div>
+	</div>
+      <div id="box3">		<div class="moduletable">
+					<h3>ELDORET - GABA CAMPUS</h3>
+					
+
+<div class="custom"  >
+	<hr />
+<p>P.O. Box 908 code 30100 Eldoret<br />Email: 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy90460 = 'r&#101;g&#105;stryg&#97;b&#97;' + '&#64;';
+ addy90460 = addy90460 + 'c&#117;&#101;&#97;' + '&#46;' + '&#101;d&#117;';
+ var addy_text90460 = 'r&#101;g&#105;stryg&#97;b&#97;' + '&#64;' + 'c&#117;&#101;&#97;' + '&#46;' + '&#101;d&#117;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy90460 + '\'>');
+ document.write(addy_text90460);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><br />Mobile: +(254) -715-685-263<br /> Mobile: +(254) -728-458-276<br /> Tel: +(254) -53-206-2153</p></div>		</div>
+	</div>
+    </div>
+  </div>
+    
+
+  <div id="push"></div>
+
+</div>
+
+
+<div id="copyright">
+  &copy;2015 The Catholic University of Eastern Africa | <a href="http://www.cuea.edu/ict">Designed by ICT Department.</a>
+</div>  
+
+
+</body>
+</html> 

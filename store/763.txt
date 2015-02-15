@@ -1,0 +1,737 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="maseno, maseno, MSU, eCampus" />
+  <meta name="description" content="Maseno University - Fountain of excellence" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Maseno University| Fountain of Excellence</title>
+  <link href="/index/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/index/templates/cloudbaseuniversity/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/index/modules/mod_ariimageslider/mod_ariimageslider/js/themes/nivo-slider.css" type="text/css" />
+  <link rel="stylesheet" href="/index/modules/mod_ariimageslider/mod_ariimageslider/js/themes/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://maseno.ac.ke/index/modules/mod_maximenu_CK/themes/default/css/moo_maximenuH_CK.css" type="text/css" />
+  <link rel="stylesheet" href="http://maseno.ac.ke/index/modules/mod_maximenu_CK/themes/default/css/maximenuH_CK.php?monid=maximenuCK" type="text/css" />
+  <style type="text/css">
+    <!--
+#ais_117_wrapper,#ais_117{width:800px;height:300px;}
+    -->
+  </style>
+  <script type="text/javascript" src="/index/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/index/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+  <script type="text/javascript" src="/index/modules/mod_ariimageslider/mod_ariimageslider/js/jquery.noconflict.js"></script>
+  <script type="text/javascript" src="/index/modules/mod_ariimageslider/mod_ariimageslider/js/jquery.nivo.slider.js"></script>
+  <script type="text/javascript" src="http://maseno.ac.ke/index/modules/mod_maximenu_CK/assets/moo_maximenu_CK.js"></script>
+  <script type="text/javascript" src="http://maseno.ac.ke/index/modules/mod_maximenu_CK/assets/fancymenu_CK.js"></script>
+  <script type="text/javascript" src="http://maseno.ac.ke/index/modules/mod_maximenu_CK/themes/default/js/maximenu_addon_CK.js"></script>
+  <script type="text/javascript">
+jQuery(window).load(function() { var $ = window.jQueryNivoSlider || jQuery; $("#ais_117").nivoSlider({"animSpeed":1000,"pauseTime":6500}); });window.addEvent('domready', function() {new DropdownMaxiMenu(document.getElement('div#maximenuCK'),{mooTransition : 'Quad',mooEase : 'easeOut',useOpacity : '0',dureeOut : 500,menuID : 'maximenuCK',testoverflow : '1',orientation : '0',style : 'moomenu',opentype : 'open',direction : 'normal',directionoffset1 : '30',directionoffset2 : '30',mooDuree : 500});});window.addEvent('domready', function() {new SlideList(document.getElement('div#maximenuCK ul'),{fancyTransition : 'Quad',fancyEase : 'easeOut',fancyDuree : 500});});
+  </script>
+  <!--[if lt IE 7]><link rel="stylesheet" href="/index/modules/mod_ariimageslider/mod_ariimageslider/js/themes/default/style.ie6.css" type="text/css" /><![endif]-->
+  <!--[if IE]><link rel="stylesheet" href="/index/modules/mod_ariimageslider/mod_ariimageslider/js/themes/default/style.ie.css" type="text/css" /><![endif]-->
+
+
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/addons.css" type="text/css" />
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/layout.css" type="text/css" />
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/template.css" type="text/css" />
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/typo.css" type="text/css" />
+
+<!--[if IE]>
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/ie.css" type="text/css" />
+<![endif]-->
+
+<!--[if lt IE 7.0]>
+<link rel="stylesheet" href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/ie7minus.css" type="text/css" />
+<style>
+.main { width: expression(document.body.clientWidth < 770? "770px" : document.body.clientWidth > 1200? "1200px" : "auto"); }
+</style>
+<![endif]-->
+
+<!--[if IE 7.0]>
+<style>
+.clearfix { display: inline-block; } /* IE7xhtml*/
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+var siteurl='http://maseno.ac.ke/index/';
+var tmplurl='http://maseno.ac.ke/index/templates/cloudbaseuniversity';
+</script>
+
+<script language="javascript" type="text/javascript" src="http://maseno.ac.ke/index/templates/cloudbaseuniversity/js/ja.script.js"></script>
+<script language="javascript" type="text/javascript" src="http://maseno.ac.ke/index/templates/cloudbaseuniversity/js/height.js"></script>
+<script>
+function showMore(obj){
+	
+	if(obj.name=="0"){
+		document.getElementById("more").style.display="block";
+		document.getElementById("read_more").innerHTML="Show Less";
+		obj.name="1";
+	}
+	else{
+		document.getElementById("more").style.display="none";
+		document.getElementById("read_more").innerHTML="Read more...";
+		obj.name="0";
+	}
+	
+
+}
+</script>
+<style>
+#more{ display: none;}
+
+  </style>
+<link href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/menu/mega.css" rel="stylesheet" type="text/css" /><script src="http://maseno.ac.ke/index/templates/cloudbaseuniversity/js/menu/mega.js" language="javascript" type="text/javascript"></script>
+
+
+<!--Width of template -->
+<style type="text/css">
+.main {width: 1070px;margin: 0 auto;}
+#ja-wrapper {min-width: 1071px;}
+</style>
+
+<link href="http://maseno.ac.ke/index/templates/cloudbaseuniversity/css/colors/red.css" rel="stylesheet" media="all" type="text/css" />
+
+ 
+
+</head>
+
+<body id="bd" class="fs3 Others ">
+	<div id="ja-wrapper">
+		<a name="Top" id="Top"></a>
+	
+		<!-- HEADER -->
+		<div id="ja-header" class="wrap">
+	<div class="main">
+		<div class="inner clearfix">
+	    		    	<h1 class="logo">
+	    		    		    		    					<a href="/index/" title="Maseno University"><img src="/index/images/logo/msu_banner2.png" alt="Maseno University" /></a>
+	    		    	
+	    	</h1>
+	    		    	
+	    		    	<div id="usertoolWrapper">
+	    		<ul class="ja-usertools-font">
+	<li><img style="cursor: pointer;" title="Increase font size" src="http://maseno.ac.ke/index/templates/cloudbaseuniversity/images/red/user-increase.png" alt="Increase font size" id="ja-tool-increase" onclick="switchFontSize('cloudbaseuniversity_ja_font','inc'); return false;" /></li>
+	<li><img style="cursor: pointer;" title="Default font size" src="http://maseno.ac.ke/index/templates/cloudbaseuniversity/images/red/user-reset.png" alt="Default font size" id="ja-tool-reset" onclick="switchFontSize('cloudbaseuniversity_ja_font',3); return false;" /></li>
+	<li><img style="cursor: pointer;" title="Decrease font size" src="http://maseno.ac.ke/index/templates/cloudbaseuniversity/images/red/user-decrease.png" alt="Decrease font size" id="ja-tool-decrease" onclick="switchFontSize('cloudbaseuniversity_ja_font','dec'); return false;" /></li>
+</ul>
+<script type="text/javascript">var CurrentFontSize=parseInt('3');</script>	    	</div>
+	    		    	
+	    		    </div>
+	</div>
+</div>
+		<!-- //HEADER -->
+	
+		<!-- MAIN NAVIGATION -->
+		<div id="ja-mainnav" class="wrap">
+<div class="main clearfix">
+	<div class="ja-megamenu clearfix">
+<ul class="megamenu level0"><li class="mega active first"><a href="/index/" class="mega active first" id="menu1" title="Home"><span class="menu-title">Home</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu27" title="About Maseno"><span class="menu-title">About Maseno</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=55" class="mega first" id="menu55" title="Service Charter"><span class="menu-title">Service Charter</span></a></li><li class="mega"></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=147&amp;Itemid=174" class="mega" id="menu174" title="Maseno in Brief"><span class="menu-title">Maseno in Brief</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=112&amp;Itemid=175" class="mega" id="menu175" title="General Information"><span class="menu-title">General Information</span></a></li><li class="mega last haschild"><a href="#" class="mega last haschild" id="menu176" title="Officers of the University"><span class="menu-title">Officers of the University</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=373&amp;Itemid=58" class="mega first" id="menu58" title="Chancellor"><span class="menu-title">Chancellor</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=59" class="mega" id="menu59" title="Vice-Chancellor"><span class="menu-title">Vice-Chancellor</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=62" class="mega" id="menu62" title="DVC Academic Affairs (AA)"><span class="menu-title">DVC Academic Affairs (AA)</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=63" class="mega" id="menu63" title="DVC Administration &amp; Finance"><span class="menu-title">DVC Administration &amp; Finance</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=64" class="mega" id="menu64" title="DVC Planning, Research &amp; Extention Services"><span class="menu-title">DVC Planning, Research &amp; Extention Services</span></a></li><li class="mega last"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=374&amp;Itemid=65" class="mega last" id="menu65" title="University Council"><span class="menu-title">University Council</span></a></li></ul></div></div>
+</div></div></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu80" title="Academics"><span class="menu-title">Academics</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=197&amp;Itemid=83" class="mega" id="menu83" title="School of Business &amp; Economics"><span class="menu-title">School of Business &amp; Economics</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=124" class="mega" id="menu124" title="School of the Arts and Social Sciences"><span class="menu-title">School of the Arts and Social Sciences</span></a></li><li class="mega haschild"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=201&amp;Itemid=84" class="mega haschild" id="menu84" title="School of Education"><span class="menu-title">School of Education</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=255&amp;Itemid=327" class="mega first" id="menu327" title="Department of Educational Communication, Technology &amp; Curriculum Studies"><span class="menu-title">Department of Educational Communication, Technology &amp; Curriculum Studies</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=300&amp;Itemid=85" class="mega" id="menu85" title="School of Medicine"><span class="menu-title">School of Medicine</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=298&amp;Itemid=144" class="mega" id="menu144" title="School of Development &amp; Strategic Studies"><span class="menu-title">School of Development &amp; Strategic Studies</span></a></li><li class="mega"></li><li class="mega"></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=299&amp;Itemid=312" class="mega" id="menu312" title="School of Environment &amp; Earth Sciences"><span class="menu-title">School of Environment &amp; Earth Sciences</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=297&amp;Itemid=305" class="mega" id="menu305" title="School of Biological and Physical Science"><span class="menu-title">School of Biological and Physical Science</span></a></li><li class="mega haschild"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=292&amp;Itemid=322" class="mega haschild" id="menu322" title="School of Public health &amp; Community Development"><span class="menu-title">School of Public health &amp; Community Development</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=223&amp;Itemid=355" class="mega first" id="menu355" title="Department of Public Health"><span class="menu-title">Department of Public Health</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=293&amp;Itemid=328" class="mega" id="menu328" title="School of Ecotourism,Hotel &amp; Institution Management"><span class="menu-title">School of Ecotourism,Hotel &amp; Institution Management</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=291&amp;Itemid=358" class="mega" id="menu358" title="School of Mathematics,Statistics and Actuarial Scciences"><span class="menu-title">School of Mathematics,Statistics and Actuarial Scciences</span></a></li><li class="mega"></li><li class="mega"></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=294&amp;Itemid=346" class="mega" id="menu346" title="School of Computing"><span class="menu-title">School of Computing</span></a></li><li class="mega haschild"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=295&amp;Itemid=369" class="mega haschild" id="menu369" title="School of Agriculture and Food Security"><span class="menu-title">School of Agriculture and Food Security</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=287&amp;Itemid=377" class="mega first" id="menu377" title="Department of Animal science"><span class="menu-title">Department of Animal science</span></a></li></ul></div></div>
+</div></div></li><li class="mega last"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=296&amp;Itemid=370" class="mega last" id="menu370" title="School of Planning &amp; Architecture"><span class="menu-title">School of Planning &amp; Architecture</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=412&amp;Itemid=103" class="mega" id="menu103" title="Admission"><span class="menu-title">Admission</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=145&amp;Itemid=168" class="mega" id="menu168" title="Students"><span class="menu-title">Students</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=155&amp;Itemid=105" class="mega" id="menu105" title="Library"><span class="menu-title">Library</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu165" title="Campuses"><span class="menu-title">Campuses</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="http://citycampus.maseno.ac.ke/" target="_blank" class="mega first" id="menu166" title="Kisumu Campus"><span class="menu-title">Kisumu Campus</span></a></li><li class="mega last"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=167" class="mega last" id="menu167" title="Homa-Bay Campus"><span class="menu-title">Homa-Bay Campus</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="http://ecampus.maseno.ac.ke/" target="_blank" class="mega" id="menu106" title="eCampus"><span class="menu-title">eCampus</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu169" title="Research"><span class="menu-title">Research</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=383&amp;Itemid=173" class="mega first" id="menu173" title="Research Publications By School"><span class="menu-title">Research Publications By School</span></a></li><li class="mega haschild"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=425&amp;Itemid=516" class="mega haschild" id="menu516" title="Conference Proceedings"><span class="menu-title">Conference Proceedings</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=637&amp;Itemid=623" class="mega first" id="menu623" title="CONFERENCE 2015"><span class="menu-title">CONFERENCE 2015</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a class="mega haschild" id="menu517" title="Directorates"><span class="menu-title">Directorates</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=426&amp;Itemid=518" class="mega first" id="menu518" title="Research, Publication &amp; Consultancy"><span class="menu-title">Research, Publication &amp; Consultancy</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=432&amp;Itemid=519" class="mega" id="menu519" title="Linkages &amp; Outreach"><span class="menu-title">Linkages &amp; Outreach</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=427&amp;Itemid=520" class="mega" id="menu520" title="Quality Assurance"><span class="menu-title">Quality Assurance</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=431&amp;Itemid=521" class="mega" id="menu521" title="Planning"><span class="menu-title">Planning</span></a></li><li class="mega last"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=436&amp;Itemid=540" class="mega last" id="menu540" title="Farm"><span class="menu-title">Farm</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=505&amp;Itemid=571" class="mega" id="menu571" title="Grant Opportunities"><span class="menu-title">Grant Opportunities</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu595" title="Maseno University Journals"><span class="menu-title">Maseno University Journals</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=559&amp;Itemid=596" class="mega first" id="menu596" title="2012"><span class="menu-title">2012</span></a></li><li class="mega last"><a href="http://maseno.ac.ke/index/images/news2015/MASENO%20UNIVERSITY%20JOURNAL%20Volume%20%201-Jan-2015-Final.pdf" target="_blank" class="mega last" id="menu622" title="2015"><span class="menu-title">2015</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a class="mega haschild" id="menu598" title="Research &amp; Consultancy Activities"><span class="menu-title">Research &amp; Consultancy Activities</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=615&amp;Itemid=465" class="mega first" id="menu465" title="Conferences 2014"><span class="menu-title">Conferences 2014</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=566&amp;Itemid=599" class="mega" id="menu599" title="Research"><span class="menu-title">Research</span></a></li><li class="mega last"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=565&amp;Itemid=600" class="mega last" id="menu600" title="Consultancies"><span class="menu-title">Consultancies</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=632&amp;Itemid=620" class="mega" id="menu620" title="LAVICORD"><span class="menu-title">LAVICORD</span></a></li><li class="mega last"><a class="mega last" id="menu621" title="Kisumu Local Interaction Platform (KLIP) Market Places"><span class="menu-title">Kisumu Local Interaction Platform (KLIP) Market Places</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=148&amp;Itemid=161" class="mega" id="menu161" title="Staff"><span class="menu-title">Staff</span></a></li><li class="mega"><a href="/index/index.php?option=com_content&amp;view=article&amp;id=423&amp;Itemid=107" class="mega" id="menu107" title="Contact Us"><span class="menu-title">Contact Us</span></a></li><li class="mega last"><a href="http://alumni.maseno.ac.ke/" target="_blank" class="mega last" id="menu604" title="Alumni"><span class="menu-title">Alumni</span></a></li></ul>
+</div>			<script type="text/javascript">
+			var megamenu = new jaMegaMenuMoo ('ja-mainnav', {
+				'bgopacity': 0, 
+				'delayHide': 1000, 
+				'slide': 1, 
+				'fading': 1,
+				'direction':'down',
+				'action':'mouseover',
+				'tips': false,
+				'duration': 300,
+				'hidestyle': 'fastwhenshow'
+			});			
+			</script>
+			</div>
+</div>
+
+
+<ul class="no-display">
+    <li><a href="/index/#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>
+		<!-- //MAIN NAVIGATION -->
+		
+		<div id="ja-rotator" class="wrap">
+	<div class="main clearfix">
+						<div class="ja-moduletable moduletable  clearfix" id="Mod54">
+		<div class="module-inside">
+									<div class="ja-box-ct clearfix">
+				<div class="ja-box-ct-inside">
+					<!-- debut maximenu_CK, par cedric keiflin sur http://www.joomlack.fr -->
+<div class="maximenuCKH" id="maximenuCK" style="z-index:10;">
+    <div class="maxiRoundedleft"></div>
+    <div class="maxiRoundedcenter">
+	<ul class="menu maximenuCK" style="">
+		<li class="maximenuCK first item1 current active level0 " style="z-index : 12000;"><a class="maximenuCK " href="http://maseno.ac.ke/index/"><span class="titreCK">Home</span></a>
+		</li>
+<li class="maximenuCK parent first item27 level0 " style="z-index : 11999;"><a class="maximenuCK " href="#"><span class="titreCK">About Maseno</span></a>
+	<div class="floatCK cols1" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first first item55 last level1 " style="z-index : 11998;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=55"><span class="titreCK">Service Charter</span></a>
+		</li>
+</ul><div class="clr"></div></div><div class="maximenuCK2" ><ul class="maximenuCK2"><li class="maximenuCK first item174 level1 " style="z-index : 11996;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=147&amp;Itemid=174"><span class="titreCK">Maseno in Brief</span></a>
+		</li>
+<li class="maximenuCK item175 level1 " style="z-index : 11995;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=112&amp;Itemid=175"><span class="titreCK">General Information</span></a>
+		</li>
+<li class="maximenuCK parent item176 level1 " style="z-index : 11994;"><a class="maximenuCK " href="#"><span class="titreCK">Officers of the University</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item58 level2 " style="z-index : 11993;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=373&amp;Itemid=58"><span class="titreCK">Chancellor</span></a>
+		</li>
+<li class="maximenuCK item59 level2 " style="z-index : 11992;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=59"><span class="titreCK">Vice-Chancellor</span></a>
+		</li>
+<li class="maximenuCK item62 level2 " style="z-index : 11991;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=62"><span class="titreCK">DVC Academic Affairs (AA)</span></a>
+		</li>
+<li class="maximenuCK item63 level2 " style="z-index : 11990;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=63"><span class="titreCK">DVC Administration & Finance</span></a>
+		</li>
+<li class="maximenuCK item64 level2 " style="z-index : 11989;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=64"><span class="titreCK">DVC Planning, Research & Extention Services</span></a>
+		</li>
+<li class="maximenuCK item65 last level2 " style="z-index : 11988;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=374&amp;Itemid=65"><span class="titreCK">University Council</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK parent item80 level0 " style="z-index : 11987;"><a class="maximenuCK " href="#"><span class="titreCK">Academics</span></a>
+	<div class="floatCK cols3" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item82 level1 " style="z-index : 11986;"><a class="maximenuCK " href="#"><span class="titreCK"><img src="/index/images/stories/schools2.png" border="0" alt="[img]" align="left" /></span></a>
+		</li>
+<li class="maximenuCK item83 level1 " style="z-index : 11985;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=197&amp;Itemid=83"><span class="titreCK">School of Business & Economics</span></a>
+		</li>
+<li class="maximenuCK item124 level1 " style="z-index : 11984;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=124"><span class="titreCK">School of the Arts and Social Sciences</span></a>
+		</li>
+<li class="maximenuCK parent item84 level1 " style="z-index : 11983;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=201&amp;Itemid=84"><span class="titreCK">School of Education</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item327 last level2 " style="z-index : 11982;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=255&amp;Itemid=327"><span class="titreCK">Department of Educational Communication, Technology & Curriculum Studies</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item85 level1 " style="z-index : 11981;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=300&amp;Itemid=85"><span class="titreCK">School of Medicine</span></a>
+		</li>
+<li class="maximenuCK item144 last level1 " style="z-index : 11980;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=298&amp;Itemid=144"><span class="titreCK">School of Development & Strategic Studies</span></a>
+		</li>
+</ul><div class="clr"></div></div><div class="maximenuCK2" ><ul class="maximenuCK2"><li class="maximenuCK first item92 level1 " style="z-index : 11978;"><a class="maximenuCK " href="#"><span class="titreCK"><img src="/index/images/stories/blank.png" border="0" alt="[img]" align="left" /></span></a>
+		</li>
+<li class="maximenuCK item312 level1 " style="z-index : 11977;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=299&amp;Itemid=312"><span class="titreCK">School of Environment & Earth Sciences</span></a>
+		</li>
+<li class="maximenuCK item305 level1 " style="z-index : 11976;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=297&amp;Itemid=305"><span class="titreCK">School of Biological and Physical Science</span></a>
+		</li>
+<li class="maximenuCK parent item322 level1 " style="z-index : 11975;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=292&amp;Itemid=322"><span class="titreCK">School of Public health & Community Development</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item355 last level2 " style="z-index : 11974;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=223&amp;Itemid=355"><span class="titreCK">Department of Public Health</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item328 level1 " style="z-index : 11973;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=293&amp;Itemid=328"><span class="titreCK">School of Ecotourism,Hotel & Institution Management</span></a>
+		</li>
+<li class="maximenuCK item358 last level1 " style="z-index : 11972;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=291&amp;Itemid=358"><span class="titreCK">School of Mathematics,Statistics and Actuarial Scciences</span></a>
+		</li>
+</ul><div class="clr"></div></div><div class="maximenuCK2" ><ul class="maximenuCK2"><li class="maximenuCK first item133 level1 " style="z-index : 11970;"><a class="maximenuCK " href="/index/"><span class="titreCK"><img src="/index/images/stories/blank.png" border="0" alt="[img]" align="left" /></span></a>
+		</li>
+<li class="maximenuCK item346 level1 " style="z-index : 11969;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=294&amp;Itemid=346"><span class="titreCK">School of Computing</span></a>
+		</li>
+<li class="maximenuCK parent item369 level1 " style="z-index : 11968;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=295&amp;Itemid=369"><span class="titreCK">School of Agriculture and Food Security</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item377 last level2 " style="z-index : 11967;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=287&amp;Itemid=377"><span class="titreCK">Department of Animal science</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item370 last level1 " style="z-index : 11966;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=296&amp;Itemid=370"><span class="titreCK">School of Planning & Architecture</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item103 level0 " style="z-index : 11965;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=412&amp;Itemid=103"><span class="titreCK">Admission</span></a>
+		</li>
+<li class="maximenuCK item168 level0 " style="z-index : 11964;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=145&amp;Itemid=168"><span class="titreCK">Students</span></a>
+		</li>
+<li class="maximenuCK item105 level0 " style="z-index : 11963;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=155&amp;Itemid=105"><span class="titreCK">Library</span></a>
+		</li>
+<li class="maximenuCK parent item165 level0 " style="z-index : 11962;"><a class="maximenuCK " href="#"><span class="titreCK">Campuses</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item166 level1 " style="z-index : 11961;"><a class="maximenuCK " href="http://citycampus.maseno.ac.ke/" target="_blank"><span class="titreCK">Kisumu Campus</span></a>
+		</li>
+<li class="maximenuCK item167 last level1 " style="z-index : 11960;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=167"><span class="titreCK">Homa-Bay Campus</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item106 level0 " style="z-index : 11959;"><a class="maximenuCK " href="http://ecampus.maseno.ac.ke/" target="_blank"><span class="titreCK">eCampus</span></a>
+		</li>
+<li class="maximenuCK parent item169 level0 " style="z-index : 11958;"><a class="maximenuCK " href="#"><span class="titreCK">Research</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item173 level1 " style="z-index : 11957;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=383&amp;Itemid=173"><span class="titreCK">Research Publications By School</span></a>
+		</li>
+<li class="maximenuCK parent item516 level1 " style="z-index : 11956;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=425&amp;Itemid=516"><span class="titreCK">Conference Proceedings</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item623 last level2 " style="z-index : 11955;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=637&amp;Itemid=623"><span class="titreCK">CONFERENCE 2015</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK parent item517 level1 " style="z-index : 11954;"><a class="maximenuCK " href="/index/"><span class="titreCK">Directorates</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item518 level2 " style="z-index : 11953;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=426&amp;Itemid=518"><span class="titreCK">Research, Publication & Consultancy</span></a>
+		</li>
+<li class="maximenuCK item519 level2 " style="z-index : 11952;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=432&amp;Itemid=519"><span class="titreCK">Linkages & Outreach</span></a>
+		</li>
+<li class="maximenuCK item520 level2 " style="z-index : 11951;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=427&amp;Itemid=520"><span class="titreCK">Quality Assurance</span></a>
+		</li>
+<li class="maximenuCK item521 level2 " style="z-index : 11950;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=431&amp;Itemid=521"><span class="titreCK">Planning</span></a>
+		</li>
+<li class="maximenuCK item540 last level2 " style="z-index : 11949;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=436&amp;Itemid=540"><span class="titreCK">Farm</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item571 level1 " style="z-index : 11948;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=505&amp;Itemid=571"><span class="titreCK">Grant Opportunities</span></a>
+		</li>
+<li class="maximenuCK parent item595 level1 " style="z-index : 11947;"><a class="maximenuCK " href="#"><span class="titreCK">Maseno University Journals</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item596 level2 " style="z-index : 11946;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=559&amp;Itemid=596"><span class="titreCK">2012</span></a>
+		</li>
+<li class="maximenuCK item622 last level2 " style="z-index : 11945;"><a class="maximenuCK " href="http://maseno.ac.ke/index/images/news2015/MASENO%20UNIVERSITY%20JOURNAL%20Volume%20%201-Jan-2015-Final.pdf" target="_blank"><span class="titreCK">2015</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK parent item598 level1 " style="z-index : 11944;"><a class="maximenuCK " href="/index/"><span class="titreCK">Research & Consultancy Activities</span></a>
+	<div class="floatCK" ><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first " >
+	<ul class="maximenuCK2"><li class="maximenuCK first item465 level2 " style="z-index : 11943;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=615&amp;Itemid=465"><span class="titreCK">Conferences 2014</span></a>
+		</li>
+<li class="maximenuCK item599 level2 " style="z-index : 11942;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=566&amp;Itemid=599"><span class="titreCK">Research</span></a>
+		</li>
+<li class="maximenuCK item600 last level2 " style="z-index : 11941;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=565&amp;Itemid=600"><span class="titreCK">Consultancies</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item620 level1 " style="z-index : 11940;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=632&amp;Itemid=620"><span class="titreCK">LAVICORD</span></a>
+		</li>
+<li class="maximenuCK item621 last level1 " style="z-index : 11939;"><a class="maximenuCK " href="/index/"><span class="titreCK">Kisumu Local Interaction Platform (KLIP) Market Places</span></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li><li class="maximenuCK item161 level0 " style="z-index : 11938;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=148&amp;Itemid=161"><span class="titreCK">Staff</span></a>
+		</li>
+<li class="maximenuCK item107 level0 " style="z-index : 11937;"><a class="maximenuCK " href="/index/index.php?option=com_content&amp;view=article&amp;id=423&amp;Itemid=107"><span class="titreCK">Contact Us</span></a>
+		</li>
+<li class="maximenuCK item604 level0 " style="z-index : 11936;"><a class="maximenuCK " href="http://alumni.maseno.ac.ke/" target="_blank"><span class="titreCK">Alumni</span></a></li>	</ul>
+    </div>
+    <div class="maxiRoundedright"></div>
+    <div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin maximenuCK -->
+				</div>
+			</div>
+		</div>
+    </div>
+	
+			</div>
+</div>		
+			
+		<!-- MAIN CONTAINER -->
+		<div id="ja-container" class="wrap ja-r1">
+		<div class="main clearfix">
+			
+			<div id="ja-mainbody" style="width:78%">
+				<!-- CONTENT -->
+<div id="ja-main" style="width:100%">
+<div class="inner clearfix">
+	
+	
+
+	
+		<div class="ja-mass ja-mass-top clearfix">
+			<div class="ja-moduletable moduletable  clearfix" id="Mod117">
+		<div class="module-inside">
+									<div class="ja-box-ct clearfix">
+				<div class="ja-box-ct-inside">
+					<div id="ais_117_wrapper" class="ari-image-slider-wrapper ari-is-theme-default ari-image-slider-wCtrlNav">
+	<div id="ais_117" class="ari-image-slider nivoSlider">
+					<img src="/index/images/slides/a.jpg" alt="" title="" class="imageslider-item" />
+							<img src="/index/images/slides/b.jpg" alt="" title="" class="imageslider-item" style="display:none" />
+							<img src="/index/images/slides/c.jpg" alt="" title="" class="imageslider-item" style="display:none" />
+							<img src="/index/images/slides/d.fw.png" alt="" title="" class="imageslider-item" style="display:none" />
+							<img src="/index/images/slides/e.fw.png" alt="" title="" class="imageslider-item" style="display:none" />
+					<div class="nivo-controlNavHolder">
+			<div class="nivo-controlNav">
+							<a rel="0" class="nivo-control active">
+					<span style="width:px;height:px" class="nivo-thumbNavWrapper">
+						0						<span class="nivo-arrow-border"></span>
+						<span class="nivo-arrow"></span>
+					</span>
+				</a>
+							<a rel="1" class="nivo-control">
+					<span style="width:px;height:px" class="nivo-thumbNavWrapper">
+						1						<span class="nivo-arrow-border"></span>
+						<span class="nivo-arrow"></span>
+					</span>
+				</a>
+							<a rel="2" class="nivo-control">
+					<span style="width:px;height:px" class="nivo-thumbNavWrapper">
+						2						<span class="nivo-arrow-border"></span>
+						<span class="nivo-arrow"></span>
+					</span>
+				</a>
+							<a rel="3" class="nivo-control">
+					<span style="width:px;height:px" class="nivo-thumbNavWrapper">
+						3						<span class="nivo-arrow-border"></span>
+						<span class="nivo-arrow"></span>
+					</span>
+				</a>
+							<a rel="4" class="nivo-control">
+					<span style="width:px;height:px" class="nivo-thumbNavWrapper">
+						4						<span class="nivo-arrow-border"></span>
+						<span class="nivo-arrow"></span>
+					</span>
+				</a>
+						</div>
+		</div>
+		</div>
+</div>				</div>
+			</div>
+		</div>
+    </div>
+	
+	</div>
+	
+	<div id="ja-contentwrap" class="">
+				<div id="ja-content" class="column" style="width:100%">
+
+			<div id="ja-current-content" class="column" style="width:100%">
+								
+				
+							</div>
+
+			
+		</div>
+		
+			</div>
+
+		<div class="ja-mass ja-mass-bottom clearfix">
+			<div class="ja-moduletable moduletable  clearfix" id="Mod62">
+		<div class="module-inside">
+									<h3><span>NEWS</span></h3>
+						<div class="ja-box-ct clearfix">
+				<div class="ja-box-ct-inside">
+					<table border="0">
+<tbody>
+<tr>
+<td><img src="/index/images/stories/latest-dec-uploads/maseno-journal-15.fw.png" alt="" height="125" width="172" /><br />&nbsp;</td>
+<td valign="top"></td>
+<td valign="top">
+<h3><span style="color: #73a049;"><strong><span style="color: #73a049;"><strong><span class="ja-title"><strong><span class="ja-title">MASENO UNIVERSITY JOURNAL,&nbsp; JANUARY 2015</span></strong></span></strong></span></strong></span></h3>
+<p><span style="color: #73a049;"><strong><strong><a target="_blank" href="/index/images/news2015/MASENO%20UNIVERSITY%20JOURNAL%20Volume%20%201-Jan-2015-Final.pdf">Read More...</a></strong></strong></span></p>
+</td>
+<td valign="top"></td>
+<td valign="top"><img src="/index/images/stories/eco-conference.jpg" alt="" height="113" width="180" /></td>
+<td valign="top"></td>
+<td valign="top">
+<h3><span style="color: #73a049;"><strong><span class="ja-title"><strong><span class="ja-title">INTERNATIONAL CONFERENCE ON INTEGRATED ECOSYSTEM AND WATER MANAGEMENT IN THE LAKE VICTORIA BASIN LAUNCHED<br /></span></strong></span></strong></span></h3>
+<a href="/index/index.php?option=com_content&amp;view=article&amp;id=637&amp;Itemid=623">Read More...</a></td>
+</tr>
+<tr>
+<td valign="top"></td>
+<td valign="top"></td>
+<td></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top"><img src="/index/images/stories/graduation-pic2.fw.png" alt="" height="126" width="179" /></td>
+<td valign="top"></td>
+<td valign="top">
+<h3><span style="color: #73a049;"><span style="color: #73a049;"><span class="ja-title"><span style="color: #4caa27;"><span href="/index/../index2/index.php/news-and-events/102-forget-about-the-mandate-let-s-fix-health-care" class="ja-title"></span></span></span></span><strong>SUMMARY OF THE 14TH GRADUATION CEREMONEY<br /></strong></span></h3>
+<p><span style="color: #73a049;"><strong>&nbsp;</strong></span></p>
+<p><span style="color: #73a049;"><strong><a target="_blank" href="/index/index.php?option=com_content&amp;view=article&amp;id=635:14th-graduation-ceremony&amp;catid=115:more-news">Read More....</a></strong></span></p>
+</td>
+<td valign="top"></td>
+<td valign="top"><br />&nbsp;<img src="/index/images/stories/documentary.jpg" alt="" height="108" width="170" /></td>
+<td valign="top"></td>
+<td valign="top">
+<h3>&nbsp;</h3>
+<h3><span style="color: #73a049;"><strong><span class="ja-title"><strong><span class="ja-title">MASENO UNIVERSITY GRADUATION DOCUMENTARY</span></strong></span></strong></span></h3>
+<h3>&nbsp;</h3>
+<h3><span style="color: #73a049;"><strong><span class="ja-title"><strong><span class="ja-title">&nbsp;</span></strong></span></strong></span></h3>
+<h3><span style="color: #73a049;"><strong><span class="ja-title"><strong><span class="ja-title"><span style="color: #73a049;"><strong><span class="ja-title"><strong><span class="ja-title"><a target="_blank" href="https://www.youtube.com/watch?v=LIOZp1GKtzQ&amp;feature=em-upload_owner">View video...</a><br /></span></strong></span></strong></span></span></strong></span></strong></span></h3>
+</td>
+</tr>
+</tbody>
+</table>				</div>
+			</div>
+		</div>
+    </div>
+	
+	</div>
+	
+</div>
+</div>
+<!-- //CONTENT -->							</div>
+	
+			<!-- RIGHT COLUMN--> 
+<div id="ja-right" class="column sidebar" style="width:22%">
+
+	
+		<div class="ja-colswrap clearfix ja-r1">
+
+			<div class="ja-col  column" style="width:100%">
+				<div class="ja-moduletable moduletable  clearfix" id="Mod61">
+		<div class="module-inside">
+									<h3><span>NOTICE BOARD</span></h3>
+						<div class="ja-box-ct clearfix">
+				<div class="ja-box-ct-inside">
+									</div>
+			</div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod1503">
+		<div class="module-inside">
+									<div class="ja-box-ct clearfix">
+				<div class="ja-box-ct-inside">
+					<table _mce_new="1" border="0">
+<tbody>
+<tr>
+<td>
+<h3><img src="/index/images/stories/newbutton-animated.gif" alt="" height="31" width="31" />Maseno University Ethics Review Committee (MUERC 2015)</h3>
+<ul>
+<li><strong><a target="_blank" href="/index/images/news2015/Schedule_of_MUERC__Meetings_-_2015_S1.pdf">Schedule for MUERC Meetings</a></strong></li>
+<li><strong><a target="_blank" href="/index/images/news2015/REQUEST_FOR_REVIEW_OF_PROTOCOL_BY_MUERC_F1_2015.pdf">Review Application Form</a></strong></li>
+<li><a target="_blank" href="/index/images/news2015/Fee_Charges_for_MUERC_Applications_F1_JANUARY_2015.pdf"><strong>New Review Fee Charges<hr /></strong></a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Notice<br />Board of Trustees By-Election Administrative Staff KUSU Cadre (Grade 5 - 15)- Maseno University Retirement Benefits Scheme<br />(MURBS)</h3>
+<ul>
+<li><strong><a target="_blank" href="/index/images/news2015/trustee_by-election_20feb2015_notice.pdf">Notice</a></strong></li>
+<li><strong><a target="_blank" href="/index/images/news2015/trustee_by-election_20feb2015_election_rules_2.pdf">Election Rules</a></strong></li>
+<li><strong><a target="_blank" href="/index/images/news2015/MURBS_ELECTION_POLICY2.pdf">MURBS Election Policy</a></strong><hr /></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<h3><a target="_blank" href="http://ecampus.maseno.ac.ke/pht112.php">PHT 112 Information Page</a></h3>
+</td>
+</tr>
+<tr>
+<td>
+<h3><a href="/index/images/news2014/advert-%20january%202015%20intake%20supplement%20final.pdf" target="_blank">January 2015 - Intake Supplement</a></h3>
+</td>
+</tr>
+<tr>
+<td><a target="_blank" href="/index/images/news2014/fees/Varsity_Plaza_offices.pdf">
+<h3><img src="/index/images/stories/pics-2014/varsity-plaza-offices-to-let.png" alt="" height="146" width="131" /></h3>
+</a></td>
+</tr>
+</tbody>
+</table>				</div>
+			</div>
+		</div>
+    </div>
+	
+		</div>
+	
+	
+	</div>
+	
+	
+</div>
+<!-- RIGHT COLUMN--> 
+	
+		</div>
+		</div>
+		<!-- //MAIN CONTAINER -->
+	
+		<!-- BOTTOM SPOTLIGHT -->
+<div id="ja-botsl" class="wrap">
+<div class="main clearfix">
+
+		<div class="ja-box column ja-box-left" style="width: 20%;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod58">
+						<div class="ja-box-ct clearfix">
+		<h3><a href="/index/index.php?option=com_content&amp;view=article&amp;id=114:postgraduate-programmes&amp;catid=53:postgraduate&amp;Itemid=150"><img src="/index/images/stories/postgraduate.png" alt="" /></a></h3>
+<h3><strong>BUSINESS UNITS</strong></h3>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box-center" style="width: 20%;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod57">
+						<div class="ja-box-ct clearfix">
+		<p><a href="/index/index.php?option=com_content&amp;view=article&amp;id=69:undergraduate-programmes&amp;catid=52:undergraduate&amp;Itemid=136"><img src="/index/images/stories/undergraduate.png" alt="" /></a></p>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box-center" style="width: 20%;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod56">
+						<div class="ja-box-ct clearfix">
+		<p><a href="/index/index.php?option=com_content&amp;view=article&amp;id=109:diploma-programmes&amp;catid=51:diploma&amp;Itemid=137"><img src="/index/images/stories/diploma.png" alt="" /></a></p>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box-center" style="width: 20%;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod55">
+						<div class="ja-box-ct clearfix">
+		<p><a href="/index/index.php?option=com_content&amp;view=article&amp;id=108&amp;Itemid=138"><img src="/index/images/stories/certificate.png" alt="" /></a><a href="/index/index.php?option=com_content&amp;view=article&amp;id=108:certificate-programmes&amp;catid=50:certificate&amp;Itemid=138"></a></p>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box-right" style="width: 20%;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod63">
+						<div class="ja-box-ct clearfix">
+		<p><a href="http://maseno.ac.ke/index/index.php?option=com_content&amp;view=article&amp;id=412&amp;Itemid=103"><img src="/index/images/stories/applynow.png" alt="" height="171" width="170" /></a></p>		</div>
+    </div>
+	
+	</div>
+		
+		<div class="ja-box column ja-box" style="width: ;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod1517">
+						<div class="ja-box-ct clearfix">
+		<p><a href="/index/index.php?option=com_content&amp;view=article&amp;id=421&amp;Itemid=510">
+<p><img src="/index/images/stories/fruit/bookshop.png" alt="" height="146" width="172" /></p>
+</a></p>		</div>
+    </div>
+	
+	</div>
+	
+		<div class="ja-box column ja-box" style="width: ;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod1518">
+						<div class="ja-box-ct clearfix">
+		<p><a target="_blank" href="http://www.msukisumuhotel.co.ke/">
+<p><img src="/index/images/stories/fruit/kisumu hotel.png" alt="" height="151" width="178" /></p>
+</a></p>		</div>
+    </div>
+	
+	</div>
+		
+		<div class="ja-box column ja-box" style="width: ;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod1519">
+						<div class="ja-box-ct clearfix">
+		<p><a href="/index/index.php?option=com_content&amp;view=article&amp;id=436&amp;Itemid=540">
+<p><img src="/index/images/stories/fruit/university farm.png" alt="" height="158" width="188" /></p>
+</a></p>		</div>
+    </div>
+	
+	</div>
+		
+		<div class="ja-box column ja-box" style="width: ;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod1520">
+						<div class="ja-box-ct clearfix">
+		<p><a target="_blank" href="http://citycampus.maseno.ac.ke/index.php/business-incubator">
+<p><img src="/index/images/stories/fruit/business incubator.png" alt="" height="155" width="186" /></p>
+</a></p>		</div>
+    </div>
+	
+	</div>
+		
+		<div class="ja-box column ja-box" style="width: ;">
+			<div class="ja-moduletable moduletable  clearfix equalsBottom" id="Mod1521">
+						<div class="ja-box-ct clearfix">
+		<p><a href="/index/index.php?option=com_content&amp;view=article&amp;id=574:varsity-news&amp;catid=115:more-news"><img src="/index/images/stories/fruit/varsity news.png" alt="" height="154" width="181" /></a></p>
+<p>&nbsp;</p>		</div>
+    </div>
+	
+	</div>
+	
+</div>
+</div>
+<!-- //BOTTOM SPOTLIGHT -->
+	
+		<!-- FOOTER -->
+		<div class="ja-navhelper wrap">
+<div class="main clearfix">
+    
+    <ul class="ja-links">
+		
+		
+	</ul>
+	
+	<ul class="no-display">
+		<li><a href="/index/#ja-content" title="Skip to content">Skip to content</a></li>
+	</ul>
+
+</div>
+</div>
+
+<div id="ja-footer" class="wrap">
+	<div class="main clearfix">
+		<div class="inFooter clearfix">
+						<div class="ca-footerleft">
+				<a href="http://www.maseno.ac.ke"></a>
+			</div>
+						<div class="ca-footermiddle" 	>
+				<div class="ja-copyright">
+					<div class="bannergroup">
+
+
+</div><small>Copyright &#169; 2015 Maseno University. All Rights Reserved. Designed & Maintained by ICTs </small>
+<small></small>
+				</div>
+				
+			</div>
+						<div class="ca-footerright">
+				CONNECT WITH US. &nbsp;<a href="http://www.facebook.com/MasenoUniversity" target="_blank"><img src="/index/templates/cloudbaseuniversity/images/fb2.png" alt="fb" /></a>
+<a href="https://twitter.com/maseno_uni" target="_blank"><img src="/index/templates/cloudbaseuniversity/images/twitter.png" alt="fb" /></a>
+			</div>	
+				
+		</div>
+                
+	</div>
+
+</div>		<!-- //FOOTER -->
+	
+	</div>
+	
+	<!-- COPYRIGHT BLOCK -->
+	<p class="clearfix" align="center" style="margin:10px 0;">
+</p>
+	<!-- //COPYRIGHT BLOCK -->
+
+
+
+</body>
+</html>

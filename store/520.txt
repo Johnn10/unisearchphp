@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+	<head>
+		
+<script type="text/javascript">
+	var big = '72%';
+	var small = '53%';
+	var bildauf = '/dsvol/templates/kudigital/images/plus.png';
+	var bildzu = '/dsvol/templates/kudigital/images/minus.png';
+	var rightopen='TPL_BEEZ3_TEXTRIGHTOPEN';
+	var rightclose='TPL_BEEZ3_TEXTRIGHTCLOSE';
+	var altopen='TPL_BEEZ3_ALTOPEN';
+	var altclose='TPL_BEEZ3_ALTCLOSE';
+</script>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no"/>
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="apple-mobile-web-app-capable" content="YES" />
+		  <base href="http://www.ku.ac.ke/dsvol/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Kenyatta University,(commonly initialized as KU) is located in Nairobi, Kenya. The University main campus is located in Kahawa, about 20 kilometres (12 mi) from Nairobi's city centre, along the Nairobi-Thika road. The institution is the second largest in Kenya. In 1997 it had about 8,000 students. As of 2009, has about 24,000 students" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>KENYATTA UNIVERSITY’S DIGITAL SCHOOL OF VIRTUAL &amp; OPEN LEARNING - Home</title>
+  <link href="http://ku.ac.ke/dsvol/" rel="canonical" />
+  <link href="/dsvol/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/dsvol/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/dsvol/templates/kudigital/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.ku.ac.ke/dsvol/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.ku.ac.ke/dsvol/templates/kudigital/css/gtevo.css" type="text/css" media="screen,projection" />
+  <link rel="stylesheet" href="/dsvol/modules/mod_lofarticlescroller/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/dsvol/modules/mod_lofarticlesslideshow/assets/jstyle.css" type="text/css" />
+  <script src="/dsvol/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/dsvol/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/dsvol/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/dsvol/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/dsvol/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/dsvol/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/dsvol/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/dsvol/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/dsvol/templates/kudigital/js/jquery-1.10.2.min.js" type="text/javascript"></script>
+  <script src="/dsvol/templates/kudigital/js/gtEvolution.js" type="text/javascript"></script>
+  <script src="/dsvol/modules/mod_lofarticlescroller/assets/script_12.js" type="text/javascript"></script>
+  <script src="/dsvol/modules/mod_lofarticlesslideshow/assets/jscript.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  </script>
+  <script type="text/javascript">
+    (function() {
+      var strings = {"TPL_BEEZ3_ALTOPEN":"TPL_BEEZ3_ALTOPEN","TPL_BEEZ3_ALTCLOSE":"TPL_BEEZ3_ALTCLOSE","TPL_BEEZ3_TEXTRIGHTOPEN":"TPL_BEEZ3_TEXTRIGHTOPEN","TPL_BEEZ3_TEXTRIGHTCLOSE":"TPL_BEEZ3_TEXTRIGHTCLOSE","TPL_BEEZ3_FONTSIZE":"TPL_BEEZ3_FONTSIZE","TPL_BEEZ3_BIGGER":"TPL_BEEZ3_BIGGER","TPL_BEEZ3_RESET":"TPL_BEEZ3_RESET","TPL_BEEZ3_SMALLER":"TPL_BEEZ3_SMALLER","TPL_BEEZ3_INCREASE_SIZE":"TPL_BEEZ3_INCREASE_SIZE","TPL_BEEZ3_REVERT_STYLES_TO_DEFAULT":"TPL_BEEZ3_REVERT_STYLES_TO_DEFAULT","TPL_BEEZ3_DECREASE_SIZE":"TPL_BEEZ3_DECREASE_SIZE","TPL_BEEZ3_OPENMENU":"TPL_BEEZ3_OPENMENU","TPL_BEEZ3_CLOSEMENU":"TPL_BEEZ3_CLOSEMENU"};
+      if (typeof Joomla == 'undefined') {
+        Joomla = {};
+        Joomla.JText = strings;
+      }
+      else {
+        Joomla.JText.load(strings);
+      }
+    })();
+  </script>
+
+		<!--[if IE 7]>
+		<link href="/dsvol/templates/kudigital/css/ie7only.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+	</head>
+<body id='shadow' class='stripe'>		<div class='mobilemenu'>
+			<div class='mobilemenuicon'>
+				menu
+			</div>
+			<div class='clear'> </div>
+			<ul class="nav menu">
+<li class="item-101 current active"><a href="/dsvol/" >Home</a></li><li class="item-103"><a href="/dsvol/index.php/about-us" >About Us</a></li><li class="item-111"><a href="/dsvol/index.php/programs" >Programs</a></li><li class="item-112"><a href="/dsvol/index.php/registration" >Registration</a></li><li class="item-107"><a href="/dsvol/index.php/contacts" >Contact Us</a></li></ul>
+			
+		</div>
+		<div class='desktop'>		
+			<div id="all">
+				<div id="back">
+					<header id="header">
+						<div class='wrapper'>		
+							<div class="logoheader">
+								<h1 id="logo">
+									<a href='http://www.ku.ac.ke/dsvol' title="Kenyatta University’s Digital School">
+										<img src="/dsvol/templates/kudigital/images/logo.png" alt="Kenyatta University’s Digital School">
+									</a>
+									<div class="motto" title="Kenyatta University’s Digital School">Kenyatta University’s Digital School 
+									of Virtual & Open Learning</div>
+								</h1>
+								<div class='clear'> </div>
+							</div><!-- end logoheader -->
+							<div id="topright">
+								
+
+<div class="custom"  >
+	<div class="facebook"><a href="https://www.facebook.com/kenyattauni?ref=hl" target="_blank">facebook</a></div>
+<div class="twitter"><a href="https://twitter.com/KenyattaUni" target="_blank">twitter</a></div>
+<!--<div class="youtube"><a href="/dsvol/facebook.com"  target="_blank">youtube</a></div>
+<div class="googleplus"><a href="/dsvol/facebook.com"  target="_blank">g+</a></div>--></div>
+<div class="search">
+	<form action="/dsvol/index.php" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search</label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="101" />
+	</form>
+</div>
+
+							</div>
+							<div class='clear'></div>
+						</div>
+					</header><!-- end header -->
+					<div id="mainmenu">
+						<div class='wrapper'>		
+							<ul class="nav menu">
+<li class="item-101 current active"><a href="/dsvol/" >Home</a></li><li class="item-103"><a href="/dsvol/index.php/about-us" >About Us</a></li><li class="item-111"><a href="/dsvol/index.php/programs" >Programs</a></li><li class="item-112"><a href="/dsvol/index.php/registration" >Registration</a></li><li class="item-107"><a href="/dsvol/index.php/contacts" >Contact Us</a></li></ul>
+
+							<div class='clear'> </div>
+						</div>
+					</div> <!-- end line -->
+											<div class="topbanner">
+							<div class="stripetrick"></div>
+							<!------------------------------------- THE CONTENT ------------------------------------------------->
+<div id="lofass95" class="lof-ass ">
+<div class="lofass-container  lof-css3  ">
+    
+        <div class="preload"><div></div></div>
+            <div class="lof-startstop"><div></div></div>
+         
+     <!-- MAIN CONTENT --> 
+      <div class="lof-main-wapper" id="lof-main-wapper">
+      	
+                      <div class="lof-main-item ">
+                              
+                <img src="http://www.ku.ac.ke/dsvol/cache/lofthumbs/1302x456-KU-digital-school-main-banner2.png" title="THE ANYWHERE SCHOOL" alt="THE ANYWHERE SCHOOL" >				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="THE ANYWHERE SCHOOL" href="/dsvol/index.php/anywhere">THE ANYWHERE SCHOOL</a></h4>
+                                        <p>
+                                            <a target="_parent" title="THE ANYWHERE SCHOOL" href="/dsvol/index.php/anywhere" class="bannerreadmore">FIND OUT MORE!</a>
+                    </p>
+                                     </div>
+                                              </div> 
+                        <div class="lof-main-item">
+                              
+                <img src="http://www.ku.ac.ke/dsvol/cache/lofthumbs/1302x456-1new.jpg" title="Take less time" alt="Take less time" >				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="Take less time" href="/dsvol/index.php/less-time">Take less time</a></h4>
+                                        <p>
+                                            <a target="_parent" title="Take less time" href="/dsvol/index.php/less-time" class="bannerreadmore">FIND OUT MORE!</a>
+                    </p>
+                                     </div>
+                                              </div> 
+                        <div class="lof-main-item">
+                              
+                <img src="http://www.ku.ac.ke/dsvol/cache/lofthumbs/1302x456-KU-digital-school-main-banner1.png" title="Save Money" alt="Save Money" >				
+                 
+                     
+                 <div class="lof-description">
+                    <h4><a target="_parent" title="Save Money" href="/dsvol/index.php/save-money">Save Money</a></h4>
+                                        <p>
+                                            <a target="_parent" title="Save Money" href="/dsvol/index.php/save-money" class="bannerreadmore">FIND OUT MORE!</a>
+                    </p>
+                                     </div>
+                                              </div> 
+                    
+      </div>
+      <!-- END MAIN CONTENT --> 
+        <!-- NAVIGATOR -->
+                      <div class="lof-buttons-control">
+                  <a href="/dsvol/" onclick="return false;" class="lof-previous">Previous</a>
+                  <a href="/dsvol/" class="lof-next"  onclick="return false;">Next</a>
+                </div>
+                           
+  </div>
+ </div> <script type="text/javascript">
+
+  var _lofmain =  $('lofass95'); 
+   var object = new LofArticleSlideshow( _lofmain,
+                  { 
+                    fxObject:{
+                    transition:Fx.Transitions.Quad.easeInOut,  
+                    duration:500                    },
+                    startItem:0,
+                    interval:5000,
+                    direction :'hrleft', 
+                    navItemHeight:100,
+                    navItemWidth:310,
+                    navItemsDisplay:3,
+                    navPos:'0',
+					autoStart:1,
+					descOpacity:1                  } );
+      object.registerButtonsControl( 'click', {next:_lofmain.getElement('.lof-next'),
+                         previous:_lofmain.getElement('.lof-previous')} );
+  
+</script>
+
+<div class="newsflash">
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			STUDENT RESOURCES		</h3>
+
+
+
+
+<p>How do I join? What do I need? and how does it really work? Here’s all the information you need to guide you through your time at the Kenyatta University School of Virtual and Open Learning.</p>
+
+<a class="readmore" href="/dsvol/index.php/13-features/8-student-resources">Read more...</a></div>
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			ONLINE EDUCATION		</h3>
+
+
+
+
+<p>The Kenyatta University School of Virtual and Open Learning seeks to provide learning opportunities to students who are unable to take up full-time on-campus programmes.</p>
+
+<a class="readmore" href="/dsvol/index.php/13-features/7-online-education">Read more...</a></div>
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			Progressive Learning		</h3>
+
+
+
+
+<p>Join the Kenyatta University Digital School of Virtual and Open Learning and study anywhere anytime and at your own convenience, where we’re moving along with global standards.</p>
+
+<a class="readmore" href="/dsvol/index.php/13-features/6-progressive-learning">Read more...</a></div>
+</div>
+
+							<div class='clear'> </div>
+							<br />
+						</div>
+															<div class='secondbanner'>
+								<div class="moduletable">
+					<h3>WELCOME TO KU DIGITAL SCHOOL</h3>
+					
+
+<div class="custom"  >
+	<div class="hovereffect one">
+<h2>KU SVOL Programmes</h2>
+</div>
+<div class="hovereffect  two">
+<h2>Research</h2>
+</div>
+<div class="hovereffect three">
+<h2>Help Desk</h2>
+</div>
+<div class="hovereffect four">
+<h2>Frequently Asked Questions</h2>
+</div>
+<div class="hovereffect five">
+<h2>Activities and Events</h2>
+</div>
+<div class="hovereffect six">
+<h2>Get Support and Funding</h2>
+</div></div>
+		</div>
+		
+						<div class='clear'> </div>											
+					</div>
+																<div class='thirdbanner'>
+							<br />					
+						<br />					
+						<br />
+							<div class='wrapper'>
+										<div class="moduletable">
+					<div id="lofasc-98" class="lof-articlessroller" style="height:260px; width:640px">
+<div class='clear'> </div>
+<div class="lof-bottom lof-horizontal lof-container ">
+    <a class="lof-previous"  href="/dsvol/" onclick="return false;">Previous</a>
+    <a class="lof-next" href="/dsvol/" onclick="return false;">Next</a>
+    <!-- NAVIGATOR -->    
+      <div class="lof-navigator-outer">
+            <ul class="lof-navigator lof-bullets">
+                            <li><span>1</span></li>
+                             <li><span>2</span></li>
+              		
+            </ul>
+        </div>
+   
+
+ <!-- MAIN CONTENT of ARTICLESCROLLER MODULE --> 
+  <div class="lof-main-wapper" style="height:260px;width:640px">
+ 		  		<div class="lof-main-item page-1">
+        		        		 <div class="lof-row" style="width:33.2333333333%">
+                   <div class="lof-inner" style="height:auto">
+            <a target="_parent" class="lof-image-link " style=" height:50px; width:280px; display:block" title="Diploma Programmes" href="/dsvol/index.php/14-certification/10-diploma-programmes">
+          <img src="http://www.ku.ac.ke/dsvol/cache/lofthumbs/280x50-1.png" title="Diploma Programmes" />
+        </a> 
+    
+           <a class="lof-title" target="_parent" title="Diploma Programmes" href="/dsvol/index.php/14-certification/10-diploma-programmes">
+       Diploma Programmes     </a>
+                
+	Diploma students take a minimum of 1 year.
+
+          <a target="_parent" class="lof-readmore" title="Diploma Programmes" href="/dsvol/index.php/14-certification/10-diploma-programmes">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:33.2333333333%">
+                   <div class="lof-inner" style="height:auto">
+            <a target="_parent" class="lof-image-link " style=" height:50px; width:280px; display:block" title="Under Graduate" href="/dsvol/index.php/14-certification/11-under-graduate">
+          <img src="http://www.ku.ac.ke/dsvol/cache/lofthumbs/280x50-2.png" title="Under Graduate" />
+        </a> 
+    
+           <a class="lof-title" target="_parent" title="Under Graduate" href="/dsvol/index.php/14-certification/11-under-graduate">
+       Under Graduate     </a>
+                
+	Bachelors degree students take a minimum of 3 years to complete their study
+
+          <a target="_parent" class="lof-readmore" title="Under Graduate" href="/dsvol/index.php/14-certification/11-under-graduate">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        		 <div class="lof-row" style="width:33.2333333333%">
+                   <div class="lof-inner" style="height:auto">
+            <a target="_parent" class="lof-image-link " style=" height:50px; width:280px; display:block" title="Post Graduate" href="/dsvol/index.php/14-certification/12-post-graduate">
+          <img src="http://www.ku.ac.ke/dsvol/cache/lofthumbs/280x50-3.png" title="Post Graduate" />
+        </a> 
+    
+           <a class="lof-title" target="_parent" title="Post Graduate" href="/dsvol/index.php/14-certification/12-post-graduate">
+       Post Graduate     </a>
+                
+	Postgraduate diploma students take a minimum of 1 year
+
+          <a target="_parent" class="lof-readmore" title="Post Graduate" href="/dsvol/index.php/14-certification/12-post-graduate">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  		<div class="lof-main-item page-2">
+        		        		 <div class="lof-row" style="width:33.2333333333%">
+                   <div class="lof-inner" style="height:auto">
+            <a target="_parent" class="lof-image-link " style=" height:50px; width:280px; display:block" title="Masters Degree" href="/dsvol/index.php/14-certification/59-masters-program">
+          <img src="http://www.ku.ac.ke/dsvol/cache/lofthumbs/280x50-4.png" title="Masters Degree" />
+        </a> 
+    
+           <a class="lof-title" target="_parent" title="Masters Degree" href="/dsvol/index.php/14-certification/59-masters-program">
+       Masters Degree     </a>
+                
+	A Masters Degree students take a minimum of 18 months
+
+          <a target="_parent" class="lof-readmore" title="Masters Degree" href="/dsvol/index.php/14-certification/59-masters-program">
+        Read more      </a>
+    </div>				</div>      
+                       
+                        </div> 
+   		  </div>
+ </div> 
+  <!-- END MAIN CONTENT of ARTICLESCROLLER MODULE --> 
+ </div> 
+<script type="text/javascript">
+var _lofmain =  $('lofasc-98'); 
+var object = new LofSlideshow ( _lofmain,
+							  { 
+								  fxObject:{
+									transition:Fx.Transitions.Quad.easeInOut,  
+									duration:500								  },
+								  startItem:0,
+								  interval:5000,
+								  direction :'hrright', 
+								  navItemHeight:32,
+								  navItemWidth:32,
+								  navItemsDisplay:3,
+								  navPos:'bottom'
+							  } );
+	object.registerButtonsControl( 'click', {next:_lofmain.getElement('.lof-next'),
+											 previous:_lofmain.getElement('.lof-previous')} );
+	object.start( 1, null );
+</script>
+
+		</div>
+			<div class="moduletableevents">
+					<h3>Calendar of Events</h3>
+					
+
+<div class="customevents"  >
+	<div class="events">
+<div class="calendar"><a href="/dsvol/activities-and-events-menu">2014</a></div>
+<!--<div class="boxedarrow">HONORARY GRADUATES</div>
+<div class="boxedarrow">FACTS AND FIGURES</div>
+<div class="boxedarrow">FACULTY LISTINGS</div>
+<div class="boxedarrow">BREAKING GROUND</div>
+<div class="boxedarrow">CAMPUS TOUR</div>--></div></div>
+		</div>
+	
+								<div class='clear'> </div>
+							</div>
+						</div>
+										<div class='fourthbanner'>
+						<div class='wrapper'>
+									<div class="moduletable">
+					<h3>Student Comments</h3>
+					<div class="newsflash">
+<div class='item'> 
+
+
+
+<table>
+<tbody>
+<tr>
+<td><img src="/dsvol/images/eva_ngono.jpg" alt="" />Eva Ngono<br /> Bcom Student</td>
+<td>Kenyatta University school of business offers a wide variety of expatriate which gives the learners a competitive edge in the market. The teaching and support staff of school of business Kenyatta university is highly efficient and effective in their service administration.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+		</div>
+			<div class="moduletable">
+					<h3>Application Forms</h3>
+					
+
+<div class="custom"  >
+	<p>Certificate</p></div>
+		</div>
+		
+							<div class='clear'> </div>					
+						</div>
+					</div>
+					<div class='whitebg'>		
+					<div class='wrapper'>		
+						<div id="contentarea">
+							<div  class="content" id="wrapper2" >
+								<div id="main">
+
+									
+									<div id="system-message-container">
+	</div>
+
+									
+<section class="blog-featured">
+	
+	
+			<div class="items-row cols-1 row-0">
+				<article class="item column-1">
+			
+	<h2>
+					<a href="/dsvol/index.php/about-us">
+			DIGITAL SCHOOL OF VIRTUAL AND OPEN LEARNING (DSVOL)</a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Details</dt>
+		<dd class="published">
+		Published: Thursday, 19 June 2014 11:36		</dd>
+ </dl>
+
+
+<h3><strong>Vision</strong></h3>
+<p>To become the preferred School of choice in the use of modern technologies in the delivery of quality education, training and professional development. </p>
+<h3><strong>Mission</strong></h3>
+<p>To enhance the quality of higher education through flexible modes of delivery and modern technology, for individual and society development. </p>
+
+		<p class="readmore">
+				<a href="/dsvol/index.php/about-us">
+					Read more...</a>
+		</p>
+
+<div class="clear"></div>
+<div class="item-separator"></div>
+		</article>
+									<div class="clear"></div>
+				<span class="row-separator"></span>
+				</div>
+
+				
+	
+			<div class="items-row cols-1 row-1">
+				<article class="item column-1">
+			
+	<h2>
+					<a href="/dsvol/index.php/35-news/56-kenyatta-university-digitizes-learning">
+			Kenyatta University Digitizes Learning</a>
+			</h2>
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Details</dt>
+		<dd class="published">
+		Published: Tuesday, 01 July 2014 04:51		</dd>
+ </dl>
+
+
+<p>Nairobi 30th June 2014…Kenyatta University (KU), today launched its new KU Digital School in a move that is set to address the increased demand for improved higher education e-Learning programs in Kenya.</p>
+<p>The launch of KU Digital School demonstrates the University’s understanding of the unique benefits and advantages of digital technology in the education sector. At a time when change is faster than ever, a key advantage of e-Learning - the use of technology to deliver training anytime, anyplace - is that it has faster delivery cycle times than traditional classroom-based instruction.&nbsp;</p>
+
+		<p class="readmore">
+				<a href="/dsvol/index.php/35-news/56-kenyatta-university-digitizes-learning">
+					Read more...</a>
+		</p>
+
+<div class="clear"></div>
+<div class="item-separator"></div>
+		</article>
+									<div class="clear"></div>
+				<span class="row-separator"></span>
+				</div>
+
+				
+
+</section>
+
+
+
+
+																		<div class='clear'> </div>
+									<br />
+									<br />
+
+								</div><!-- end main -->
+							</div><!-- end wrapper -->
+
+							
+							<aside class="right">
+										<div class="moduletable">
+					<h3>Announcements</h3>
+					<div class="newsflash">
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			SCHEDULE OF TRIMESTER  DATES		</h3>
+
+
+
+
+<p><a href="/dsvol/images/docs/SCHEDULE_OF_TRIMESTER_DATES0215.pdf">Click to view the Second Trimester Dates for Digital School Programmes January- April 2015</a></p>
+</div>
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			Catalogue of units on offer during the second trimester (Jan-April, 2015) and the lectures details 		</h3>
+
+
+
+
+<p><a href="/dsvol/images/docs/EDITED%20DSVOL%20UNITS%20JAN-APRIL%20COMPILED%20FINAL.pdf" target="_blank">Download&nbsp;Catalogue of units on offer&nbsp;during the second trimester (Jan-April, 2015) and the lectures details</a></p>
+</div>
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			  DECEMBER 2014 FINAL EXAMINATION TIMETABLE		</h3>
+
+
+
+
+<p><span style="color: #ffffff;"><a href="/dsvol/../images/stories/docs/exam_timetables/dec2014/FINAL_TT_EXAM%20_DEC_2014.pdf" target="_blank"><span style="color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-align: start;">&gt;&gt;DSVOL &nbsp;DECEMBER 2014 FINAL EXAMINATION TIMETABLE</span></a></span></p>
+<hr />
+<p><a href="/dsvol/../images/stories/docs/exam_timetables/dec2014/undergraduate_FINAL_TT_EXAM_DEC_2014.pdf" target="_blank"><span style="color: #ffffff;"><span style="color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-align: start;">&gt;&gt;DSVOL &nbsp;DECEMBER 2014 FINAL EXAMINATION TIMETABLE</span></span></a></p>
+<p>N/B:Nairobi centre students will do their examination at ole moyoi halls at the ku main campus. The rest of the students will do their examinations at their respective centres.</p>
+</div>
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			Diploma and Undergraduate Provisional Exams		</h3>
+
+
+
+
+<p><span style="color: #ffffff;">Kindly</span> <a href="/dsvol/images/docs/ExamTimetables/UNDER_PROV_TT_2015.xls">Click Here</a>&nbsp;<span style="color: #ffffff;">to view the Postgraduate Provisional Exam Timetable</span></p>
+</div>
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			Exam Timetable for Postgraduate Students		</h3>
+
+
+
+
+<p><span style="color: #ffffff;">Kindly</span> <a href="/dsvol/images/docs/ExamTimetables/FINA_EXAM_2014%20TT.pdf">Click Here</a>&nbsp;<span style="color: #ffffff;">to view the Postgraduate Provisional Exam Timetable</span></p>
+</div>
+<div class='item'> 
+
+	<h3 class="newsflash-title">
+			January 2015 Intake!!		</h3>
+
+
+
+
+The January 2015 Intake is in progress. View the courses on offer and the corresponding fees
+<p><a href="/dsvol/../images/stories/docs/intakes/jan2015/digital%20524.pdf" target="_blank">&gt;&gt;Applications for certificate, diploma and undergraduate programmes</a></p>
+<p><a href="/dsvol/images/docs/FEE_STRUCTURE_FOR_DIGITAL_SCHOOL.pdf" target="_blank">&gt;&gt;Fees Structure</a></p>
+</div>
+</div>
+		</div>
+	
+							</aside>
+							<div class="clear"></div>
+						</div> <!-- end contentarea -->
+					</div>
+					</div>
+				</div><!-- back -->
+			</div><!-- all -->
+			<div class='clear'></div>
+			<div id="footer-outer">
+				<div id="footer-sub">
+					<footer id="footer">
+						<div class='wrapper'> 							
+									<div class="moduletable">
+					<h3>About Us</h3>
+					<ul class="nav menu">
+<li class="item-116"><a href="/dsvol/index.php/management" >Management</a></li><li class="item-119"><a href="http://www.ku.ac.ke/index.php/faqs-in-ku" target="_blank" >F.A.Q's</a></li></ul>
+		</div>
+			<div class="moduletable">
+					<h3>Programs</h3>
+					<ul class="nav menu">
+<li class="item-109"><a href="/dsvol/index.php/admissions" >Admissions</a></li><li class="item-117"><a href="http://odelonline.ku.ac.ke/odelmoodle/login/index.php" target="_blank" >Course work</a></li><li class="item-118"><a href="http://www.ku.ac.ke/index.php/research/student-research" target="_blank" >Research</a></li></ul>
+		</div>
+			<div class="moduletable">
+					<h3>Students</h3>
+					<ul class="nav menu">
+<li class="item-110"><a href="/dsvol/index.php/student-tools" >Student Tools</a></li><li class="item-120"><a href="http://studentonlineservices.ku.ac.ke/" >Student Online Services</a></li></ul>
+		</div>
+			<div class="moduletable">
+					<h3>Connect with us</h3>
+					
+
+<div class="custom"  >
+	<div class="facebook"><a href="https://www.facebook.com/kenyattauni?ref=hl" target="_blank">facebook</a></div>
+<div class="twitter"><a href="https://twitter.com/KenyattaUni" target="_blank">twitter</a></div>
+<p><br /> <strong>Tel:</strong>&nbsp;&nbsp;0716208832 ; 0736244464;</p>
+<p>0719739438; 0719739445;</p>
+<p>0208703288<br /> <strong>Email:</strong>&nbsp;<a href="mailto:dean-dsvol@ku.ac.ke;">dean-dsvol@ku.ac.ke</a>&nbsp;; <a href="mailto:digitalschool@ku.ac.ke">digitalschool@ku.ac.ke</a></p>
+<p><strong>Chat:</strong> http://chat.ku.ac.ke/</p></div>
+		</div>
+	
+							<div class='clear'></div>
+						</div>
+						<div class='clear'></div>
+						<div class="copy">Copyright © 2014. Kenyatta University.</div>
+					</footer><!-- end footer -->
+					<div class='clear'></div>
+				</div>
+			</div>
+						
+		</div>
+		<script>
+			jQuery.noConflict();
+            jQuery(document).ready(function(){
+                mobilemenuisopen=0;
+                jQuery('.mobilemenu').animate({right: '-'+jQuery('.desktop').width()+'px'}, 500);//default position on page load
+                jQuery('.mobilemenu').animate({width: jQuery('.desktop').width()+'px'}, 500);
+                jQuery('.mobilemenu .mobilemenuicon').animate({width: '50px'}, 500);
+                jQuery('.mobilemenu .mobilemenuicon').click(function(){
+                    openMenu();
+                });
+                function openMenu(){
+                	jQuery('.mobilemenu').animate({width: jQuery('.desktop').width()+'px'}, 500);
+                    if (mobilemenuisopen==0) {                        
+                        //jQuery('.mobilemenu .open').addClass("close");
+                        //jQuery('.mobilemenu .open').removeClass("open");
+                        jQuery('.mobilemenu').animate({right: '0px'}, 500);
+                        jQuery('.mobilemenu .mobilemenuicon').animate({left: +(jQuery('.desktop').width()-50)+'px'}, 10);
+                        mobilemenuisopen=1;
+                    }else{
+                        //jQuery('.mobilemenu .close').addClass("open");
+                        //jQuery('.mobilemenu .close').removeClass("close");
+                        //jQuery('.mobilemenu').animate({right: '-'+jQuery('.desktop').width()+'px'}, 500);
+                        jQuery('.mobilemenu').animate({right: '-'+jQuery('.desktop').width()+'px'}, 500);
+                        jQuery('.mobilemenu .mobilemenuicon').animate({left: '-50px'}, 200);
+                        mobilemenuisopen=0;
+                    }
+                }   
+                var width = document.getElementById('shadow').offsetWidth;
+				var height = width*0.35;
+				//.lof-main-wapper //setup height
+				jQuery('.lof-main-wapper').css("height",height);
+				jQuery('.stripe .topbanner .stripetrick').css("top",height);
+				jQuery(window).resize(function(){
+					jQuery('.lof-main-wapper').css("height",height);
+					jQuery('.stripe .topbanner .stripetrick').css("top",height);
+				}).resize();				
+				//onload get screen width, set slider height to 40%            
+				            
+            });
+		</script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-50044813-2', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	</body>
+</html>

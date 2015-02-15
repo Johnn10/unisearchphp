@@ -1,0 +1,1174 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr" class="com_content view-featured itemid-101 home j25">
+
+  <head>
+      <base href="http://www.kemu.ac.ke/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="kemu,students,school,university,kenya,nairobi,graduate,degree,learning,institution,higher,education,chartered,christian,meru,campus,training,academic,enrolment,programme,diploma,undergraduate,postgraduate,business,administration,arts,science,doctorate,phd,masters, management,counseling,seminar,workshop,engineering" />
+  <meta name="description" content="Kenya Methodist University is a chartered Christian university, with the main campus situated in Meru and campuses at Nairobi, Mombasa, Nyeri, and Nakuru. KeMU offers PHD, masters, undergraduate, diploma, certificate and pre-university programmes." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Kenya Methodist University - Home</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/t3_blank/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/system/iceshortcodes/assets/iceshortcodes.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/iceshortcodes/assets/bootstrap/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/iceshortcodes/assets/bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?c26815d4695274741371f6b75cf5dbf4" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?106cb02e8af7c2a8212ae7d94ba41632" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/kemu/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/kemu/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/kemu/bootstrap-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/kemu/template-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/t3/base/css/off-canvas.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/t3/base/css/megamenu.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/t3/base/css/megamenu-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/kemu/megamenu.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/kemu/megamenu-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_slideshowck/themes/default/css/camera.css" type="text/css" />
+  <style type="text/css">
+
+#camera_wrap_200 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_200 .camera_caption > div {
+	
+}
+#camera_wrap_200 .camera_caption > div div.slideshowck_description {
+	
+}
+
+  </style>
+  <script src="/plugins/system/iceshortcodes/assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?f164ea24e8567d41a795089153b69cd9" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/jquery.noconflict.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/off-canvas.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/script.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/menu.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/responsive.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0,pdfjs:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});
+  </script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="YES" />
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- For IE6-8 support of media query -->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/plugins/system/t3/base/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here-->  </head>
+
+  <body>
+	
+<!-- MAIN NAVIGATION -->
+<nav id="t3-mainnav" class="wrap t3-mainnav navbar-collapse-fixed-top navbar-fixed-top">
+  <div class="container navbar">
+    <div class="navbar-inner">
+    
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <i class="icon-reorder"></i>
+      </button>
+
+  	  <div class="nav-collapse collapse always-show">
+              <div class="t3-megamenu animate slide" data-duration="400">
+<ul class="nav level0">
+<li class="current active" data-id="101" data-level="1" data-xicon="icon-home">
+<a class="" href="/"  ><i class="icon-home"></i>Home </a>
+</li>
+<li class="dropdown mega mega-align-justify" data-id="102" data-level="1" data-alignsub="justify">
+<a class=" dropdown-toggle" href="/index.php/about-kemu"   data-toggle="dropdown">About KeMU <b class="caret"></b></a>
+<div class="nav-child dropdown-menu mega-dropdown-menu span12"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span3 mega-col-nav" data-width="3"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li  data-id="105" data-level="2">
+<a class="" href="/index.php/about-kemu/our-mission-vision"  >Our Mission &amp; Vision </a>
+</li>
+<li  data-id="106" data-level="2">
+<a class="" href="/index.php/about-kemu/our-history"  >Our History </a>
+</li>
+<li  data-id="107" data-level="2">
+<a class="" href="/index.php/about-kemu/endowment"  >Endowment </a>
+</li>
+<li  data-id="422" data-level="2">
+<a class="" href="/index.php/about-kemu/accreditation"  >Accreditation </a>
+</li>
+<li  data-id="301" data-level="2">
+<a class="" href="/index.php/about-kemu/our-values"  >Our Values </a>
+</li>
+<li  data-id="377" data-level="2">
+<a class="" href="/index.php/about-kemu/kemu-facts"  >KeMU Facts </a>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="302" data-level="2" data-group="1" data-xicon="icon-bookmark">
+<a class=" mega-group-title" href="#"  ><i class="icon-bookmark"></i>Academic Affairs</a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li class="dropdown-submenu mega" data-id="303" data-level="3" data-xicon="icon-book">
+<a class="" href="/index.php/about-kemu/academic-affairs/schools-faculties"  ><i class="icon-book"></i>Schools &amp; Faculties </a>
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level3">
+<li  data-id="366" data-level="4">
+<a class="" href="/index.php/about-kemu/academic-affairs/schools-faculties/school-of-business-economics"  >School of Business &amp; Economics </a>
+</li>
+<li  data-id="367" data-level="4">
+<a class="" href="/index.php/about-kemu/academic-affairs/schools-faculties/school-of-medicine-health-sciences"  >School of Medicine &amp; Health Sciences </a>
+</li>
+<li  data-id="368" data-level="4">
+<a class="" href="/index.php/about-kemu/academic-affairs/schools-faculties/faculty-of-computing-informatics"  >Faculty of Computing &amp; Informatics </a>
+</li>
+<li  data-id="369" data-level="4">
+<a class="" href="/index.php/about-kemu/academic-affairs/schools-faculties/faculty-of-education-social-sciences"  >Faculty of Education &amp; Social Sciences </a>
+</li>
+<li  data-id="370" data-level="4">
+<a class="" href="/index.php/about-kemu/academic-affairs/schools-faculties/faculty-of-science-technology"  >Faculty of Science &amp; Technology </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li  data-id="371" data-level="3" data-xicon="icon-pencil">
+<a class="" href="/index.php/about-kemu/academic-affairs/directorate-of-research-development"  ><i class="icon-pencil"></i>Directorate of Research &amp; Development </a>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="372" data-level="3" data-xicon="icon-book">
+<a class="" href="/index.php/about-kemu/academic-affairs/kemu-library"  ><i class="icon-book"></i>KeMU Library </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+<div class="span3 mega-col-nav" data-width="3"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="304" data-level="2" data-group="1" data-xicon="icon-briefcase">
+<a class=" mega-group-title" href="#"  ><i class="icon-briefcase"></i>Finance &amp; Administration</a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="305" data-level="3" data-xicon="icon-globe">
+<a class="" href="/index.php/about-kemu/finance-administration/kemu-campuses-centers"  ><i class="icon-globe"></i>KeMU Campuses &amp; Centers </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li  data-id="390" data-level="2">
+<a class="" href="/index.php/about-kemu/kemu-news"  >KeMU News </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li class="dropdown mega mega-align-justify" data-id="277" data-level="1" data-alignsub="justify">
+<a class=" dropdown-toggle" href="#"   data-toggle="dropdown">Prospective Students<b class="caret"></b></a>
+<div class="nav-child dropdown-menu mega-dropdown-menu span12"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span3 mega-col-nav" data-width="3"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="306" data-level="2" data-group="1">
+<a class=" mega-group-title" href="/index.php/pro-student/admissions"  >Admissions </a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="307" data-level="3">
+<a class="" href="/index.php/pro-student/admissions/application-procedure"  >Application Procedure </a>
+</li>
+<li  data-id="308" data-level="3">
+<a class="" href="/index.php/pro-student/admissions/fees-tuition"  >Fees &amp; Tuition </a>
+</li>
+<li  data-id="309" data-level="3">
+<a class="" href="/index.php/pro-student/admissions/scholarships-financial-aid"  >Scholarships &amp; Financial Aid </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="310" data-level="2" data-group="1">
+<a class=" mega-group-title" href="/index.php/pro-student/academic-programmes"  >Academic Programmes </a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="311" data-level="3">
+<a class="" href="/index.php/pro-student/academic-programmes/professional-courses"  >Professional Courses </a>
+</li>
+<li  data-id="312" data-level="3">
+<a class="" href="/index.php/pro-student/academic-programmes/pre-university"  >Pre-University </a>
+</li>
+<li  data-id="313" data-level="3">
+<a class="" href="/index.php/pro-student/academic-programmes/certificate-courses"  >Certificate Courses </a>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="314" data-level="3">
+<a class="" href="/index.php/pro-student/academic-programmes/diploma-courses"  >Diploma Courses </a>
+</li>
+<li  data-id="315" data-level="3">
+<a class="" href="/index.php/pro-student/academic-programmes/undergraduate-programmes"  >Undergraduate Programmes </a>
+</li>
+<li class="dropdown-submenu mega" data-id="318" data-level="3">
+<a class="" href="/index.php/pro-student/academic-programmes/postgraduate-programmes"  >Postgraduate Programmes </a>
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level3">
+<li  data-id="316" data-level="4">
+<a class="" href="/index.php/pro-student/academic-programmes/postgraduate-programmes/masters-programmes"  >Masters Programmes </a>
+</li>
+<li  data-id="317" data-level="4">
+<a class="" href="/index.php/pro-student/academic-programmes/postgraduate-programmes/doctorate-programmes"  >Doctorate Programmes </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+<div class="span3 mega-col-nav" data-width="3"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li  data-id="319" data-level="2">
+<a class="" href="#"  >International Students</a>
+</li>
+<li  data-id="320" data-level="2">
+<a class="" href="/index.php/pro-student/student-life-kemu"  >Student Life @ Kemu </a>
+</li>
+<li  data-id="321" data-level="2">
+<a class="" href="/index.php/pro-student/modes-of-study"  >Modes of Study </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li class="dropdown mega mega-align-justify" data-id="278" data-level="1" data-alignsub="justify">
+<a class=" dropdown-toggle" href="#"   data-toggle="dropdown">Current Students<b class="caret"></b></a>
+<div class="nav-child dropdown-menu mega-dropdown-menu span12"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="322" data-level="2" data-group="1">
+<a class=" mega-group-title" href="#"  >Academics</a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="323" data-level="3" data-xicon="icon-calendar">
+<a class="" href="/index.php/cur-students/academics/academic-calendar/month.calendar/2015/02/15/-"  ><i class="icon-calendar"></i>Academic Calendar </a>
+</li>
+<li  data-id="324" data-level="3" data-xicon="icon-file-alt">
+<a class="" href="/index.php/cur-students/academics/courses-on-offer"  ><i class="icon-file-alt"></i>Courses on Offer </a>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="325" data-level="3" data-xicon="icon-file-alt">
+<a class="" href="http://online.kemu.ac.ke/timetable"  ><i class="icon-file-alt"></i>Schedules / Timetables</a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="326" data-level="2" data-group="1">
+<a class=" mega-group-title" href="#"  >Student Resources</a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="329" data-level="3" data-xicon="icon-user">
+<a class="" href="http://online.kemu.ac.ke/"  ><i class="icon-user"></i>KeMU Student Portal</a>
+</li>
+<li  data-id="328" data-level="3" data-xicon="icon-user">
+<a class="" href="http://www.kemu.ac.ke/elearn"  ><i class="icon-user"></i>KeMU E-Learning Portal</a>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="327" data-level="3" data-xicon="icon-book">
+<a class="" href="/index.php/cur-students/student-resources/kemu-library"  ><i class="icon-book"></i>KeMU Library </a>
+</li>
+<li  data-id="330" data-level="3" data-xicon="icon-sign-blank">
+<a class="" href="http://www.kemu.ac.ke/students"  ><i class="icon-sign-blank"></i>KeMU Student Welfare</a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li class="dropdown mega mega-align-justify" data-id="279" data-level="1" data-alignsub="justify">
+<a class=" dropdown-toggle" href="#"   data-toggle="dropdown">Staff &amp; Faculty<b class="caret"></b></a>
+<div class="nav-child dropdown-menu mega-dropdown-menu span12"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li  data-id="331" data-level="2">
+<a class="" href="/index.php/staff-and-faculty/kemu-administration"  >KeMU Administration </a>
+</li>
+<li class="mega mega-group" data-id="332" data-level="2" data-group="1">
+<a class=" mega-group-title" href="#"  >ICT Services</a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="337" data-level="3">
+<a class="" href="https://41.89.31.3/owa"  >Staff Email</a>
+</li>
+<li  data-id="338" data-level="3">
+<a class="" href="#"  >ICT Helpdesk</a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+<div class="span6 mega-col-nav" data-width="6"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="333" data-level="2" data-group="1">
+<a class=" mega-group-title" href="#"  >Human Resources</a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="334" data-level="3">
+<a class="" href="/index.php/staff-and-faculty/human-resources/careers-kemu"  >Careers @ KeMU </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li  data-id="335" data-level="2">
+<a class="" href="/index.php/staff-and-faculty/research-development"  >Research &amp; Development </a>
+</li>
+<li  data-id="336" data-level="2">
+<a class="" href="#"  >Staff Intranet</a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li class="dropdown mega mega-align-right" data-id="229" data-level="1" data-alignsub="right">
+<a class=" dropdown-toggle" href="http://www.kemu.ac.ke/alumni"   data-toggle="dropdown">Alumni<b class="caret"></b></a>
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+</div></div>
+</li>
+<li class="dropdown mega mega-align-justify" data-id="103" data-level="1" data-alignsub="justify">
+<a class=" dropdown-toggle" href="/index.php/contact-us"   data-toggle="dropdown">Contact Us <b class="caret"></b></a>
+<div class="nav-child dropdown-menu mega-dropdown-menu span12"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span2 mega-col-nav" data-width="2"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li  data-id="130" data-level="2" data-xicon="icon-envelope">
+<a class="" href="/index.php/contact-us/make-an-enquiry"  ><i class="icon-envelope"></i>Make an Enquiry </a>
+</li>
+</ul>
+</div></div>
+<div class="span10 mega-col-nav" data-width="10"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li class="mega mega-group" data-id="343" data-level="2" data-group="1">
+<a class=" mega-group-title" href="/index.php/contact-us/campus-contacts-directions"  >Campus Contacts &amp; Directions </a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span4 mega-col-nav" data-width="4"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="344" data-level="3">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/nairobi-campus"  >Nairobi Campus </a>
+</li>
+<li  data-id="345" data-level="3">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/main-campus-meru"  >Main Campus (Meru) </a>
+</li>
+<li  data-id="346" data-level="3">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/mombasa-campus"  >Mombasa Campus </a>
+</li>
+</ul>
+</div></div>
+<div class="span4 mega-col-nav" data-width="4"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li  data-id="347" data-level="3">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/nakuru-campus"  >Nakuru Campus </a>
+</li>
+<li  data-id="348" data-level="3">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/nyeri-campus"  >Nyeri Campus </a>
+</li>
+</ul>
+</div></div>
+<div class="span4 mega-col-nav" data-width="4"><div class="mega-inner">
+<ul class="mega-nav level2">
+<li class="mega mega-group" data-id="350" data-level="3" data-group="1">
+<a class=" mega-group-title" href="#"  >Centers</a>
+<div class="nav-child mega-group-ct"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level3">
+<li  data-id="351" data-level="4">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/centers/maua-center"  >Maua Center </a>
+</li>
+<li  data-id="352" data-level="4">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/centers/marimanti-center"  >Marimanti Center </a>
+</li>
+<li  data-id="353" data-level="4">
+<a class="" href="/index.php/contact-us/campus-contacts-directions/centers/meru-town-center"  >Meru Town Center </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li class="dropdown mega mega-align-right" data-id="178" data-level="1" data-alignsub="right">
+<a class=" dropdown-toggle" href="/index.php/graduation"   data-toggle="dropdown">Graduation <b class="caret"></b></a>
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row-fluid">
+<div class="span12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li  data-id="354" data-level="2">
+<a class="" href="/index.php/graduation/about-graduation"  >About Graduation </a>
+</li>
+<li  data-id="411" data-level="2">
+<a class="" href="/index.php/graduation/grad-faq"  >Graduation FAQ </a>
+</li>
+<li  data-id="412" data-level="2">
+<a class="" href="/index.php/graduation/grad-accomodation"  >Accomodation in Meru </a>
+</li>
+<li  data-id="413" data-level="2">
+<a class="" href="/index.php/graduation/grad-directions"  >Directions to Meru </a>
+</li>
+<li  data-id="414" data-level="2">
+<a class="" href="/index.php/graduation/grad-public-transport"  >Public Transport to Meru </a>
+</li>
+<li  data-id="415" data-level="2">
+<a class="" href="/index.php/graduation/grad-parking"  >Parking </a>
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div>
+        		</div>
+    </div>
+  </div>
+</nav>
+<!-- //MAIN NAVIGATION -->  
+    
+<!-- HEADER -->
+<header id="t3-header">
+<div class="container t3-header">
+  <div class="row">
+
+    <!-- LOGO -->
+    <div class="span8 logo">
+      <div class="logo-image">
+        <h1>
+          <a href="/" title="Kenya Methodist University" style="background-image:url(/images/kemu-logo-png.png);">
+            <span>Kenya Methodist University</span>
+          </a>
+          <small class="site-slogan hidden-phone">The Future is Here</small>
+        </h1>
+      </div>
+    </div>
+    <!-- //LOGO -->
+
+        <div class="span4 clearfix">  
+            <!-- HEAD SEARCH -->
+      <div class="head-search">     
+        
+
+<div class="custom"  >
+	<p style="text-align: right;"><a class="btn btn-primary btn-mini btn-block hidden-tablet hidden-phone" href="/index.php/kemu-email"><em class="icon-email">KeMU Email</em></a></p></div>
+<form class="form-search" action="/index.php" method="post">
+	<div class="search searchform input-block-level">
+		<label for="mod-search-searchword">|</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="input searchform input-block-level" type="text" size="15" placeholder="Search KeMU..." />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="182" />
+	</div>
+</form>
+
+      </div>
+      <!-- //HEAD SEARCH -->
+        
+          </div>
+    
+
+  </div>
+    </div>
+</header>
+<!-- //HEADER -->
+
+	
+<div class="home">
+
+    <!-- HOME SL 1 -->
+  <div class="wrap t3-sl-1">
+    
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><script type="text/javascript"> <!--
+       jQuery(function(){
+        jQuery('#camera_wrap_200').camera({
+                height: '400',
+                minHeight: '',
+                pauseOnClick: false,
+                hover: 1,
+                fx: 'simpleFade',
+                loader: 'pie',
+                pagination: 0,
+                thumbnails: 0,
+                thumbheight: 75,
+                thumbwidth: 100,
+                time: 7000,
+                transPeriod: 1500,
+                alignment: 'center',
+                autoAdvance: 1,
+                mobileAutoAdvance: 1,
+                portrait: 0,
+                barDirection: 'leftToRight',
+                imagePath: '/modules/mod_slideshowck/images/',
+                lightbox: 'mediaboxck',
+                fullpage: 0,
+				mobileimageresolution: '0',
+                navigationHover: true,
+                navigation: true,
+                playPause: true,
+                barPosition: 'bottom'
+        });
+}); //--> </script><!-- debut Slideshow CK -->
+<div class="slideshowck camera_wrap camera_white_skin" id="camera_wrap_200">
+			<div data-thumb="/images/frontslider/th/kemu-us-embassy-front_th.JPG" data-src="/images/frontslider/kemu-us-embassy-front.JPG" data-link="http://www.kemu.ac.ke/index.php/news-items/441-us-embassy-visits-main-campus" data-target="_parent"  data-alignment="topCenter" >
+													 				<div class="camera_caption fadeFromBottom">
+					<div class="camera_caption_title">
+														</div>
+					<div class="camera_caption_desc">
+						<p><strong>US Embassy Visits Main Campus</strong></p>											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/frontslider/th/kemu-stock2_th.jpg" data-src="/images/frontslider/kemu-stock2.jpg" >
+													 		</div>
+		<div data-thumb="/images/th/kemu-stock_th.jpg" data-src="/images/kemu-stock.jpg" >
+													 		</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK -->
+
+  </div>
+  <!-- //HOME SL 1 -->
+    
+</div>
+
+    
+<section id="t3-mainbody" class="container t3-mainbody">
+  <div class="row">
+    
+    <!-- MAIN CONTENT -->
+    <div id="t3-content" class="t3-content span6 offset3"  data-default="span6 offset3" data-tablet="span12">
+      
+<div id="system-message-container">
+</div>
+      	<div class="t3-module module" id="Mod225">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+
+<div class="custom"  >
+	<h1><a href="/index.php/about-kemu/kemu-news">KeMU News</a></h1></div>
+      </div>
+    </div>
+  </div>
+	
+      <div class="blog-featured">
+
+<div class="items-leading">
+			<div class="leading leading-0">
+			
+  <!-- Article -->
+  <article>
+
+		<header class="article-header clearfix">
+		<h2 class="article-title">
+						<a href="/index.php/news-items/441-us-embassy-visits-main-campus"> US Embassy Visits Main Campus</a>
+					</h2>
+	</header>
+	  
+  <!-- Aside -->
+    <!-- //Aside -->
+
+	
+	
+  
+  <section class="article-intro clearfix">
+    <p><a href="/images/stories/2015/kemu-us-embassy.JPG" class="jcepopup" data-mediabox="title[US Embassy Visits Main Campus::A group photo of some of the student attendees after the &quot;Black History Month&quot; presentation video. Included is the Cultural Affairs Officer Mr. Christopher Snipes (centered) with the KeMUSO Academic Secretary, Mr. James Mugo, on his immediate left, and Miss. KeMU 2015 (overall), Miss, Midfridah Kingi.]" target="_blank"><img src="/images/stories/2015/kemu-us-embassy.JPG" width="200" height="133" alt="kemu-us-embassy" style="margin-right: 10px; margin-bottom: 5px; float: left;" /></a>Meru, Kenya - Monday, 2nd February, 2015; &nbsp;Kenya Methodist University Main Campus hosted the United States of America Embassy, Nairobi - Education and Cultural Affairs Office, which visited with our students for the afternoon.</p>
+  </section>
+
+    
+    
+	  <section class="readmore">
+    <a class="btn" href="/index.php/news-items/441-us-embassy-visits-main-campus"><span>
+    Read more: US Embassy Visits Main Campus    </span></a>
+  </section>
+	  </article>
+  <!-- //Article -->
+  
+		</div>
+		<hr class="divider-vertical" />
+					<div class="leading leading-1">
+			
+  <!-- Article -->
+  <article>
+
+		<header class="article-header clearfix">
+		<h2 class="article-title">
+						<a href="/index.php/news-items/440-student-travels-to-international-students-festival-in-norway"> Student Travels to International Students Festival in Norway.</a>
+					</h2>
+	</header>
+	  
+  <!-- Aside -->
+    <!-- //Aside -->
+
+	
+	
+  
+  <section class="article-intro clearfix">
+    <div><img src="/images/stories/2015/kemu-isfit.jpg" alt="kemu-isfit" style="margin-right: 10px; margin-bottom: 5px; float: left;" />Mr. John Sellu Jawara&nbsp;(a second year -&nbsp;Bachelor of Science in Community Health (School of Medicine and Health Sciences)&nbsp;student),&nbsp;has been selected to attend one of the largest international student forums in the world ,the &nbsp;<a href="http://www.isfit.org/?locale=en" target="_blank">International Students Festival in Trondheim, Norway</a>. Mr. Jawara will be one of over 450 attendees at the festival, and was selected through an essay writing competition organised by the Norwegian Student Organisation (ISFiT).</div>
+  </section>
+
+    
+    
+	  <section class="readmore">
+    <a class="btn" href="/index.php/news-items/440-student-travels-to-international-students-festival-in-norway"><span>
+    Read more: Student Travels to International Students Festival in Norway.    </span></a>
+  </section>
+	  </article>
+  <!-- //Article -->
+  
+		</div>
+		<hr class="divider-vertical" />
+			</div>
+	
+		
+		<div class="items-row cols-2 row-0 row-fluid">
+					<div class="item column-1 span6">
+			
+  <!-- Article -->
+  <article>
+
+		<header class="article-header clearfix">
+		<h2 class="article-title">
+						<a href="/index.php/news-items/439-prof-njoka-to-attend-review-exercise-on-hazards-and-disasters-in-africa"> Prof. Njoka to Attend Review Exercise on Hazards and Disasters in Africa</a>
+					</h2>
+	</header>
+	  
+  <!-- Aside -->
+    <!-- //Aside -->
+
+	
+	
+  
+  <section class="article-intro clearfix">
+    <p>&nbsp;</p>
+<div><img src="/images/stories/profnjoka.jpg" alt="profnjoka" /><br />One of our faculty members,&nbsp;Professor Elias Njoka, has been invited by the&nbsp;International Council for Science – Regional Office for Africa (ICSU ROA)&nbsp;for a meeting in&nbsp;South Africa&nbsp;to place in June, 2015.</div>
+  </section>
+
+    
+    
+	  <section class="readmore">
+    <a class="btn" href="/index.php/news-items/439-prof-njoka-to-attend-review-exercise-on-hazards-and-disasters-in-africa"><span>
+    Read more: Prof. Njoka to Attend Review Exercise on Hazards and Disasters in Africa    </span></a>
+  </section>
+	  </article>
+  <!-- //Article -->
+  
+			</div>
+			
+			
+	
+					<div class="item column-2 span6">
+			
+  <!-- Article -->
+  <article>
+
+		<header class="article-header clearfix">
+		<h2 class="article-title">
+						<a href="/index.php/news-items/321-cisco-networking-academy-ongoing-registration"> Cisco Networking Academy Ongoing Registration</a>
+					</h2>
+	</header>
+	  
+  <!-- Aside -->
+    <!-- //Aside -->
+
+	
+	
+  
+  <section class="article-intro clearfix">
+    <p><img style="margin-right: 10px; margin-bottom: 5px; float: left;" alt="cisco-icon-story" src="/images/stories/cisco-icon-story.jpg" height="200" width="200" /></p>
+<p>The Cisco Networking Academy is designed to complement the type of technology training<br />traditionally delivered by educational establishments and provides a hands-on introduction to the networking technologies that are driving business today.</p>
+<p>&nbsp;</p>
+  </section>
+
+    
+    
+	  <section class="readmore">
+    <a class="btn" href="/index.php/news-items/321-cisco-networking-academy-ongoing-registration"><span>
+    Read more: Cisco Networking Academy Ongoing Registration    </span></a>
+  </section>
+	  </article>
+  <!-- //Article -->
+  
+			</div>
+			
+			
+		</div>
+		<hr class="divider-vertical" />
+		
+	
+
+	<nav class="pagination">
+
+					<p class="counter pull-right">
+				Page 1 of 2			</p>
+						<ul class="pagination-list"><li class="disabled"><a>Start</a></li><li class="disabled"><a>Prev</a></li><li class="disabled"><a>1</a></li><li><a title="2" href="/index.php?start=4">2</a></li><li><a title="Next" href="/index.php?start=4">Next</a></li><li><a title="End" href="/index.php?start=4">End</a></li></ul>	</nav>
+
+</div>
+
+    </div>
+    <!-- //MAIN CONTENT -->
+
+        <!-- SIDEBAR 1 -->
+    <div class="t3-sidebar t3-sidebar-1 span3 offset-9"  data-default="span3 offset-9" data-tablet="span6 spanfirst">
+      	<div class="t3-module module" id="Mod202">
+    <div class="module-inner">
+                  <h3 class="module-title"><span>Welcome to Kenya Methodist University</span></h3>
+            <div class="module-ct">
+      
+
+<div class="custom"  >
+	<ul id="myTab" class="nav nav-tabs">
+<li><a href="#info" data-toggle="tab">Information</a></li>
+<li><a href="#download" data-toggle="tab">Downloads</a></li>
+<li class="active"><a href="#links" data-toggle="tab">Quick Links</a></li>
+</ul>
+<div class="tab-content">
+<div id="info" class="tab-pane">
+<h2><em>The Future Is Here</em></h2>
+Welcome to the KeMU Website. You may find information <a href="/index.php/component/content/article/75-information/gen-info/250-kemu-facts">about our institution</a> and <a href="/index.php/pro-student/admissions">how to Apply to KeMU</a>.<br />KeMU currently has five campuses:
+<ul>
+<li><a href="/index.php/contact-us/campus-contacts-directions/nairobi-campus">Nairobi Campus</a></li>
+<li><a href="/index.php/contact-us/campus-contacts-directions/main-campus-meru">Main Campus (Meru)</a></li>
+<li><a href="/index.php/contact-us/campus-contacts-directions/mombasa-campus">Mombasa Campus</a></li>
+<li><a href="/index.php/contact-us/campus-contacts-directions/nakuru-campus">Nakuru Campus</a></li>
+<li><a href="/index.php/contact-us/campus-contacts-directions/nyeri-campus">Nyeri Campus</a></li>
+</ul>
+And three Centers:
+<ul>
+<li><a href="/index.php/contact-us/campus-contacts-directions/centers/meru-town-center">Meru Town Center</a></li>
+<li><a href="/index.php/contact-us/campus-contacts-directions/centers/maua-center">Maua Center</a></li>
+<li><a href="/index.php/contact-us/campus-contacts-directions/centers/marimanti-center">Marimanti Center</a></li>
+</ul>
+We have four Schools &amp; Faculties:
+<ul>
+<li><a href="/index.php/about-kemu/academic-affairs/schools-faculties/school-of-business-economics">School of Business and Economics</a></li>
+<li><a href="/index.php/about-kemu/academic-affairs/schools-faculties/school-of-medicine-health-sciences">School of Medicine and Health Sciences</a></li>
+<li><a href="/index.php/about-kemu/academic-affairs/schools-faculties/faculty-of-computing-informatics">Faculty of Computing and Informatics</a></li>
+<li><a href="/index.php/component/content/category/108-academic-affairs/faculty-of-education-arts-and-sciences">Faculty of Education, Arts &amp; Sciences</a></li>
+</ul>
+And we offer Courses and Programs in the following levels:
+<ul>
+<li><a href="/index.php/pro-student/academic-programmes/pre-university">Pre-University Programme</a></li>
+<li><a href="/index.php/pro-student/academic-programmes/professional-courses">Professional Courses</a></li>
+<li><a href="/index.php/pro-student/academic-programmes/certificate-courses">Certificate Programmes</a></li>
+<li><a href="/index.php/pro-student/academic-programmes/diploma-courses">Diploma Programmes</a></li>
+<li><a href="/index.php/pro-student/academic-programmes/undergraduate-programmes/79-acad-programmes/acad-undergrad">Undergraduate Programmes</a></li>
+<li><a href="/index.php/pro-student/academic-programmes/postgraduate-programmes/masters-programmes">Post Graduate Programmes - Masters</a></li>
+<li><a href="/index.php/pro-student/academic-programmes/postgraduate-programmes/doctorate-programmes">Post Graduate Programmes - Doctorate</a></li>
+</ul>
+<p>January 2015 Intake is ongoing <br /><a class="btn btn-primary btn-large" href="/index.php/how-to-apply-s">Apply Now!!</a></p>
+</div>
+<div id="download" class="tab-pane">
+<p>Application Forms</p>
+<ul>
+<li><a href="/images/documents/Application%20Form.pdf">Undergraduate Application Form</a></li>
+<li><a href="/images/documents/Postgraduate%20Application%20Form.pdf">Post-Graduate Application Form</a></li>
+</ul>
+<p>Graduation Forms</p>
+<ul>
+<li><a href="/images/documents/intent%20to%20graduate%20form.pdf">Intent To Graduate Form</a></li>
+<li><a href="/images/documents/KeMU%20Student%20Graduation%20Clearance%20Form.pdf">Graduation Clearance Form</a></li>
+</ul>
+</div>
+<div id="links" class="tab-pane  active">Links to Commonly used resources
+<ul>
+<li><a href="http://online.kemu.ac.ke">KeMU Student Portal</a></li>
+<li><a href="http://online.kemu.ac.ke/timetable">KeMU Timetables Portal</a></li>
+<li><a href="http://online.kemu.ac.ke/dlm">KeMU ODLM Portal</a></li>
+<li><a href="/elearn">KeMU E-Learning Portal</a></li>
+<li><a href="/alumni">KeMU Alumni Portal</a></li>
+<li><a href="http://online.kemu.ac.ke/survey">KeMU Survey Portal</a></li>
+<li><a href="/students">KeMU Students Welfare</a>
+<ul>
+<li><a href="/aiesec">AIESEC KeMU</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div></div>
+      </div>
+    </div>
+  </div>
+		<div class="t3-module module" id="Mod214">
+    <div class="module-inner">
+                  <h3 class="module-title"><span>Notices & Announcements</span></h3>
+            <div class="module-ct">
+      
+
+<div class="custom"  >
+	<ul id="myTab" class="nav nav-tabs">
+<li class="active"><a href="#notice" data-toggle="tab">Notices</a></li>
+<li><a href="#press" data-toggle="tab">KeMU in the Press</a></li>
+</ul>
+<div class="tab-content">
+<div id="notice" class="tab-pane  active">Notices from various departments</div>
+<ul>
+<li><a target="_blank" class="jcepopup icon-right" href="/images/documents/TENDER_FOR_THE_PROVISION_OF_CLEANING_SERVICES_2015_-_Meru.pdf"><strong>NOTICE: MERU CAMPUS - Tender for the Provision of Cleaning Services 2015 </strong></a></li>
+<li><a href="/images/documents/PROJECT_1ST_TRIMESTER_2015_-_4_Feb_2015.pdf"><strong>NOTICE: 1st Trimester 2015 Research Project Supervisors List is now available</strong></a></li>
+<li><a href="http://online.kemu.ac.ke/timetable">Teaching Timetables are now Available</a></li>
+<li><a href="/index.php/cur-students/academics/courses-on-offer">Courses on Offer now Available</a></li>
+<li><a href="/index.php/how-to-apply-s">January 2015 Intake Ongoing</a></li>
+</ul>
+</div>
+<div id="press" class="tab-pane">
+<p>Recent Press Mentions</p>
+<ul>
+<li><a href="http://www.linuxfoundation.org/news-media/announcements/2014/10/linux-foundation-announces-2014-linux-training-scholarship">KeMU Student wins Linux Scholarship</a></li>
+<li><a href="http://www.capitalfm.co.ke/campus/kemu-scoops-student-investigative-journalism-challenge/">KeMU Scoops Student Investigative Journalism Challenge</a></li>
+<li><a href="http://allafrica.com/stories/201407141295.html">KeMU Women's Football Story</a></li>
+</ul>
+</div></div>
+      </div>
+    </div>
+  </div>
+	
+    </div>
+    <!-- //SIDEBAR 1 -->
+        
+        <!-- SIDEBAR 2 -->
+    <div class="t3-sidebar t3-sidebar-2 span3 t3respon" data-mobile="hidden"  data-default="span3" data-tablet="span6">
+      	<div class="t3-module module hide-phone" id="Mod186">
+    <div class="module-inner">
+                  <h3 class="module-title"><span>KeMU Twitter Feed</span></h3>
+            <div class="module-ct">
+      
+<div  class="bt-twitter hide-phone" >
+<a class="twitter-timeline" data-tweet-limit="2" width="auto" height="300" data-theme="light" data-link-color="860753" data-border-color="860753" data-chrome="noheader nofooter noborder noscrollbar" href="https://twitter.com/kemukenya" data-widget-id="400976822147379200">Tweets by @kemukenya</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>      </div>
+    </div>
+  </div>
+		<div class="t3-module module hidden-phone" id="Mod169">
+    <div class="module-inner">
+                  <h3 class="module-title"><span>KeMU on Facebook</span></h3>
+            <div class="module-ct">
+      <div  class="bt-facebookpage hidden-phone" >
+<iframe 
+	src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FKenya-Methodist-University%2F171229562934599&connections=0&amp;stream=true&amp;border_color=%23860753&amp;header=false&amp;force_wall=false&amp;height=300&amp;show_faces=false&amp;colorscheme=light&amp;locale=en_GB" scrolling="no" 
+	frameborder="0" 
+	style="border:none; overflow:hidden; width:100%;height:300px; " 
+	allowTransparency="true">
+</iframe>
+</div>
+      </div>
+    </div>
+  </div>
+	
+    </div>
+    <!-- //SIDEBAR 2 -->
+    
+  </div>
+</section>     
+    
+<!-- SPOTLIGHT 1 -->
+<section class="container t3-sl t3-sl-1">
+  	<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-spotlight-1 row">
+					<div class="span12 item-first" data-default="span12">
+									<div class="t3-module module-bar" id="Mod201">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+
+<div class="custom-bar"  >
+	<div class="row-fluid">
+<div class="span3 myBox">
+<p><a href="http://online.kemu.ac.ke"><i class="icon-group"></i></a></p>
+<h2><a href="http://online.kemu.ac.ke">Student Portal</a></h2>
+<a href="http://online.kemu.ac.ke">Online Registration, Progress Reports, Examination Results, Clearance &amp; Other Services</a>
+<p>&nbsp;</p>
+</div>
+<div class="span3 myBox">
+<p><a href="/index.php/cur-students/academics/academic-calendar/month.calendar/2015/02/15/-"><i class="icon-calendar"></i></a></p>
+<h2><a href="/index.php/cur-students/academics/academic-calendar/month.calendar/2015/02/15/-">Calendar</a></h2>
+<a href="/index.php/cur-students/academics/academic-calendar/month.calendar/2015/02/15/-">View upcoming events and important dates on the Online Academic Calendar</a>
+<p>&nbsp;</p>
+</div>
+<div class="span3 myBox">
+<p><a href="/index.php/downloads"><i class="icon-download-alt"></i></a></p>
+<h2><a href="/index.php/downloads">Downloads</a></h2>
+<a href="/index.php/downloads">Download this Trimester's Timetables, ODLM Assignments,Courses on Offer and important notices here</a>
+<p>&nbsp;</p>
+</div>
+<div class="span3 myBox">
+<p><a href="/index.php/library-home"><i class="icon-book"></i></a></p>
+<h2><a href="/index.php/library-home">Library</a></h2>
+<a href="/index.php/library-home">Access Past Papers, Online Journals, the Library OPAC, and many other library services here.</a>
+<p>&nbsp;</p>
+</div>
+</div></div>
+      </div>
+    </div>
+  </div>
+	
+							</div>
+			</div>
+<!-- SPOTLIGHT --></section>
+<!-- //SPOTLIGHT 1 -->
+    
+    
+<!-- NAV HELPER -->
+<nav class="wrap t3-navhelper">
+  <div class="container">
+    
+<ul class="breadcrumb ">
+	<li><span>Home</span></li></ul>
+
+  </div>
+</nav>
+<!-- //NAV HELPER -->    
+    
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+
+  <!-- FOOT NAVIGATION -->
+  <div class="container">
+    	<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-footnav row">
+					<div class="span3 item-first" data-default="span3" data-tablet="span6">
+									<div class="t3-module module" id="Mod94">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+
+<div class="custom"  >
+	<h4><a href="/index.php/prospective-students">Prospective Students</a></h4></div>
+      </div>
+    </div>
+  </div>
+		<div class="t3-module module" id="Mod89">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+<ul class="nav ">
+<li class="item-231"><a href="/index.php/academic-programmes" >Academic Programmes</a></li><li class="item-232"><a href="/index.php/schools-faculties" >Schools &amp; Faculties</a></li><li class="item-234"><a href="/index.php/academic-integrity" >Academic Integrity</a></li><li class="item-235"><a href="/index.php/distance-learning" >Distance Learning</a></li><li class="item-236">	<a href="http://www.kemu.ac.ke/icos" >ICOS / BPO Training</a></li><li class="item-233"><a href="/index.php/student-life" >Student Life</a></li></ul>
+      </div>
+    </div>
+  </div>
+	
+							</div>
+					<div class="span3 " data-default="span3" data-tablet="span6">
+									<div class="t3-module module" id="Mod95">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+
+<div class="custom"  >
+	<h4><a href="/index.php/current-students">Current Students</a></h4></div>
+      </div>
+    </div>
+  </div>
+		<div class="t3-module module" id="Mod90">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+<ul class="nav ">
+<li class="item-237"><a href="/index.php/academics-cs" >Academics</a></li><li class="item-241"><a href="/index.php/distance-learning-ps-cs" >Distance Learning</a></li><li class="item-243"><a href="/index.php/student-portal-cs" >Student Portal</a></li><li class="item-376">	<a href="http://www.kemu.ac.ke/students" >Student Welfare</a></li><li class="item-423"><a href="/index.php/accreditation" >Accreditation</a></li></ul>
+      </div>
+    </div>
+  </div>
+	
+							</div>
+					<div class="span3 " data-default="span3" data-tablet="span6 spanfirst">
+									<div class="t3-module module" id="Mod96">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+
+<div class="custom"  >
+	<h4><a href="/index.php/staff-faculty">Staff &amp; Faculty</a></h4></div>
+      </div>
+    </div>
+  </div>
+		<div class="t3-module module" id="Mod91">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+<ul class="nav ">
+<li class="item-245"><a href="/index.php/admin-sf" >Administration</a></li><li class="item-246"><a href="/index.php/research" >Research &amp; Development</a></li><li class="item-247"><a href="/index.php/ict-sf" >ICT</a></li><li class="item-248"><a href="/index.php/human-resources-sf" >Human Resources</a></li><li class="item-228">	<a href="http://www.kemu.ac.ke/gallery2" >KeMU Photo Gallery</a></li></ul>
+      </div>
+    </div>
+  </div>
+	
+							</div>
+					<div class="span3 item-last" data-default="span3" data-tablet="span6">
+									<div class="t3-module module" id="Mod97">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+
+<div class="custom"  >
+	<h4><a href="/index.php/resource">Resources</a></h4></div>
+      </div>
+    </div>
+  </div>
+		<div class="t3-module module" id="Mod92">
+    <div class="module-inner">
+                  <div class="module-ct">
+      
+<ul class="nav ">
+<li class="item-250"><a href="/index.php/chaplaincy" >Chaplaincy</a></li><li class="item-132"><a href="/index.php/library" >Library</a></li><li class="item-373">	<a href="http://www.kemu.ac.ke/elearn" >E-Learning Portal</a></li><li class="item-374">	<a href="http://online.kemu.ac.ke/dlm" >ODLM Portal</a></li><li class="item-375">	<a href="http://online.kemu.ac.ke/timetable" >Timetables Portal</a></li><li class="item-421"><a href="/index.php/kemu-email" >KeMU Email</a></li></ul>
+      </div>
+    </div>
+  </div>
+	
+							</div>
+			</div>
+<!-- SPOTLIGHT -->  </div>
+  <!-- //FOOT NAVIGATION -->
+
+  <section class="t3-copyright">
+    <div class="container">
+      <div class="row">
+        <div class="span12 copyright">
+          
+
+<div class="custom"  >
+	<p><em style="color: #ffffff;"><strong><span style="font-size: 14pt;">"Godliness is profitable unto all things"</span></strong></em></p>
+<p>&nbsp;<em style="color: #ffffff;"><strong><span style="font-size: 14pt;"><span style="font-size: 8pt;">-</span></span> </strong></em><span style="color: #ffffff;">1st Timothy 4:8</span></p>
+<p style="text-align: right;"><a href="http://www.facebook.com/pages/Kenya-Methodist-University/171229562934599">&nbsp; <img src="/images/facebook.png" alt="KeMU Facebook Page" border="0" /></a><a href="http://twitter.com/kemukenya">&nbsp; <img src="/images/twitter.png" alt="KeMU Twitter Account" border="0" /></a><a href="https://www.youtube.com/channel/UCPMRDzCLNq3D3YDjMqjVBcQ">&nbsp; <img src="/images/you-tube.png" alt="KeMU Youtube" border="0" /></a><a href="http://instagram.com/kemukenya">&nbsp; <img src="/images/instagram-32.png" alt="KeMU Instagram" style="float: right;" border="0" /></a></p>
+<p style="text-align: right;"><em><span style="font-size: medium;"><strong>The Future is Here</strong></span></em></p>
+<p style="text-align: right;"><strong style="color: #ffffff; font-size: 19px;"><span style="font-size: 8pt;">Copyright © 2015 Kenya Methodist University | Developed &amp; Designed by KeMU ICT</span></strong></p></div>
+
+        </div>
+              </div>
+    </div>
+  </section>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33406445-1']);
+  _gaq.push(['_setDomainName', 'kemu.ac.ke']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</footer>
+<!-- //FOOTER -->    
+  </body>
+
+</html>

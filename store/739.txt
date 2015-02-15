@@ -1,0 +1,36 @@
+
+ <html>
+<HEAD>
+<title> kcauniversity.com registered at HomepageUniverse :: Names, Tools, Hosting </title>
+
+<SCRIPT LANGUAGE="JavaScript">
+defaultStatus="kcauniversity.com";
+</SCRIPT>
+
+<link rel="stylesheet" type="text/css" href="http://homepageuniverse.com/styles.css">
+
+</HEAD>
+<body bgcolor="#ffffff" TEXT="#000000" ALINK="#0F0000" VLINK="#0F0000" LINK="#0099CC">
+
+<p>
+<table border="0" cellpadding="0" cellspacing="0" align=center>
+<tr>
+<td width=600 height=550 background="http://homepageuniverse.com/images/names/parking/bg.gif" align=center valign="top">
+
+<br><br><br><br><br><br>
+<h5>Welcome to the future website of</h5>
+<p>
+<h1>kcauniversity.com</h1>
+<p><br><br><br>
+<h5>This domain name has been registered at <a href="http://homepageuniverse.com">HomepageUniverse</a><br>
+where you can register or transfer your very own domain name or<br>web address from as little as &#36;9.50</h5>
+<p><br>
+<a href="http://homepageuniverse.com"><img src="http://homepageuniverse.com/images/spacer.gif" border="0" width=201 height=147 alt="Click here to visit HomepageUniverse - the home of Names, Tools, Hosting"></a>
+
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

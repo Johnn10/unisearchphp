@@ -1,6 +1,6 @@
 <?php
 
-// It may take a whils to crawl a site ...
+// It may take a while to crawl a site ...
 set_time_limit(1000000000);
 
 // Inculde the phpcrawl-mainclass
@@ -49,7 +49,7 @@ $database = new medoo([
 						if (strpos(strtolower($pieces[$i]), "university")) {
 							$unisave = trim($pieces[$i]);
 							$uniurl = trim($DocInfo -> url);
-							var_dump($pieces);
+							//var_dump($pieces);
 							//creating map url to google (NO API KEY)
 							$uniloc = "https://www.google.co.ke/maps/place/" . urlencode($unisave);
 							$domainanalysis = parse_url($uniurl);
@@ -58,8 +58,11 @@ $database = new medoo([
 								//do nothing
 							//} else {
 								//save
-						$last_user_id = $database->insert("universities", ["uni_name" => $unisave,"uni_address" => $uniurl,"uni_website" => $uniloc ]);
+						$last_user_id = $database->insert("universities", ["uni_name" => $unisave,"uni_website" => $uniurl,"uni_address" => $uniloc ]);
 
+$f = fopen("../store/$last_user_id.txt", "a+");
+fwrite($f, $DocInfo->content);
+fclose($f);
 							//}
 							break;
 						}
