@@ -32,63 +32,18 @@ $database = new medoo([
 		else
 			$lb = "<br />";
 		$node = str_get_dom($DocInfo -> content);
-		foreach ($node('title') as $element) {
-
-			$sitetitle = $element -> getInnerText();
-
-			echo $sitetitle, "<br>\n";
-			//var_dump($element->links_found);
-
-			$string = $sitetitle;
-			$pieces = preg_split( "/(-|\|)/", $string);
-			
-			try {
-
-				if (sizeof($pieces) > 0) {
-					for ($i = 0; $i < sizeof($pieces); $i++) {
-						if (strpos(strtolower($pieces[$i]), "university")) {
-							$unisave = trim($pieces[$i]);
-							$uniurl = trim($DocInfo -> url);
-							//var_dump($pieces);
-							//creating map url to google (NO API KEY)
-							$uniloc = "https://www.google.co.ke/maps/place/" . urlencode($unisave);
-							$domainanalysis = parse_url($uniurl);
-							$uniurl = $domainanalysis['host'];
-							//if ($urltocrawl!= $DocInfo -> url) {
-								//do nothing
-							//} else {
-								//save
-						$last_user_id = $database->insert("universities", ["uni_name" => $unisave,"uni_address" => $uniurl,"uni_website" => $uniloc ]);
-
-$f = fopen("../store/$last_user_id.txt", "a+");
-fwrite($f, $DocInfo->content);
-fclose($f);
-							//}
-							break;
-						}
-					}
-				}
-
-			} catch(Exception $c) {
-
-			}
-			/*foreach ($owned_urls as $url) {
-			 //if (strstr($string, $url)) { // mine version
-			 if (strpos($string, $url) !== FALSE) { // Yoshi version
-			 echo "Match found";
-			 return true;
-			 }
-			 }*/
-			//echo "Not found!";
-			//return false;
-
-		}
-
-		// Find all images
-		//foreach($html->find('title') as $element)
-		//   echo $element->innertext . '<br>';
-		//echo $html->plaintext;
-		// Print the URL and the HTTP-status-Code
+				
+		$plaintext=strtolower($node->getPlainText());
+				$courses =  $database->select("courses","*");
+foreach($courses as $course) {
+    $place = strpos($plaintext, strtolower($course["course_name"]));
+    if (!empty($place)) {
+        echo 'Bad word';
+        exit;
+    } else {
+        echo "Good";
+    }
+}
 		echo "Page requested: " . $DocInfo -> url . " (" . $DocInfo -> http_status_code . ")" . $lb;
 
 		//var_dump($DocInfo);
