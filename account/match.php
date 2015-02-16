@@ -42,13 +42,59 @@ if (!securePage(__FILE__)){
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
 
 $user_id = $loggedInUser->user_id;
-if(isset($_GET["personality"]))
-foreach($_GET["personality"] as $personality_id)
-$last_user_id = $database->insert("user_personality", [
-	"reg_no" => $user_id,
-	"personality_id" =>  $personality_id
+if(isset($_GET["interest"]))
+foreach($_GET["interest"] as $interest_id)
+$last_user_id = $database->insert("interest_career", [
+	"interest_id" => $interest_id,
+	"career_id" =>  $career_id
 ]);
 
+
+if(isset($_GET["personality"]))
+foreach($_GET["personality"] as $personality_id)
+$last_user_id = $database->insert("personality_career", [
+	"personality_id" => $personality_id,
+	"career_id" =>  $career_id
+]);
+
+
+if(isset($_GET["subject"]))
+foreach($_GET["subject"] as $subject_id)
+$last_user_id = $database->insert("subject_career", [
+	"subject_id" => $subject_id,
+	"grade_id" =>  $grade_id,
+	"career_id" => $career_id
+	
+]);
+
+
+if(isset($_GET["career"]))
+foreach($_GET["career"] as $career_id)
+$last_user_id = $database->insert("career_course", [
+	"course_id" => $course_id,
+	"career_id" =>  $career_id
+]);
+
+
+if(isset($_GET["course"]))
+foreach($_GET["course"] as $course_id)
+$last_user_id = $database->insert("university_course", [
+	"course_id" => $course_id,
+	"uni_id" =>  $uni_id
+	//"offering_id" => $offering_id
+	
+	]);
+	
+	
+if(isset($_GET["subject"]))
+foreach($_GET["subject"] as $subject_id)
+$last_user_id = $database->insert("subject_course", [
+	"course_id" => $course_id,
+	"subject_id" =>  $subject_id
+	
+	
+	]);
+	
 
 ?>
 
@@ -69,7 +115,7 @@ $last_user_id = $database->insert("user_personality", [
       <div id="page-wrapper" style="height: 940px;">
 	  	<div class="row">
 	  		<ol class="breadcrumb">
-              <li class="active"><i class="fa fa-binoculars"></i> Personality test</li>
+              <li class="active"><i class="fa fa-check-square-o"></i> Interest-Career match</li>
             </ol>
           <div id='display-alerts' class="col-lg-12">
 
@@ -80,67 +126,17 @@ $last_user_id = $database->insert("user_personality", [
 		<div>
 			<div class="row">
 				
-				   <form name="" id="" method="get" action="" onsubmit="" >
-			<?php
-			$datas = $database->select("personalities", "*");
-
-foreach($datas as $data)
-{
-	//echo "Personality:" . $data["personality_name"] . "Description:" . $data["pesonality_description"] . "<br/>";
-?>
-
-
-
-
-        
-          <div class="col-lg-3">
-            <div class="panel panel-info">
-              <div class="panel-heading">
-                <div class="row">
-                  
-                  <div class="col-xs-12">
-                  	
-                  <input type="checkbox" name="personality[]" value="<?php echo  $data["personality_id"] ?>" onclick="interests.php">     <p class="announcement-heading"><?php echo  $data["personality_name"] ?></p>
-                   
-                  </div>
-                </div>
-              </div>
-              
-  
-              <a href="#">
-                <div class="panel-footer announcement-bottom">
-                  <div class="row">
-                    <div class="col-xs-12">
-                     <?php echo  $data["pesonality_description"] ?>
-                    </div>
-                    
-                  </div>
-                </div>
-              </a>
-              </div>
-            </div>
-          
-          <?php
-          
-          }
-
-?>
-     <input type = "submit"   onclick = "" value="continue" style="float:right;"> 
-</form>     
+				
+				
           </div>  
 
 
 		</div>
 		
 		
-		<iframe width="100%" height="100%" style="border-width: 0px;" src="http://www.16personalities.com/free-personality-test">
-			
-		</iframe>
+		
 	  </div>
 	</div>
-	
-	
-	
 	
 	<script>
         $(document).ready(function() {

@@ -38,10 +38,13 @@ $database = new medoo([
 foreach($courses as $course) {
     $place = strpos($plaintext, strtolower($course["course_name"]));
     if (!empty($place)) {
-        echo 'Bad word';
+        $last_user_id = $database->insert("university_course", [
+	"uni_id" => $_GET["uniid"],
+	"course_id" => $course["course_id"]
+]);
         exit;
     } else {
-        echo "Good";
+        echo "Not Found";
     }
 }
 		echo "Page requested: " . $DocInfo -> url . " (" . $DocInfo -> http_status_code . ")" . $lb;

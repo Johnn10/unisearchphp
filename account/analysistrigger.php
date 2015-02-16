@@ -6,11 +6,12 @@ $datas = $database->select("universities","*");
 // Loop through our array, show HTML source as HTML source; and line numbers too.
 foreach ($datas as $data) {
 	$line = urlencode($data["uni_website"]);
+	$uniid=$data["uni_id"];
 	$myfile = fopen("../crawler/logs/scanurls.log", "w+") or die("Unable to open file!");
-	$txt = "../crawler/analyzer.php?urltocrawl=$line \n";
+	$txt = "../crawler/analyzer.php?urltocrawl=$line&uniid=$uniid \n";
 	fwrite($myfile, $txt);
 	fclose($myfile);
-	$scanurl="http://localhost/unisearch/crawler/analyzer.php?urltocrawl=$line";
+	$scanurl="http://localhost/unisearch/crawler/analyzer.php?urltocrawl=$line&uniid=$uniid";
 	fopen($scanurl,"r");
 }
 ?>

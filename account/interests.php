@@ -42,13 +42,12 @@ if (!securePage(__FILE__)){
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
 
 $user_id = $loggedInUser->user_id;
-if(isset($_GET["personality"]))
-foreach($_GET["personality"] as $personality_id)
-$last_user_id = $database->insert("user_personality", [
+if(isset($_GET["interest"]))
+foreach($_GET["interest"] as $interest_id)
+$last_user_id = $database->insert("user_interests", [
 	"reg_no" => $user_id,
-	"personality_id" =>  $personality_id
+	"interest_id" =>  $interest_id
 ]);
-
 
 ?>
 
@@ -69,7 +68,7 @@ $last_user_id = $database->insert("user_personality", [
       <div id="page-wrapper" style="height: 940px;">
 	  	<div class="row">
 	  		<ol class="breadcrumb">
-              <li class="active"><i class="fa fa-binoculars"></i> Personality test</li>
+              <li class="active"><i class="fa fa-puzzle-piece"></i> Interests</li>
             </ol>
           <div id='display-alerts' class="col-lg-12">
 
@@ -80,27 +79,25 @@ $last_user_id = $database->insert("user_personality", [
 		<div>
 			<div class="row">
 				
-				   <form name="" id="" method="get" action="" onsubmit="" >
+				
+				<form name="" id="" method="get" action="" onsubmit="" >
 			<?php
-			$datas = $database->select("personalities", "*");
-
+			$datas = $database->select("interests", "*");
+			
 foreach($datas as $data)
 {
 	//echo "Personality:" . $data["personality_name"] . "Description:" . $data["pesonality_description"] . "<br/>";
 ?>
 
-
-
-
-        
-          <div class="col-lg-3">
+                 <div class="col-lg-3">
             <div class="panel panel-info">
               <div class="panel-heading">
                 <div class="row">
                   
                   <div class="col-xs-12">
                   	
-                  <input type="checkbox" name="personality[]" value="<?php echo  $data["personality_id"] ?>" onclick="interests.php">     <p class="announcement-heading"><?php echo  $data["personality_name"] ?></p>
+                  	
+                  <input type="checkbox" name="interest[]" value="<?php echo  $data["interest_id"] ?>">   <p class="announcement-heading"><?php echo  $data["interest_name"] ?></p> 
                    
                   </div>
                 </div>
@@ -111,7 +108,7 @@ foreach($datas as $data)
                 <div class="panel-footer announcement-bottom">
                   <div class="row">
                     <div class="col-xs-12">
-                     <?php echo  $data["pesonality_description"] ?>
+                     <?php echo  $data["interest_description"] ?> 
                     </div>
                     
                   </div>
@@ -125,22 +122,20 @@ foreach($datas as $data)
           }
 
 ?>
-     <input type = "submit"   onclick = "" value="continue" style="float:right;"> 
-</form>     
+
+
+<input type = "submit"   onclick = "" value="continue" style="float:right;"> 
+</form>
+          
           </div>  
 
 
 		</div>
 		
 		
-		<iframe width="100%" height="100%" style="border-width: 0px;" src="http://www.16personalities.com/free-personality-test">
-			
-		</iframe>
+		
 	  </div>
 	</div>
-	
-	
-	
 	
 	<script>
         $(document).ready(function() {

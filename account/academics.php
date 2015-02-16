@@ -29,8 +29,9 @@ THE SOFTWARE.
 
 */
 
+// UserCake authentication
 require_once("../models/config.php");
-
+require_once("../databaseconnector.php");
 // Request method: GET
 $ajax = checkRequestMode("get");
 
@@ -38,69 +39,119 @@ if (!securePage(__FILE__)){
     apiReturnError($ajax);
 }
 
+
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
-
+$count=0;
+$user_id = $loggedInUser->user_id;
+if(isset($_GET["subject"]))
+	foreach($_GET["subject"] as $subject_id)
+	
+		$last_user_id = $database->insert("user_subject", [
+		"reg_no" => $user_id,
+		"subject_id" =>  $subject_id,
+		"grade_id" => $_GET["grade"][$count]
+		
+		]);
+		$count++;
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
   <?php
-  	echo renderAccountPageHeader(array("#SITE_ROOT#" => SITE_ROOT, "#SITE_TITLE#" => SITE_TITLE, "#PAGE_TITLE#" => "Account Settings"));
+  	echo renderAccountPageHeader(array("#SITE_ROOT#" => SITE_ROOT, "#SITE_TITLE#" => SITE_TITLE, "#PAGE_TITLE#" => "Subject grade"));
   ?>
 
-  <body>
+  <body>    
     <div id="wrapper">
 
       <!-- Sidebar -->
         <?php
-          echo renderMenu("settings");
-        ?>  
+            echo renderMenu("dashboard-user");
+        ?>
 
       <div id="page-wrapper">
-	  	<div class="row">
+        <div class="row">
           <div id='display-alerts' class="col-lg-12">
 
           </div>
         </div>
-		<h1>Account Settings</h1>
-		<div class="row">
-		  <div class="col-lg-6">
-		  <form class="form-horizontal" role="form" name="updateAccount" action="update_user.php" method="post">
-		  <div class="form-group">
-			<label class="col-sm-4 control-label">Email</label>
-			<div class="col-sm-8">
-			  <input type="email" class="form-control" placeholder="Email" name='email' value=''>
-			</div>
-		  </div>
-		  <div class="form-group">
-			<label class="col-sm-4 control-label">Current Password</label>
-			<div class="col-sm-8">
-			  <input type="password" class="form-control" placeholder="Current Password" name='passwordcheck'>
-			</div>
-		  </div>
-		  <div class="form-group">
-			<label class="col-sm-4 control-label">New Password</label>
-			<div class="col-sm-8">
-			  <input type="password" class="form-control" placeholder="New Password" name='password'>
-			</div>
-		  </div>
-		  <div class="form-group">
-			<label class="col-sm-4 control-label">Confirm New Password</label>
-			<div class="col-sm-8">
-			  <input type="password" class="form-control" placeholder="Confirm New Password" name='passwordc'>
-			</div>
-		  </div>
-		  
-		  <div class="form-group">
-			<div class="col-sm-offset-4 col-sm-8">
-			  <button type="submit" class="btn btn-success submit" value='Update'>Update</button>
-			</div>
-		  </div>
-		  <input type="hidden" name="csrf_token" value="<?php echo $loggedInUser->csrf_token; ?>" />
-		  <input type="hidden" name="user_id" value="0" />
-		  </form>
-		  </div>
+        
+        <div class="row">
+          <div class="col-lg-12">
+            <ol class="breadcrumb">
+              <li class="active"><i class="fa fa-dashboard"></i>Select subject and grade gotten</li>
+            </ol>
+           
+          </div>
+        </div>
+        
+        <form name="" id="" method="get" action="" onsubmit="" >
+			<?php
+			$datas = $database->select("subjects", "*");
+			$grades = $database->select("grades", "*");
+foreach($datas as $data)
+{
+	
+?>
+
+                 <div class="col-lg-3">
+            <div class="panel panel-info">
+              <div class="panel-heading">
+                <div class="row">
+                  
+                  <div class="col-xs-12">
+                  	
+                  	
+                  <input type="checkbox" name="subject[]" value="<?php echo  $data["subject_id"] ?>">   <p class=""><?php echo  $data["subject_name"] ?></p> 
+                   
+                  </div>
+                </div>
+              </div>
+              
+  
+              <a href="#">
+                <div class="panel-footer announcement-bottom">
+                  <div class="row">
+                    <div class="col-xs-12">
+                    	
+                    	
+                    	
+                    	<select name="grade[]">
+						<option  name=""  selected="selected" disabled="disabled" >Choose grade</option>
+						<?php
+						foreach($grades as $grade )
+{
+?>
+						<option value="<?php echo  $grade["grade_id"] ?> ">  <?php echo  $grade["grade_name"] ?>   </option>
+                    	
+                    	<?php
+                   } 
+                   ?>
+                   </select>
+                    </div>
+                    
+                  </div>
+                </div>
+              </a>
+              </div>
+            </div>
+          
+          <?php
+          
+          }
+
+?>
+
+
+<input type = "submit"   onclick = "" value="continue" style="float:right;"> 
+</form>
+          
+          </div>  
+
+
 		</div>
+		
+		
+		
 	  </div>
 	</div>
 	
@@ -165,3 +216,4 @@ setReferralPage(getAbsoluteDocumentPath(__FILE__));
 	</script>
   </body>
 </html>
+
