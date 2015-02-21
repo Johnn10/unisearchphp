@@ -67,7 +67,7 @@ $count = $database->count("universities");
               </div>
               
   
-              <a href="#">
+              <a href="viewuniversities.php">
                 <div class="panel-footer announcement-bottom">
                   <div class="row">
                     <div class="col-xs-6">
@@ -98,7 +98,7 @@ $count = $database->count("courses");
                   </div>
                 </div>
               </div>
-              <a href="#">
+              <a href="addcourses.php">
                 <div class="panel-footer announcement-bottom">
                   <div class="row">
                     <div class="col-xs-6">
@@ -129,7 +129,7 @@ $count = $database->count("interests");
                   </div>
                 </div>
               </div>
-              <a href="#">
+              <a href="addinterests.php">
                 <div class="panel-footer announcement-bottom panel-success">
                   <div class="row">
                     <div class="col-xs-6">
@@ -160,7 +160,7 @@ $count = $database->count("careers");
                   </div>
                 </div>
               </div>
-              <a href="#">
+              <a href="addcareers.php">
                 <div class="panel-footer announcement-bottom">
                   <div class="row">
                     <div class="col-xs-6">

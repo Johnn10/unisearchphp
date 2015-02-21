@@ -41,7 +41,7 @@ require_once("models/config.php");
   <body>
     <div class="container">
       <div class="header">
-        <h3 class="text-muted">UserFrosting</h3>
+        <h3 class="text-muted">Unisearch</h3>
       </div>
       <div class="jumbotron">
         <h1>Well dang.</h1>

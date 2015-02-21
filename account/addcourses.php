@@ -1,7 +1,19 @@
 <?php
 
 require_once("../models/config.php");
+include '../databaseconnector.php';
+if(isset($_GET["courseeditid"])){
+	$database->update("courses", [
+	"course_name"=>$_GET["coursename"],
+	"course_description"=>$_GET["coursedesc"]],
+	["course_id"=>$_GET["courseeditid"]]);
+}
 
+if(isset($_GET['action'])&&$_GET['action']=='delete'){
+	$database->delete("courses", [
+	"course_id" => $_GET["courseid"]
+]);
+}
 // Request method: GET
 $ajax = checkRequestMode("get");
 
@@ -31,30 +43,64 @@ setReferralPage(getAbsoluteDocumentPath(__FILE__));
 	  	<div class="row">
           <div class="col-lg-12">
             <ol class="breadcrumb">
-              <li class="active"><i class="fa fa-plus"></i> Add Course</li>
+              <li class="active"><i class="fa fa-plus"></i>Courses</li>
             </ol>
-            <div class="alert alert-success alert-dismissable">
-              <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-              Add courses selected by users 
-            </div>
+            
              <div id='display-alerts' class="col-lg-12">
 
           </div>
           </div>
         </div>
 		<div class="row">
-		  <div class="col-lg-6">
-		  <form class="form-horizontal" role="form" name="addcourses" action="addcourses.php" method="post">
+		  <div class="col-lg-12">
+		  	<?php
+		  	if(isset($_GET['action'])&&$_GET['action']=='edit'){
+	
+$datas = $database->select("courses", "*", ["course_id"=>$_GET["courseid"] ]);
+			//var_dump($datas);
+foreach($datas as $data)
+{
+		  	?>
+		  	<form class="form-inline" role="form" name="editcourses" action="addcourses.php" method="get">
 		  <div class="form-group">
 			<label class="col-sm-4 control-label">Course Name</label>
 			<div class="col-sm-8">
-			  <input type="text" class="form-control" placeholder="Course name" name='coursename' value=''>
+			  <input type="text" class="form-control input-large" placeholder="Course name" name='coursename' value="<?php echo $data["course_name"]; ?>">
 			</div>
 		  </div>
 		  <div class="form-group">
 			<label class="col-sm-4 control-label">Course Description</label>
 			<div class="col-sm-8">
-			  <input type="text" class="form-control" placeholder="Course Description" name='coursedesc'>
+			  <input type="text" class="form-control input-large" placeholder="Course Description" name='coursedesc' value="<?php echo $data["course_description"]; ?>">
+			</div>
+		  </div>
+		  	  
+		  <div class="form-group">
+			<div class="col-sm-offset-4 col-sm-8">
+			  <button type="submit" class="btn btn-primary submit" value='Update'>edit</button>
+			</div>
+		  </div>
+		  <input type="hidden" name="csrf_token" value="<?php echo $loggedInUser->csrf_token; ?>" />
+		  <input type="hidden" name="courseeditid" value="<?php echo $data["course_id"]; ?>" />
+		  </form>
+		  	
+		  	
+		  	<?php 
+		  	}
+				} else {
+		  		
+				?>
+		  <form class="form-inline col-sm-12" role="form" name="addcourses" action="addcourses.php" method="post">
+		  <div class="form-group">
+			<label class="col-sm-4 control-label">Course Name</label>
+			<div class="col-sm-8">
+			  <input type="text" class="form-control input-large" placeholder="Course name" name='coursename' value=''>
+			</div>
+		  </div>
+		  <div class="form-group">
+			<label class="col-sm-4 control-label">Course Description</label>
+			<div class="col-sm-8">
+			  <input type="text" class="form-control input-large" placeholder="Course Description" name='coursedesc'>
 			</div>
 		  </div>
 		  	  
@@ -66,6 +112,51 @@ setReferralPage(getAbsoluteDocumentPath(__FILE__));
 		  <input type="hidden" name="csrf_token" value="<?php echo $loggedInUser->csrf_token; ?>" />
 		  <input type="hidden" name="user_id" value="0" />
 		  </form>
+		  <?php 
+		  
+				}
+				
+				?>
+		  </div>
+		  <hr />
+		  <div class="col-lg-12">
+		  	<table class="table table-bordered col-lg-12">
+				<thead>
+					<th>
+						Course Name
+					</th>
+					<th>
+						Course Description
+					</th>
+					
+					<th>
+						Action
+					</th>
+				</thead>
+				<tbody>
+			<?php
+			//include '../databaseconnector.php';
+			$datas = $database->select("courses", "*");
+			
+foreach($datas as $data)
+{
+	//echo "Personality:" . $data["personality_name"] . "Description:" . $data["pesonality_description"] . "<br/>";
+?>
+
+                 <tr>
+            
+                  	<td> <?php echo  $data["course_name"] ?> </td>
+                  		<td><?php echo  $data["course_description"] ?></td>
+                  			<td><a class="btn btn-success" href="addcourses.php?action=edit&courseid=<?php echo  $data["course_id"]; ?>" >Edit  </a> &nbsp;&nbsp; <a class="btn btn-danger" href="addcourses.php?action=delete&courseid=<?php echo  $data["course_id"]; ?>" >Delete  </a></td>
+                  
+          <?php
+          
+          }
+
+?>
+
+</tbody>
+</table>
 		  </div>
 		</div>
 	  </div>
@@ -111,6 +202,7 @@ setReferralPage(getAbsoluteDocumentPath(__FILE__));
 				  $form.find("input[name='coursename']").val("");
 				  $form.find("input[name='coursedesc']").val("");
 				}
+				location.reload();
 			}).fail(function (jqXHR, textStatus, errorThrown){
 				// log the error to the console
 				console.error(
@@ -124,6 +216,7 @@ setReferralPage(getAbsoluteDocumentPath(__FILE__));
 		
 			// prevent default posting of form
 			event.preventDefault();  
+			location.reload();
 		  });
 
 		});

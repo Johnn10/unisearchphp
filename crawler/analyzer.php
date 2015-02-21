@@ -36,6 +36,11 @@ $database = new medoo([
 		$plaintext=strtolower($node->getPlainText());
 				$courses =  $database->select("courses","*");
 foreach($courses as $course) {
+	$count = $database->count("university_course", [
+	"uni_id" => $_GET["uniid"],
+	"course_id" => $course["course_id"]
+]);
+If($count==0){
     $place = strpos($plaintext, strtolower($course["course_name"]));
     if (!empty($place)) {
         $last_user_id = $database->insert("university_course", [
@@ -46,6 +51,7 @@ foreach($courses as $course) {
     } else {
         echo "Not Found";
     }
+}
 }
 		echo "Page requested: " . $DocInfo -> url . " (" . $DocInfo -> http_status_code . ")" . $lb;
 

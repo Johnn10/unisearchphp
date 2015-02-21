@@ -1,0 +1,1724 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+
+  <base href="http://www.mmust.ac.ke/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Masinde Muliro University of Science and Technology</title>
+  <link href="http://www.mmust.ac.ke/?view=featured" rel="canonical" />
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/university/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://www.mmust.ac.ke/index.php/component/search/?format=opensearch" rel="search" title="Search www.mmust.ac.ke" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/system/css/calendar-jos.css" type="text/css"  title="Green"  media="all" />
+  <link rel="stylesheet" href="/modules/mod_universal_ajaxlivesearch/cache/293/8445d5bd8c9b7df19e70758d09084062.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sptab/assets/css/style1.css.php?id=286" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_za_trigger_menu/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sptab/assets/css/style1.css.php?id=281" type="text/css" />
+  <style type="text/css">
+#sptab286 .tabs_mask, #sptab286 ul.tabs_container li span {height:30px;line-height:30px;}#sptab286 .tab-padding {padding:10px}#sptab281 .tabs_mask, #sptab281 ul.tabs_container li span {height:30px;line-height:30px;}#sptab281 .tab-padding {padding:10px}
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/tabs-state.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://www.mmust.ac.ke/templates/university/js/jquery/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/validate.js" type="text/javascript"></script>
+  <script src="/media/system/js/calendar.js" type="text/javascript"></script>
+  <script src="/media/system/js/calendar-setup.js" type="text/javascript"></script>
+  <script src="http://www.mmust.ac.ke/modules/mod_s5_register/captcha/CaptchaSecurityImages.php" type="text/javascript"></script>
+  <script src="/modules/mod_universal_ajaxlivesearch/engine/dojo.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/dojo/1.6/dojo/dojo.xd.js" type="text/javascript"></script>
+  <script src="/modules/mod_universal_ajaxlivesearch/cache/293/3690d61651758e75e65ebed9252e6f70.js" type="text/javascript"></script>
+  <script src="/modules/mod_sptab/assets/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_sptab/assets/js/sptab.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function()
+				{
+					jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+				});function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), {"maxTitleChars": 50,"fixed": false});
+		});Calendar._DN = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]; Calendar._SDN = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat","Sun"]; Calendar._FD = 0; Calendar._MN = ["January","February","March","April","May","June","July","August","September","October","November","December"]; Calendar._SMN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]; Calendar._TT = {"INFO":"About the Calendar","ABOUT":"DHTML Date\/Time Selector\n(c) dynarch.com 2002-2005 \/ Author: Mihai Bazon\nFor latest version visit: http:\/\/www.dynarch.com\/projects\/calendar\/\nDistributed under GNU LGPL.  See http:\/\/gnu.org\/licenses\/lgpl.html for details.\n\nDate selection:\n- Use the \u00ab and \u00bb buttons to select year\n- Use the < and > buttons to select month\n- Hold mouse button on any of the above buttons for faster selection.","ABOUT_TIME":"\n\nTime selection:\n- Click on any of the time parts to increase it\n- or Shift-click to decrease it\n- or click and drag for faster selection.","PREV_YEAR":"Click to move to the previous year. Click and hold for a list of years.","PREV_MONTH":"Click to move to the previous month. Click and hold for a list of the months.","GO_TODAY":"Go to today","NEXT_MONTH":"Click to move to the next month. Click and hold for a list of the months.","SEL_DATE":"Select a date.","DRAG_TO_MOVE":"Drag to move","PART_TODAY":" Today ","DAY_FIRST":"Display %s first","WEEKEND":"0,6","CLOSE":"Close","TODAY":"Today","TIME_PART":"(Shift-)Click or Drag to change the value.","DEF_DATE_FORMAT":"%Y-%m-%d","TT_DATE_FORMAT":"%a, %b %e","WK":"wk","TIME":"Time:"};
+	window.addEvent("domready", function() {
+		$("submit_btn").addEvent("click", function(event) {
+			//prevent the page from changing
+			document.formvalidator = new JFormValidator;
+			if(document.formvalidator.isValid(document.getElementById("josForm")))
+			{
+				ajaxdata();
+			} else {
+				return false;
+			}
+		});
+	 });
+
+
+  dojo.addOnLoad(function(){
+      document.search = new AJAXSearchelegant({
+        id : '293',
+        node : dojo.byId('offlajn-ajax-search293'),
+        searchForm : dojo.byId('search-form293'),
+        textBox : dojo.byId('search-area293'),
+        suggestBox : dojo.byId('suggestion-area293'),
+        searchButton : dojo.byId('ajax-search-button293'),
+        closeButton : dojo.byId('search-area-close293'),
+        searchCategories : dojo.byId('search-categories293'),
+        productsPerPlugin : 3,
+        dynamicResult : '0',
+        searchRsWidth : 250,
+        searchImageWidth : '60',
+        minChars : 2,
+        searchBoxCaption : 'Search MMUST Staff',
+        noResultsTitle : 'Results(0)',
+        noResults : 'No results found for the keyword!',
+        searchFormUrl : '/index.php',
+        enableScroll : '1',
+        showIntroText: '1',
+        scount: '10',
+        lang: '',
+        stext: 'No results found. Did you mean?',
+        moduleId : '293',
+        resultAlign : '0',
+        targetsearch: '0',
+        linktarget: '0',
+        keypressWait: '500',
+        catChooser : 0,
+        searchResult : 1,
+        seemoreEnabled : 1,
+        seemoreAfter : 30,
+        keywordSuggestion : '0',
+        seeMoreResults : 'See more results...',
+        resultsPerPage : '4',
+        resultsPadding : '10',
+        controllerPrev : 'PREV',
+        controllerNext : 'NEXT',
+        fullWidth : '1',
+        resultImageWidth : '60',
+        resultImageHeight : '60',
+        showCat : '1',
+        voicesearch : '0'
+      })
+    });jQuery.noConflict();
+  </script>
+  <script type="text/javascript">
+    (function() {
+      var strings = {"JLIB_FORM_FIELD_INVALID":"Invalid field:&#160"};
+      if (typeof Joomla == 'undefined') {
+        Joomla = {};
+        Joomla.JText = strings;
+      }
+      else {
+        Joomla.JText.load(strings);
+      }
+    })();
+  </script>
+  <style type="text/css">.s5boxhidden{display:none;} </style>
+  <script language="javascript" type="text/javascript" >var s5_boxeffect = "elastic";</script>
+  <script src="http://www.mmust.ac.ke/modules/mod_s5_box/js/jquery.colorbox.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="http://www.mmust.ac.ke/modules/mod_s5_box/css/s5box.css" type="text/css" />
+  <script type="text/javascript">
+  jQuery.fn.colorbox.settings.initialWidth=200;
+  jQuery.fn.colorbox.settings.initialHeight=200;
+  jQuery.fn.colorbox.settings.transition="elastic";
+  jQuery(document).ready(function(){
+    jQuery(".s5box_register").colorbox({width:"35%", inline:true, href:"#s5box_register"});
+    jQuery(".s5box_login").colorbox({width:"35%", inline:true, href:"#s5box_login"});
+    jQuery(".s5box_one").colorbox({width:"35%", inline:true, href:"#s5box_one"});
+    jQuery(".s5box_two").colorbox({width:"35%", inline:true, href:"#s5box_two"});
+    jQuery(".s5box_three").colorbox({width:"35%", inline:true, href:"#s5box_three"});
+    jQuery(".s5box_four").colorbox({width:"35%", inline:true, href:"#s5box_four"});
+    jQuery(".s5box_five").colorbox({width:"35%", inline:true, href:"#s5box_five"});
+    jQuery(".s5box_six").colorbox({width:"35%", inline:true, href:"#s5box_six"});
+    jQuery(".s5box_seven").colorbox({width:"35%", inline:true, href:"#s5box_seven"});
+    jQuery(".s5box_eight").colorbox({width:"35%", inline:true, href:"#s5box_eight"});
+    jQuery(".s5box_nine").colorbox({width:"35%", inline:true, href:"#s5box_nine"});
+    jQuery(".s5box_ten").colorbox({width:"35%", inline:true, href:"#s5box_ten"});
+  });</script>
+  <link rel="stylesheet" href="http://www.mmust.ac.ke/modules/mod_s5_register/css/s5_register.css" type="text/css" />
+  <link href="http://www.mmust.ac.ke/modules/mod_s5_vertical_accordion/css/s5_vertical_accordion.css" rel="stylesheet" type="text/css" media="screen" />
+  <style type="text/css">div#content_in {width:2532px;}</style>
+  <script language="javascript" type="text/javascript">var s5_hidecar = "true";</script>
+  <script language="javascript" type="text/javascript">var s5_hidebut = "true";</script>
+  <script language="javascript" type="text/javascript">var s5_hidetext = "true";</script>
+  <script language="javascript" type="text/javascript">var s5_dropdowntext = "Open Gallery";</script>
+  <style>.carouselInner .thumbnail {background-size: 100% 100% !important;;}</style>
+  <script type="text/javascript">var s5_slide_opacity=0.7</script>
+  <script language="javascript" type="text/javascript">var s5_verticalhorizontal = "false";</script>
+  <script src="http://www.mmust.ac.ke/modules/mod_s5_image_and_content_fader/js/jd.gallery.jquery.js" type="text/javascript"></script>
+  <script src="http://www.mmust.ac.ke/modules/mod_s5_image_and_content_fader/js/jd.gallery.transitions.jquery.js" type="text/javascript"></script>
+
+<meta http-equiv="Content-Type" content="text/html;" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+<script type="text/javascript">//<![CDATA[
+if(jQuery.easing.easeOutExpo==undefined){
+document.write('<script src="http://www.mmust.ac.ke/templates/university/js/jquery/jquery-ui.min.js"><\/script>');
+}	
+//]]></script>
+
+<link href="http://www.mmust.ac.ke/templates/university/css/bootstrap/bootstrap-default.css" rel="stylesheet" type="text/css" /><link href="http://www.mmust.ac.ke/templates/university/css/bootstrap/bootstrap-responsive.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="http://www.mmust.ac.ke/templates/system/css/system.css" type="text/css" /><link rel="stylesheet" href="http://www.mmust.ac.ke/templates/system/css/general.css" type="text/css" />
+
+
+<link href="http://www.mmust.ac.ke/templates/university/css/template.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://www.mmust.ac.ke/templates/university/css/editor.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://www.mmust.ac.ke/templates/university/css/suckerfish.css" rel="stylesheet" type="text/css" media="screen" />
+
+<link href="http://www.mmust.ac.ke/templates/university/css/com_content.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+
+
+<link href="http://www.mmust.ac.ke/templates/university/css/multibox/multibox.css" rel="stylesheet" type="text/css" media="screen" />
+
+<link href="http://www.mmust.ac.ke/templates/university/css/multibox/ajax.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script type="text/javascript" src="http://www.mmust.ac.ke/templates/university/js/multibox/overlay.js"></script>
+
+<script type="text/javascript" src="http://www.mmust.ac.ke/templates/university/js/multibox/multibox.js"></script>
+
+<script type="text/javascript" src="http://www.mmust.ac.ke/templates/university/js/multibox/AC_RunActiveContent.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+var s5_fading_menu = "no";
+function s5_jqmainmenu(){
+jQuery(" #navlist ul ").css({display: "none"}); // Opera Fix
+jQuery(" #s5_navv li").hover(function(){
+		jQuery(this).find('ul:first').css({visibility: "visible",display: "none"}).slideDown(400);
+		},function(){jQuery(this).find('ul:first').css({visibility: "hidden"});	});}
+  jQuery(document).ready(function(){ s5_jqmainmenu();});
+</script>
+
+
+
+
+	
+	
+
+
+<style type="text/css"> 
+.s5_wrap, .s5_wrap2{width:975px;}
+	
+		
+
+	
+
+
+	
+
+</style>
+</head>
+<body id="s5_body" style="background:#456896 url() repeat;">
+<div id="s5_topback" style="background:transparent url() no-repeat center top;"> 
+<div id="s5_bottomback" style="background:transparent url() no-repeat center bottom;"> 
+
+<div id="s5_topbar"></div>
+
+
+
+<div class="s5_wrap">
+	<div id="s5_logo" style="cursor:pointer;" onclick="window.document.location.href='http://www.mmust.ac.ke/'"></div>	
+	
+	<div id="s5_logreg">
+							<div id="s5_logregtr"></div>
+						<div id="s5_logregtm">
+													
+					<div id="s5_topgradsearch" style="float:right;">
+								<div class="moduletable">
+					<div class="search">
+    <form action="/index.php" method="post" class="form-inline">
+    		<label for="mod-search-searchword" class="element-invisible"> </label> <input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox search-query" type="text" size="32" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />    	<input type="hidden" name="task" value="search" />
+    	<input type="hidden" name="option" value="com_search" />
+    	<input type="hidden" name="Itemid" value="101" />
+    </form>
+</div>
+		</div>
+		
+					</div>
+					
+			</div>
+						<div id="s5_logregtl"></div>
+					</div>
+	<div style="clear:both;"></div>
+		
+</div>
+
+<div id="s5_menuback">	
+	<div id="s5_wrapback">
+	<div class="s5_wrap2" style="position:relative;z-index:1;">
+	<div class="s5_wrap2" style="margin:0 auto;float:left;margin-right:-30px;">
+							<!-- Start Menu -->
+				<div id="s5_menu">						
+					<div id="s5_navv">	
+							<ul>
+	<li id="item-101" class="active"><span class="s5_outer_active"><span><a  class="active" href="/" >Home<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span></li><li id="item-191" class="s5_level_one_parent"><span class="s5_outer_active"><span><a  class="active" href="/" >About us<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-332" class="noback"><span><span><a  class="parent" href="/" >Welcome</a></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-202"><span><a  class="sub" href="/index.php/2014-05-29-05-20-38/2014-06-19-09-36-48/vc-s-message" >VC's Message</a></span></span></li><li id="item-200"><span><a  class="sub" href="/index.php/2014-05-29-05-20-38/2014-06-19-09-36-48/vision-mission" >Vision & Mission</a></span></span></li><li id="item-201"><span><a  class="sub" href="/index.php/2014-05-29-05-20-38/2014-06-19-09-36-48/historical-background" >Historical background</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-329" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-20-38/2014-06-19-09-28-39" >MMUST Visitors</a></span></span></li><li id="item-349" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-20-38/2014-06-24-06-25-39" >Directorates & Offices</a></span></span></li><li id="item-331" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-20-38/2014-06-19-09-35-34" >University Charter</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-192" class="s5_level_one_parent"><span class="s5_outer_active"><span><a  class="active" href="/index.php/2014-05-29-05-21-22" >Management<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-292" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-21-22/chancellor" >Chancellor</a></span></span></li><li id="item-293" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-21-22/2014-06-18-12-45-23" >University Council</a></span></span></li><li id="item-510" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-21-22/2014-09-25-08-52-39" >University Management</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-265" class="s5_level_one_parent"><span class="s5_outer_active"><span><a  class="active" href="/" >Schools & Faculties<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-269" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/faculty-of-education-and-social-science" >Education and Social Sciences</a></span></span></li><li id="item-272" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/cdmha" >Disast. Mgnt & Humaniterian Asst.</a></span></span></li><li id="item-271" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/faculty-of-engineering" >Faculty of Engineering</a></span></span></li><li id="item-270" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/faculty-of-science" >Faculty of Science</a></span></span></li><li id="item-276" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/school-of-health-science" >Public Health Biomed Sc. & Tech</a></span></span></li><li id="item-266" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/auto-generate-from-title" >Open Learning & Cont. Ed.</a></span></span></li><li id="item-273" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/faculty-of-science-2" >School of Graduate Studies</a></span></span></li><li id="item-268" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/school-of-nursing-and-midwifery" >School of Nursing and Midwifery</a></span></span></li><li id="item-274" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/savet" >Agriculture, Vet. Science & Tech</a></span></span></li><li id="item-275" class="noback"><span><a  class="sub" href="/index.php/2014-06-04-23-33-00/sobe" >Business and Economics</a></span></span></li><li id="item-576" class="noback"><span><a  class="sub" href="http://odel.mmust.ac.ke" target="_blank" >Open & Distance E-Learning</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-199" class="s5_level_one_parent"><span class="s5_outer_active"><span><a  class="active" href="/" >Admissions<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-312" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-23-40/2014-06-19-07-51-49" >Programmes</a></span></span></li><li id="item-313" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-23-40/2014-06-19-07-52-29" >Admission Criteria</a></span></span></li><li id="item-314" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-23-40/2014-06-19-07-52-59" >Application Forms</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-194" class="s5_level_one_parent"><span class="s5_outer_active"><span><a  class="active" href="/index.php/2014-05-29-05-22-7" >Library<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-250" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/background-info" >Background information</a></span></span></li><li id="item-246" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/library-services" >Library Services</a></span></span></li><li id="item-247" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/outreach-programme" >Outreach Programme</a></span></span></li><li id="item-248" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/electronic-journals" >Electronic Journals</a></span></span></li><li id="item-553" class="noback"><span><a  class="sub" href="http://site.ebrary.com/lib/mmust/home.action" target="_blank" >E-Books (Ebrary)</a></span></span></li><li id="item-249" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/library-operations" >Library Operations</a></span></span></li><li id="item-251" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/library-staff" >Library Staff</a></span></span></li><li id="item-252" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/virtual-library" >Virtual Library</a></span></span></li><li id="item-253" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-22-7/rules-regulations" >Rules & Regulations</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-198" class="s5_level_one_parent"><span class="s5_outer_active"><span><a  class="active" href="/" >Students<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-362" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-27-45/dean-of-students" >Dean of Students</a></span></span></li><li id="item-233" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-27-45/2014-06-03-10-56-55" >Student Welfare</a></span></span></li><li id="item-238" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-27-45/student-affairs-office" >Student Affairs Office</a></span></span></li><li id="item-234" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-27-45/2014-06-03-10-56-56" >Student Finance</a></span></span></li><li id="item-235" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-27-45/2014-06-03-10-56-57" >Clubs and Societies</a></span></span></li><li id="item-236" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-27-45/student-accomodation" >Student Accomodation</a></span></span></li><li id="item-237" class="noback"><span><a  class="sub" href="/index.php/2014-05-29-05-27-45/2014-06-03-11-10-15" >Guidance and Counselling</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-308" class="s5_level_one_parent"><span class="s5_outer_active"><span><a  class="active" href="/" >Research<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span><ul style="visibility: hidden; display: block;"> <li class="s5_toparrow"></li><li id="item-326" class="noback"><span><a  class="sub" href="/index.php/2014-06-19-07-26-53/2014-06-19-09-20-29" >Directorate of Research</a></span></span></li><li id="item-324" class="noback"><span><a  class="sub" href="/index.php/2014-06-19-07-26-53/2014-06-19-09-18-16" >Research Publications</a></span></span></li><li id="item-325" class="noback"><span><a  class="sub" href="/index.php/information-board/6-research-funding-opportunities/summary/17/389" >Research Policy</a></span></span></li><li class="s5_menubottom"></li></ul></li><li id="item-196"><span class="s5_outer_active"><span><a  class="active" href="/index.php/2014-05-29-05-23-39" >Alumni<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></span></li></ul>
+								
+					</div>	
+				</div>
+				<!-- End Menu -->
+				
+			
+	</div>	
+	
+		<div id="s5_rss" onclick="window.open('/index.php?format=feed&type=rss')"></div>
+		
+	</div>
+	
+	</div>	
+</div>
+
+<div style="clear:both;"></div>
+
+	
+<div id="s5_topgradient_back">
+	<div id="s5_topgradient">	
+	<div id="s5_bottomgradient">
+		<div class="s5_wrap">
+			
+			
+		<div class="s5_leftset50">
+			
+				
+				<div class="s5_w_modwrap">
+					<!-- Start top 1-3 -->
+								
+								<div id="s5_advert4_100">
+										
+						
+				<div class="module-box">		
+			<div class="s5_moduletl-box">	
+				<div class="s5_moduletr-box">	
+					<div class="s5_moduletm-box">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml-box">
+				<div class="s5_modulemr-box">	
+					<div class="s5_modulemm-box">	
+						
+
+
+
+
+
+	
+		<script type="text/javascript">//<![CDATA[
+		if(jQuery.easing.easeOutExpo==undefined){
+		document.write('<script src="http://www.mmust.ac.ke/modules/mod_s5_image_and_content_fader/js/jquery-ui.min.js"><\/script>');
+		}
+		//]]></script>
+		<script type="text/javascript">jQuery.noConflict();</script>
+						<script type="text/javascript">//<![CDATA[
+		document.write('<link href="http://www.mmust.ac.ke/modules/mod_s5_image_and_content_fader/css/s5imagecontent.css" rel="stylesheet" type="text/css" media="screen" />');
+	//]]></script>
+
+		
+		
+			<script type="text/javascript">
+
+			
+				function s5_icfstartGallery() { 
+				document.getElementById("s5_iacf_content_wrap").style.display = 'block';
+				window.myGallery = new gallery(jQuery('#myGallery'), {
+						timed: true,
+						showArrows: true,
+						showCarousel: true,
+						showInfopane: true,				
+							
+						delay: 9000,
+													defaultTransition: "fade"
+							
+							
+							
+											});
+						jQuery('#myGallery').bind('mouseover',function(){window.myGallery.clearTimer();});
+					jQuery('#myGallery').bind('mouseout',function(){window.myGallery.prepareTimer();});
+			}
+	function s5_icfstartGalleryload() {
+	s5_icfstartGallery();}
+	window.setTimeout(s5_icfstartGalleryload,400);	
+	</script>
+	
+			
+			<div class="content " style="position:relative;z-index:0">
+			<div id="myGallery" style="height:312px;width:454px;">
+						<div id="s5_iacf_content_wrap" style="display:none">
+								<div class="imageElement" style="z-index:0;">
+					<h3>MMUST receives Book Donations</h3>
+					<p style="text-shadow:1px 1px #000000;">DVC A&SA, Prof. Ngaira during the function that saw MMUST receive  books from the Brian Holden Vision Institute</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/donation.jpg" alt="MMUST receives Book Donations" class="full" />
+					<img src="/images/slideshow/donation.jpg" alt="MMUST receives Book Donations" class="thumbnail" />
+					
+				</div>
+												<div class="imageElement" style="z-index:0;">
+					<h3>A dream whose time has come - Malava Campus</h3>
+					<p style="text-shadow:1px 1px #000000;">Malava Education Stakeholders pose for a photo with MMUST Management after a courtesy call whose objective was to ask the University to expand into Malava.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/malava2.jpg" alt="A dream whose time has come - Malava Campus" class="full" />
+					<img src="/images/slideshow/malava2.jpg" alt="A dream whose time has come - Malava Campus" class="thumbnail" />
+				</div>
+												<div class="imageElement" style="z-index:0;">
+					<h3>MMUST School of Medicine is born</h3>
+					<p style="text-shadow:1px 1px #000000;">MMUST VC Prof. Frederick Otieno and Kakamega County Governor, H.E Wycliffe Oparanya, sign an MOU for the School of Medicine</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/mouslideshow.jpg" alt="MMUST School of Medicine is born" class="full" />
+					<img src="/images/slideshow/mouslideshow.jpg" alt="MMUST School of Medicine is born" class="thumbnail" />
+				</div>
+												<div class="imageElement" style="z-index:0;">
+					<h3>MMUST 9th Graduation</h3>
+					<p style="text-shadow:1px 1px #000000;">The Chancellor H.E. Mwai Kibaki confering a degree to a graduand.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/degree.jpg" alt="MMUST 9th Graduation" class="full" />
+					<img src="/images/slideshow/degree.jpg" alt="MMUST 9th Graduation" class="thumbnail" />
+				</div>
+												<div class="imageElement" style="z-index:0;">
+					<h3>MMUST 9th Graduation</h3>
+					<p style="text-shadow:1px 1px #000000;">The Chancellor H. E.Mwai Kibaki unveiling the commemorative plaque as he officially opens the newly constructed women's hostels.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/vckibaki.jpg" alt="MMUST 9th Graduation" class="full" />
+					<img src="/images/slideshow/vckibaki.jpg" alt="MMUST 9th Graduation" class="thumbnail" />
+				</div>
+												<div class="imageElement" style="z-index:0;">
+					<h3>MMUST 9th Graduation</h3>
+					<p style="text-shadow:1px 1px #000000;">The Chancellor H.E Mwai Kibaki flanked by the Vice Chancellor Prof. Fred Otieno planting a tree on at the University Grounds</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/kibakigraduation.jpg" alt="MMUST 9th Graduation" class="full" />
+					<img src="/images/slideshow/kibakigraduation.jpg" alt="MMUST 9th Graduation" class="thumbnail" />
+				</div>
+												<div class="imageElement">
+					<h3>MMUST 9th Graduation</h3>
+					<p style="text-shadow:1px 1px #000000;">University diginitaries share a light moment before receiving the Chancellor.
+</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/dvcs.jpg" alt="MMUST 9th Graduation" class="full" />
+					<img src="/images/slideshow/dvcs.jpg" alt="MMUST 9th Graduation" class="thumbnail" />
+				</div>
+												<div class="imageElement">
+					<h3>MMUST signs MOU with KNUT </h3>
+					<p style="text-shadow:1px 1px #000000;">KNUT Secretary General Mr. Sossion, MMUST VC Prof. Otieno and other University Dignitaries after signing the MOU.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/sossionknut.jpg" alt="MMUST signs MOU with KNUT " class="full" />
+					<img src="/images/slideshow/sossionknut.jpg" alt="MMUST signs MOU with KNUT " class="thumbnail" />
+				</div>
+												<div class="imageElement">
+					<h3>MMUST holds forum with KNUT Officials</h3>
+					<p style="text-shadow:1px 1px #000000;">MMUST and  KNUT Officials pose for a photo after a successful consultative meeting</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/knut.jpg" alt="MMUST holds forum with KNUT Officials" class="full" />
+					<img src="/images/slideshow/knut.jpg" alt="MMUST holds forum with KNUT Officials" class="thumbnail" />
+				</div>
+												<div class="imageElement">
+					<h3>MMUST Receives donations from EAP Centre</h3>
+					<p style="text-shadow:1px 1px #000000;">Prof. Kabaji, DVC Planning, Research & Innovation, receives book donations from Miss Moseti of Eastern Africa Policy Centre.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/slideshow/bookskabaji.jpg" alt="MMUST Receives donations from EAP Centre" class="full" />
+					<img src="/images/slideshow/bookskabaji.jpg" alt="MMUST Receives donations from EAP Centre" class="thumbnail" />
+				</div>
+							</div>
+			</div>
+		</div>
+	
+
+
+	
+
+
+
+
+
+					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl-box">	
+				<div class="s5_modulebr-box">	
+					<div class="s5_modulebm-box">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+								</div>
+																							
+							<div style="clear:both;"></div>		
+					<!-- End top 1-3 -->
+				</div>
+						
+		</div>	
+		<div class="s5_rightset50" >
+			
+					
+		
+			<div style="clear:both;"></div>		
+			
+			
+				
+			<div id="s5_advertwrap">
+				<div class="s5_toptl">
+					<div class="s5_toptr">
+						<div class="s5_toptm">
+						</div>
+					</div>
+				</div>
+				<div class="s5_topml">
+					<div class="s5_topmr">
+						<div class="s5_topmm">			
+						<!-- Adverts -->	
+						<div class="s5_w_modwrap">
+								
+							<div id="s5_advert1_100">
+									
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						
+<div class="sptab_blue" id="sptab281">
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="1._highlights" class="sptab-title">1. Highlights</span></h2>
+			
+
+<div class="custom"  >
+	<h1 class="widget-title" style="border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; margin-bottom: 6px; outline: 0px; padding-right: 4px; padding-left: 4px; vertical-align: baseline; clear: both; color: #666666; line-height: 18px;"><span style="color: #3366ff;"><span style="color: #3366ff;"><a href="/MMUST%202015%20Vacancies"><img src="/images/downloadpdf.gif" alt="" width="41" height="40" /></a><strong>&nbsp; &nbsp; &nbsp;</strong></span></span><a href="/images/Docs/advertisementforjanaury.pdf" target="_blank"><strong><span style="color: #3366ff;"><span style="color: #3366ff;">MMUST 2015 Vacan</span></span><span style="color: #3366ff;"><span style="color: #3366ff;">cies</span></span></strong></a></h1>
+<h1 class="widget-title" style="font-size: 14px; color: #666666; margin-bottom: 6px; padding-right: 4px; padding-left: 4px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; outline: 0px; vertical-align: baseline; clear: both; line-height: 18px;"><strong><span style="color: #3366ff;"><span style="color: #3366ff;"><a style="text-decoration: underline;" href="/MMUST%202015%20Vacancies"><img src="/images/downloadpdf.gif" alt="" width="43" height="42" /></a>&nbsp; &nbsp; &nbsp;</span></span><span style="color: #3366ff;"><a href="/images/Docs/CALLFORPAPERSMMUST2015.pdf" target="_blank"><span style="color: #3366ff;">International Conference on Security</span></a></span></strong></h1>
+<h1 class="widget-title" style="font-size: 14px; color: #666666; margin-bottom: 6px; padding-right: 4px; padding-left: 4px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; outline: 0px; vertical-align: baseline; clear: both; line-height: 18px;"><strong><span style="color: #3366ff;"><span style="color: #3366ff;"><a style="text-decoration: underline;" href="/MMUST%202015%20Vacancies"><img src="/images/downloadpdf.gif" alt="" width="42" height="41" /></a>&nbsp; &nbsp; &nbsp;</span></span><span style="color: #3366ff;">'<a href="/images/Docs/EyeonMMUSTMagazine.pdf" target="_blank"><span style="color: #3366ff;">Eye on MMUST' University Publication</span></a></span></strong></h1>
+<h1 class="widget-title" style="font-size: 14px; color: #666666; margin-bottom: 6px; padding-right: 4px; padding-left: 4px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; outline: 0px; vertical-align: baseline; clear: both; line-height: 18px;"><strong><span style="color: #3366ff;"><span style="color: #3366ff;"><a style="text-decoration: underline;" href="/MMUST%202015%20Vacancies"><img src="/images/downloadpdf.gif" alt="" width="42" height="41" /></a>&nbsp; &nbsp; &nbsp;</span></span></strong><a href="/index.php/2013-11-08-03-52-56/viewcategory/36" target="_blank"><span style="color: #3366ff;">Staff Appraisal Forms</span></a></h1>
+<p><strong>&nbsp;</strong></p></div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="2._mmust_docs" class="sptab-title">2. MMUST Docs</span></h2>
+			
+
+<div class="custom"  >
+	<ul style="list-style-type: circle;">
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000080;"><span style="color: #000080;"><span style="font-size: 12pt;"><span style="color: #000080;"><span style="font-size: 12pt;"><span style="color: #000080;"><span style="font-size: 12pt;"><span style="color: #000080;"><span style="font-size: 12pt;"><span><span style="font-size: 12pt;"><span><span style="font-size: 12pt;"></span></span></span></span></span></span></span></span></span></span></span></span></span>
+<h1 class="widget-title" style="border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; margin-bottom: 6px; outline: 0px; padding-right: 4px; padding-left: 4px; vertical-align: baseline; clear: both; color: #666666; line-height: 18px;"><a href="/index.php/2014-05-29-05-20-38/2014-06-19-09-35-34/summary/4/7" target="_blank"><span style="color: #3366ff;"><span style="color: #3366ff;">University Charter<br /><br /></span></span></a></h1>
+</li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">
+<h1 class="widget-title" style="border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; margin-bottom: 6px; outline: 0px; padding-right: 4px; padding-left: 4px; vertical-align: baseline; clear: both; color: #666666; line-height: 18px;"><a href="/index.php/2013-11-08-03-52-56/summary/4/8" target="_blank"><span style="color: #3366ff;"><span style="color: #3366ff;">University Quality Policy Statement</span></span></a><a href="/images/Docs/CALLFORPAPERSMMUST2015.pdf" target="_blank"><br /><span style="color: #3366ff;"><br /></span></a></h1>
+</li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">
+<h1 class="widget-title" style="border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; margin-bottom: 6px; outline: 0px; padding-right: 4px; padding-left: 4px; vertical-align: baseline; clear: both; color: #666666; line-height: 18px;"><span style="color: #3366ff;">'<a href="/images/Docs/EyeonMMUSTMagazine.pdf" target="_blank"><span style="color: #3366ff;">Eye on MMUST' University Publication<br /><br /></span></a></span></h1>
+</li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #3366ff;"><span style="color: #3366ff;"><span style="color: #3366ff;"></span></span></span>
+<h1 class="widget-title" style="font-size: 14px; color: #666666; margin-bottom: 6px; padding-right: 4px; padding-left: 4px; border: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; outline: 0px; vertical-align: baseline; clear: both; line-height: 18px;"><a href="/index.php/2013-11-08-03-52-56/summary/31/439" target="_blank"><span style="color: #3366ff;"><span style="color: #3366ff;">Staff Publications Register 2014-2015</span></span></a></h1>
+<span style="color: #3366ff;"><span style="color: #3366ff;"></span></span></li>
+</ul>
+<p>&nbsp;</p></div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="3._vc's_speeches" class="sptab-title">3. VC's Speeches</span></h2>
+			
+
+<div class="custom"  >
+	<ul style="list-style-type: circle;">
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">
+<h1 class="widget-title" style="margin-bottom: 6px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 18px; color: #666666; font-size: 14px; padding-right: 4px; padding-left: 4px; border: 0px; outline: 0px; vertical-align: baseline; clear: both; background-color: #f8f8f8;"><a href="/index.php/vc-s-address-during-the-launch-of-the-workshop-for-administration-police-service-women-forum"><span style="color: #3366ff;"></span><span style="color: #3366ff;">VC's address during Launch of Workshop for Administration Police Service Women Forum</span></a></h1>
+</li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">
+<h1 class="widget-title" style="margin-bottom: 6px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 18px; color: #666666; font-size: 14px; padding-right: 4px; padding-left: 4px; border: 0px; outline: 0px; vertical-align: baseline; clear: both; background-color: #f8f8f8;"><a href="/index.php/2013-11-08-03-53-43/352-the-vice-chancellor-s-address-to-first-year-students"><span style="color: #3366ff;">Address to Freshmen, Kaimosi Friends College</span></a>&nbsp;</h1>
+</li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">
+<h1 class="widget-title" style="margin-bottom: 6px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 18px; color: #666666; font-size: 14px; padding-right: 4px; padding-left: 4px; border: 0px; outline: 0px; vertical-align: baseline; clear: both; background-color: #f8f8f8;"><a href="/index.php/speeches/401-vc-s-speech-during-design-of-interprofessional-health-care-curriculum"><span style="color: #3366ff;">Address during Interproffesional Health Care Forum<br /></span></a></h1>
+</li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #3366ff;"><a href="/index.php/speeches/402-vc-s-speech-during-cancer-screening-launch"><span style="color: #3366ff;"></span></a></span>
+<h1 class="widget-title" style="font-size: 14px; color: #666666; margin-bottom: 6px; padding-right: 4px; padding-left: 4px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 18px; border: 0px; outline: 0px; vertical-align: baseline; clear: both; background-color: #f8f8f8;"><a href="/index.php/speeches/402-vc-s-speech-during-cancer-screening-launch"><span style="color: #3366ff;"></span><span style="color: #3366ff;">Address During Cancer Screening Launch</span></a></h1>
+</li>
+<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">
+<h1 class="widget-title" style="font-size: 14px; color: #666666; margin-bottom: 6px; padding-right: 4px; padding-left: 4px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 18px; border: 0px; outline: 0px; vertical-align: baseline; clear: both; background-color: #f8f8f8;"><span style="color: #3366ff;"></span><a href="/index.php/2013-11-08-03-53-43/352-the-vice-chancellor-s-address-to-first-year-students"><span style="color: #3366ff;">Address to First Year Sudents, 2014 Sept. Intake</span></a></h1>
+</li>
+</ul></div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	jQuery(function($) {
+		$('#sptab281').sptab({
+			animation : 'fade',
+			btnPos: 'top',
+			activator: 'mouseenter',
+			transition: 'linear',
+			duration: 400		});
+	});
+</script>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+							</div>
+																							
+							<div style="clear:both;"></div>	
+						</div>
+						<!-- End Adverts -->	
+						</div>
+					</div>
+				</div>	
+				<div class="s5_topbl">
+					<div class="s5_topbr">
+						<div class="s5_topbm">
+						</div>
+					</div>
+				</div>	
+			</div>		
+						
+			
+			
+		</div>	
+			
+		<div style="clear:both;"></div>		
+			
+			
+		</div>
+	</div>
+	</div>
+</div>
+	
+
+
+<div style="clear:both;"></div>	
+
+	
+<div class="s5_wrap">
+	<div class="s5_roundedtl">
+		<div class="s5_roundedtr">
+			<div class="s5_roundedtm">
+			</div>
+		</div>
+	</div>
+	<div class="s5_roundedml">
+		<div class="s5_roundedmr">
+			<div class="s5_roundedmm">
+			 
+					
+				<!-- Start Above Body -->
+				<div id="s5_abovebody">
+					<div id="s5_abovebody_inner">
+						<div id="s5_abovebody_static">				
+							
+							<div id="s5_above_body_1_100">
+									
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+							
+
+<script type="text/javascript">//<![CDATA[
+document.write('<link href="http://www.mmust.ac.ke//modules/mod_s5_image_scroller/s5_image_scroller/scroll.css" rel="stylesheet" type="text/css" media="screen" />');
+//]]>
+var s5scrollwidth = 762;
+</script>
+<script language="javascript" type="text/javascript" src="http://www.mmust.ac.ke//modules/mod_s5_image_scroller/s5_image_scroller/scroll.js"></script>
+<script type="text/javascript">
+	dw_scrollObj.speed = 30;
+    function initScrollLayer() {
+        var scroller = new dw_scrollObj('content', 'content_in', 'content_in', 'hold');}
+    window.onload = function() {
+        window.onload;
+        initScrollLayer();
+		s5_scrollingcheck();}
+	
+</script>
+	
+
+	
+
+<div style="clear:both;"></div>
+					<div id="middle_content" style="width:950px;padding-bottom:26px;" onmouseover="s5_imagescrollstop();" onmouseout="s5_imagescrollgo();">
+                        <div id="scrollbar_top" style="display:none;">
+                            <div id="left_top"></div>
+                            <div id="track_top"></div>                            
+                            <div id="right_top"></div>
+                        </div>
+                        <div id="hold" style="width:921px;height:135px;">
+                            <div id="content" style="width:921px;height:135px;">
+                                <div id="content_in" style="min-width:891px;height:125px;">
+									
+								
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>		
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">								
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/faculty-of-education-and-social-science" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/fess.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+																
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/cdmha                     " target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/cdmha2.jpg  "></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+								
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="http://odel.mmust.ac.ke/" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/odel.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+																
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/school-of-nursing-and-midwifery" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/nursing.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+																
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/auto-generate-from-title" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/solaces.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+																
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/faculty-of-science" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/scienceoriginal.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+																
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/sobe" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/original.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+																
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/school-of-health-science" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/health.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+										
+
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/savet" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/savetoriginal.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+								
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/faculty-of-science-2" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="index.php/2014-06-04-23-33-00/faculty-of-science-2" src="/images/faculties/sgs.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+								
+																<div style="width:211px;" class="s5_imagerot_wrap">
+									<div class="s5_imagerot_tl"><div class="s5_imagerot_tr"><div class="s5_imagerot_tm"></div></div></div>
+									<div class="s5_imagerot_mb" style="width:211px;height:95px;">
+									<div class="s5_imagerot_hover">	
+										<a style="padding:0px; margin:0px;border:none" href="/index.php/2014-06-04-23-33-00/faculty-of-engineering" target="_blank"><img style="border:none; padding:0px; margin:0px;" alt="" src="/images/faculties/engineeringoriginal.jpg"></img></a>
+										<br/><br/>
+										<span class="s5_imagerot_text"></span>
+									</div>
+									</div>
+									<div class="s5_imagerot_bl"><div class="s5_imagerot_br"><div class="s5_imagerot_bm"></div></div></div>
+								</div>
+																
+																
+								
+																	
+								
+										
+								
+																	
+								
+																	
+
+									
+								
+																	
+								
+										
+								
+																	
+                                </div>
+								
+								<div style="clear:both;"></div>	
+                            </div>
+                        </div>
+					
+					
+						<div id="leftside">
+							<div id="left_bottom"></div>
+						</div>
+                        <div id="scrollbar_bottom" style="width:898px;">
+						
+                            <div id="track_bottom" style="width:894px;"></div>                            
+                           
+                        </div>
+						<div id="rightside">
+							 <div id="right_bottom"></div>
+						</div>
+						
+                    </div>
+
+
+
+
+
+					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+							</div>
+																				
+						<div style="clear:both;"></div>
+						</div>
+					</div>
+				</div>
+				<!-- End Above Body -->
+					
+			 
+			</div>
+		</div>
+	</div>	
+	<div class="s5_roundedbl">
+		<div class="s5_roundedbr">
+			<div class="s5_roundedbm">
+			</div>
+		</div>
+	</div>
+</div>
+	
+
+<div style="clear:both;"></div>	
+
+
+
+
+
+<div style="clear:both;"></div>	
+
+
+<div id="s5_bottompositions">
+	<div class="s5_wrap">
+	<div id="s5_bottompositionsgrad">
+
+			
+				<div class="s5_w_modwrap">
+					<!-- Start User 1-3 -->
+								
+								<div id="s5_contentbottom1_33">
+										
+						
+						
+						
+				<div class="module-black">		
+			<div class="s5_moduletl-black">	
+				<div class="s5_moduletr-black">	
+					<div class="s5_moduletm-black">	
+						<h3 class="s5_mod_h3-black"><span class="s5_h3_first">Latest </span> News</h3>
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml-black">
+				<div class="s5_modulemr-black">	
+					<div class="s5_modulemm-black">	
+						<div class="newsflash-black">
+
+	<h4 class="newsflash-title-black">
+			<a href="/index.php/latest-news/463-mmust-receives-books-for-optometry-and-vision-science-courses">
+			MMUST receives books for Optometry and Vision Science Courses</a>
+		</h4>
+
+
+
+
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">Masinde Muliro University of Science and Technology (MMUST) on Tuesday 10th February 2015 received a donation of books worth Kshs. 412,965 from the Brian Holden Vision Institute which is based in Calabar, Nigeria.&nbsp;</p>
+
+
+	<h4 class="newsflash-title-black">
+			<a href="/index.php/latest-news/464-mmust-hosts-nema-regional-center-of-expertise-workshop">
+			MMUST hosts NEMA Regional Center Of Expertise Workshop  </a>
+		</h4>
+
+
+
+
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">MMUST researchers have been seconded to NEMA for capacity building through formation of research teams that are earmarked to tackle environmental degradation and mining which is a persistent problem in the region.</p>
+
+
+	<h4 class="newsflash-title-black">
+			<a href="/index.php/latest-news/459-a-dream-whose-time-has-come-malava-campus">
+			A dream whose time has come - Malava Campus</a>
+		</h4>
+
+
+
+
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">Plans are underway to set up a MMUST campus in Malava sub-county. A delegation of Malava Education Stakeholders Committee paid the VC, Prof. Fred Otieno a courtesy call whose mission was to ask the University to expand into Malava.</p>
+
+
+	<h4 class="newsflash-title-black">
+			<a href="/index.php/latest-news/455-mmust-honored-for-contribution-to-gender-equality">
+			MMUST honored for contribution to gender equality</a>
+		</h4>
+
+
+
+
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">The Men Engage Kenya Network (MENKEN) on 3rd February 2015 unveiled a mural at Masinde <span style="color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">Muliro University of Science and Technology to</span></p>
+
+</div>
+					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl-black">	
+				<div class="s5_modulebr-black">	
+					<div class="s5_modulebm-black">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	﻿
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+<!--------------------------ENTER YOUR LINKS---------------------->
+<div style="width:auto;">
+<table border="0" cellpadding="0" cellspacing="0" style="text-align: center; textdirection: ltr;">
+	<tr style="border:0">
+		<td style="border:0"></td>
+				<td style="border:0">
+
+<form name="jumpmenu">
+  <select name="jumpmenu" onChange="MM_jumpMenu('parent',this,0)">
+     
+<option value=''>MMUST Quick Links</option><option value='/index.php/vc-s-message'>VC's Message</option><option value='/index.php/vision-mission'>Vision &amp; Mission</option><option value='/index.php/historical-background'>Historical background</option><option value='/index.php/2014-06-19-09-28-39'>MMUST Visitors</option><option value='/index.php/2014-06-19-09-35-34'>University Charter</option><option value='/index.php/chancellor'>Chancellor</option><option value='/index.php/2014-06-18-12-45-23'>University Council</option><option value='/index.php/2014-06-18-12-45-50'>Vice Chancellor</option><option value='/index.php/2014-06-18-12-46-34'>DVC Administration &amp; Finance</option><option value='/index.php/dvc-academic-affairs'>DVC Academic Affairs</option><option value='/index.php/dvc-planning-research-innov'>DVC Planning Research &amp; Innov.</option><option value='/index.php/finance-officer'>Finance Officer</option><option value='/index.php/2014-06-04-23-33-00/cdmha'>Disast. Mgmnt. &amp; Humaniterian Assist.</option><option value='/index.php/2014-06-04-23-33-00/faculty-of-education-and-social-science'>Education and Social Science</option><option value='/index.php/faculty-of-engineering'>Faculty of Engineering</option><option value='/index.php/faculty-of-science'>Faculty of Science</option><option value='/index.php/2014-06-04-23-33-00/school-of-health-science'>Public Health Biomed Sc. &amp; Tech</option><option value='/index.php/auto-generate-from-title'>Open Learning &amp; Cont. Ed.</option><option value='/index.php/school-of-nursing-and-midwifery'>School of Nursing and Midwifery</option><option value='/index.php/savet-2'>Agriculture, Vet. Science &amp; Tech</option><option value='/index.php/sobe'>Business and Economics</option><option value='/index.php/2014-05-29-05-23-40/2014-06-19-07-51-49'>Programmes</option><option value='/index.php/2014-05-29-05-23-40/2014-06-19-07-52-29'>Admission Criteria</option></select></form>
+</td>
+	</tr>
+</table>
+</div>
+  	
+								</div>
+															
+								<div id="s5_contentbottom2_33">	
+										
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						
+<div class="sptab_blue" id="sptab286">
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="notice_board" class="sptab-title">Notice Board</span></h2>
+			
+
+<div class="custom"  >
+	<ul>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><a href="https://sites.google.com/a/mmust.ac.ke/intranet/documents/quality-assurance-documents" target="_blank">QMS Documents</a><br /><br /></li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><a href="/index.php/professors">MMUST Professors</a><br /><br /></li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><a href="/index.php/students-examination-forms">Students Examination Forms</a><br /><br /></li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/55">2014/2015 Teaching Timetable</a>
+<p>&nbsp;</p>
+</li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><span style="color: #000000;"><span style="color: #000000;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/40">MMUST Semester Dates 2014-2015</a></span></span>
+<p>&nbsp;</p>
+</li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><span style="color: #000000;"><span style="color: #000000;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/36">Staff Appraisal Forms</a></span></span>
+<p>&nbsp;</p>
+</li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><span style="color: #000000;"><span style="color: #000000;"><a href="/index.php/email-accounts-for-students">Email accounts for Students</a></span></span>
+<p>&nbsp;</p>
+</li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><span style="color: #000000;"><span style="color: #000000;"><a href="/index.php/student-portal-registration-procedure">Student Portal Registration Procedure</a></span></span>
+<p>&nbsp;</p>
+</li>
+<li style="padding-top: 0px; padding-right: 0px; padding-bottom: 0px; font-size: 13px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; line-height: 20px;"><a href="/index.php/2013-11-08-03-53-43">News Archive</a>
+<p>&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="portal" class="sptab-title">portal</span></h2>
+			
+
+<div class="custom"  >
+	<ul>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;"><a href="http://student.mmust.ac.ke/" target="_blank"><span style="color: #000000;">Student Portal<br /><br /></span></a></span></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;"><a href="https://sites.google.com/a/mmust.ac.ke/intranet/" target="_blank"><span style="color: #000000;">Staff intranet<br /><br /></span></a></span></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;"><a href="https://sites.google.com/a/student.mmust.ac.ke/student-intranet_mmust/?pli=1"><span style="color: #000000;">Student intranet<br /><br /></span></a></span></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="https://mail.google.com/a/mmust.ac.ke" target="_blank"><span style="color: #000000;"><span style="color: #000000;">Staff Mail<br /><br /></span></span></a></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;"><a href="https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;ltmpl=default&amp;service=mail&amp;sacu=1&amp;hd=student.mmust.ac.ke" target="_blank"><span style="color: #000000;">Student Mail<br /><br /></span></a></span></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;"><a href="http://odel.mmust.ac.ke/" target="_blank"><span style="color: #000000;">E-Learning<br /><br /></span></a></span></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="http://site.ebrary.com/lib/mmust/home.action" target="_blank"><span style="color: #000000;"><span style="color: #000000;">E-Books (Ebrary)<br /><br /></span></span></a></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;"><a href="http://helpdesk.mmust.ac.ke/" target="_blank"><span style="color: #000000;">ICT HelpDesk</span></a></span></li>
+</ul></div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	jQuery(function($) {
+		$('#sptab286').sptab({
+			animation : 'fade',
+			btnPos: 'top',
+			activator: 'mouseenter',
+			transition: 'linear',
+			duration: 400		});
+	});
+</script>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+						
+						
+						
+				<div class="module-white">		
+			<div class="s5_moduletl-white">	
+				<div class="s5_moduletr-white">	
+					<div class="s5_moduletm-white">	
+						<h3 class="s5_mod_h3-white"><span class="s5_h3_first">Open </span> & Distance E-Learning</h3>
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml-white">
+				<div class="s5_modulemr-white">	
+					<div class="s5_modulemm-white">	
+						
+
+<div class="custom-white"  >
+	<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="http://odel.mmust.ac.ke/" target="_blank"><img style="margin-right: 10px; float: left;" src="/images/stories/elearning.png" alt="" width="104" height="72" /></a><span style="color: #000000;">MMUST Open &amp; Distance E-Learning Platform for online programmes. &nbsp;<br /></span><em><a href="http://odel.mmust.ac.ke/" target="_blank">Read more</a></em></p></div>
+					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl-white">	
+				<div class="s5_modulebr-white">	
+					<div class="s5_modulebm-white">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	
+								</div>
+															
+								<div id="s5_contentbottom3_33">
+										
+						
+				<div class="modules5_va_4 ">		
+			<div class="s5_moduletls5_va_4 ">	
+				<div class="s5_moduletrs5_va_4 ">	
+					<div class="s5_moduletms5_va_4 ">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_modulemls5_va_4 ">
+				<div class="s5_modulemrs5_va_4 ">	
+					<div class="s5_modulemms5_va_4 ">	
+						
+<div id="s5_va_accordion" style="width:320px">
+<div id="s5_va_accordion_inner">
+			<h3 class="s5_va_toggler s5_va_active">
+			<span class="s5_va_h3_inner_span">
+				Programmes			</span>
+		</h3>
+		<div class="s5_va_element">
+			<div class="s5_va_element_inner">
+				
+
+<div class="custom"  >
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><strong>Summary of Programmes offered at MMUST</strong></p>
+<hr style="margin: 5px 0px; height: 1px; padding: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-top-color: #e2e2e2; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;" />
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/information-board-programmes/2014-07-01-07-43-06"><span style="color: #808080;"><span style="color: #808080;">Doctorate Programmes</span></span></a></p>
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/information-board-programmes/2014-07-01-07-43-24"><span style="color: #808080;"><span style="color: #808080;">Masters Programmes</span></span></a></p>
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/information-board-programmes/2014-07-01-07-43-49"><span style="color: #808080;"><span style="color: #808080;">Bachelors Programmes</span></span></a></p>
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/information-board-programmes/2014-07-01-07-44-10"><span style="color: #808080;"><span style="color: #808080;">Diploma Programmes</span></span></a></p>
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/information-board-programmes/certificate-courses"><span style="color: #808080;"><span style="color: #808080;">Certificate Courses</span></span></a></p>
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="http://odel.mmust.ac.ke/index.php/login"><span style="color: #808080;"><span style="color: #808080;">ODeL Programmes</span></span></a></p></div>
+			</div>
+		</div>
+				<h3 class="s5_va_toggler s5_va_inactive">
+			<span class="s5_va_h3_inner_span">
+				 Admissions			</span>
+		</h3>
+		<div class="s5_va_element">
+			<div class="s5_va_element_inner">
+				
+
+<div class="custom"  >
+	<p><strong style="margin-top: 0px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">Admission Criteria for all Programmes within MMUST</strong></p>
+<hr style="margin: 5px 0px; height: 1px; padding: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-top-color: #e2e2e2; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;" />
+<p><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small;"><span style="line-height: 20px;"><a href="/index.php/programmes/ph-d-programmes">Doctorate Programmes<br /></a></span></span><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small;"><span style="line-height: 20px;"><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small; line-height: 20px;"><a href="/index.php/programmes/masters-programmes">Masters Programmes<br /></a></span></span></span><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small;"><span style="line-height: 20px;"><a href="/index.php/programmes/bachelors-programmes">Bachelors Programmes<br /></a></span></span><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small;"><span style="line-height: 20px;"><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small; line-height: 20px;"><a href="/index.php/programmes/diploma-programmes">Diploma Programmes</a></span></span></span><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small;"><span style="line-height: 20px;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/25"><br /></a></span></span></p>
+<p><span style="color: #808080; font-family: SignikaNegativeRegular, sans-serif; font-size: small;"><span style="line-height: 20px;">&nbsp;</span></span></p></div>
+			</div>
+		</div>
+				<h3 class="s5_va_toggler s5_va_inactive">
+			<span class="s5_va_h3_inner_span">
+				Application Forms			</span>
+		</h3>
+		<div class="s5_va_element">
+			<div class="s5_va_element_inner">
+				
+
+<div class="custom"  >
+	<div class="article-content" style="color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><strong><strong>Download Application Forms</strong></strong><hr style="margin: 5px 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-top-color: #e2e2e2; border-bottom-style: solid; border-bottom-color: #ffffff; height: 1px; padding: 0px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;" />
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/10">Postgraduate Application Form<br /></a><a href="/index.php/undergraduate-degree-application-form">Undergraduate Application Form</a><a href="/index.php/2013-11-08-03-52-56/viewcategory/9"><br /></a><a href="http://www.mmust.ac.ke/index.php/2013-11-08-03-52-56/viewcategory/42" target="_blank">Diploma &amp; Certificate Application Form<br /></a><a href="http://odel.mmust.ac.ke/images/docs/ODEL%20Application%20Form.pdf" target="_blank">ODeL Application Form</a><a href="http://www.mmust.ac.ke/index.php/2013-11-08-03-52-56/viewcategory/42" target="_blank"><br /><br /></a></p>
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</p>
+</div>
+<div class="article-content" style="color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;">
+<p>&nbsp;</p>
+</div></div>
+			</div>
+		</div>
+				<h3 class="s5_va_toggler s5_va_inactive">
+			<span class="s5_va_h3_inner_span">
+				Fee Structures			</span>
+		</h3>
+		<div class="s5_va_element">
+			<div class="s5_va_element_inner">
+				
+
+<div class="custom"  >
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><strong>Download MMUST Fee Structures</strong></p>
+<hr style="margin: 5px 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-top-color: #e2e2e2; border-bottom-style: solid; border-bottom-color: #ffffff; height: 1px; padding: 0px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;" />
+<ul>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/46">School of Graduate Studies Fees Structures</a></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/47">Undergraduate Students Fees Structures&nbsp;</a></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="/index.php/2013-11-08-03-52-56/viewcategory/48">Diploma &amp; Certificate Students Fees Structures</a></li>
+<li style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><a href="http://odel.mmust.ac.ke/index.php/using-joomla/extensions/components/content-component/article-categories/89-odel-fees-structure" target="_blank">ODeL Students' Fee Structures</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+			</div>
+		</div>
+							</div>
+</div>
+
+	<script type="text/javascript">//<![CDATA[
+	if(jQuery.easing.easeOutExpo==undefined){
+    document.write('<script src="http://www.mmust.ac.ke/modules/mod_s5_vertical_accordion/js/jquery-ui.min.js"><\/script>');
+    }
+	//]]></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+	
+
+<script type="text/javascript">
+
+
+jQuery(document).ready( (function($) {
+
+	// var accordion = new Accordion($$('.s5_va_toggler'),$$('.s5_va_element'), { pre-MooTools More 
+	
+	s5_va_accordion_toggler = $('.s5_va_toggler');
+	s5_va_accordion_element = $('.s5_va_element');
+	s5_va_accordion_len = s5_va_accordion_toggler.length;
+	
+	jQuery(s5_va_accordion_element).eq(0).find('img').each(function(i,d){ jQuery(d).load(function(){jQuery(s5_va_accordion_element).eq(0).css('height',jQuery(s5_va_accordion_element).eq(0).children(0).outerHeight());});});
+
+	jQuery(s5_va_accordion_toggler).each(function(i,d){
+			if(i==0) $(s5_va_accordion_element[i]).css({'overflow':'hidden','height':$(s5_va_accordion_element[i]).children(0).outerHeight(),'opacity':1});
+			else $(s5_va_accordion_element[i]).css({'height':0,'opacity':0});
+			$(d).click(function(e){	
+				var obj=s5_va_accordion_element[i];
+				$(obj).stop();
+				jQuery(obj).animate({'opacity':1,'height':$(obj).children(0).height()},{queue:false,duration:1000,easing:'easeOutExpo'});
+
+					for(var j=0;j<s5_va_accordion_len;j++) {
+						if(j!=i ){
+							$(s5_va_accordion_element[j]).animate({'opacity':0,'height':'0'},{queue:false,duration:1000,easing:'easeOutExpo'});
+							var s5_va_classes = document.getElementById("s5_va_accordion_inner").getElementsByTagName("H3");
+							for (var s5_va_classes_y=0; s5_va_classes_y<s5_va_classes.length; s5_va_classes_y++) {
+								if (s5_va_classes[s5_va_classes_y].className.indexOf("s5_va_toggler") >= 0 || s5_va_classes[s5_va_classes_y].className.indexOf("s5_va_active") >= 0) {
+									s5_va_classes[s5_va_classes_y].className = "s5_va_inactive";
+								}
+							}
+							$(this).addClass('s5_va_active');
+							$(this).removeClass('s5_va_inactive');
+						}else
+							$(s5_va_accordion_element[j]).animate({'opacity':1,'height':$(s5_va_accordion_element[j]).children(0).outerHeight()},{queue:false,duration:1000,easing:'easeOutExpo',complete:function(){$(this).css({'height':'auto'});}});
+					}
+			});
+	});
+		
+	document.getElementById("s5_va_accordion").style.display = "block";
+	
+}
+)(jQuery));
+
+
+
+</script>
+
+				
+ 					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebls5_va_4 ">	
+				<div class="s5_modulebrs5_va_4 ">	
+					<div class="s5_modulebms5_va_4 ">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						          
+<div id="offlajn-ajax-search293">
+  <div class="offlajn-ajax-search-container">
+     
+  <form id="search-form293" action="/index.php/component/search/" method="get" onSubmit="return false;">
+    <div class="offlajn-ajax-search-inner">
+                <input type="text" name="searchword" id="search-area293" value="" autocomplete="off" />
+        <input type="text" name="searchwordsugg" id="suggestion-area293" value="" autocomplete="off" />
+        <input type="hidden" name="option" value="com_search" />
+              <div id="search-area-close293"></div>
+      <div id="ajax-search-button293"><div class="magnifier"></div></div>
+      <div class="ajax-clear"></div>
+    </div>
+  </form>
+  <div class="ajax-clear"></div>
+  </div>
+    </div>
+<div class="ajax-clear"></div>
+<svg style="position:absolute" height="0" width="0"><filter id="searchblur"><feGaussianBlur in="SourceGraphic" stdDeviation="3"/></filter></svg>
+					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+						
+						
+						
+				<div class="module-white">		
+			<div class="s5_moduletl-white">	
+				<div class="s5_moduletr-white">	
+					<div class="s5_moduletm-white">	
+						<h3 class="s5_mod_h3-white"><span class="s5_h3_first">Contact </span> us</h3>
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml-white">
+				<div class="s5_modulemr-white">	
+					<div class="s5_modulemm-white">	
+						
+
+<div class="custom-white"  >
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><strong><span style="color: #808080;">Masinde Muliro University of Science and Technology</span></strong></p>
+<hr style="margin: 5px 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-top-color: #e2e2e2; border-bottom-style: solid; border-bottom-color: #ffffff; height: 1px; padding: 0px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;" />
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;">P. O. BOX 190-50100,&nbsp;</span><span style="color: #000000;">Kakamega&nbsp;</span></p>
+<p style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; color: #666666; font-family: SignikaNegativeRegular, sans-serif; font-size: 13px; line-height: 20px;"><span style="color: #000000;">Phone no: 056-31375,&nbsp;<br /></span><span style="color: #000000;">email: <span><a href="mailto:info@mmust.ac.ke">info@mmust.ac.ke</a></span></span></p></div>
+					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl-white">	
+				<div class="s5_modulebr-white">	
+					<div class="s5_modulebm-white">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	
+								</div>
+								
+							<div style="clear:both;"></div>		
+					<!-- EndUser 1-3 -->
+				</div>
+				<div style="clear:both;"></div>
+			
+	
+	</div>
+	</div>
+</div>
+
+
+
+
+<div style="clear:both;"></div>	
+
+
+
+
+
+
+
+<div class="s5_wrap">
+	<div id="s5_footergrad">
+			
+		<div id="s5_topmenu">
+					<div class="moduletable">
+					<ul class="nav menu">
+<li class="item-156"><a href="/index.php/2013-11-08-03-53-05" >MMUST Weekly</a></li><li class="item-157"><a href="/index.php/2013-11-08-03-53-16" >Resources</a></li><li class="item-158"><a href="/index.php/2013-11-08-03-53-26" >Vacancies</a></li><li class="item-159"><a href="/index.php/2013-11-08-03-53-43" >News &amp; Events</a></li><li class="item-561"><a href="https://docs.google.com/a/mmust.ac.ke/forms/d/1GQ0TC8O9FxIONSQS3CuNnz393A9HVeXEinQg6WixMi8/viewform?c=0&amp;w=1" target="_blank" >ICT Feedback Form</a></li><li class="item-558"><a href="/images/Docs/CostCentersEmails.pdf" target="_blank" >Mailing List</a></li><li class="item-160"><a href="/index.php/2013-11-08-03-53-57" >Contacts</a></li></ul>
+		</div>
+			<div class="moduletable">
+					
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Masinde Muliro University of Science and Technology. All Rights Reserved. ...ISO 9001:2008 Certified.</p></div>
+		</div>
+	
+		</div>
+			
+		<div style="clear:both;"></div>	
+		<div id="s5_footcopy">
+			<span class="footerc">
+Copyright &copy; 2015.  
+ <a href="http://www.shape5.com/" class="footerc" title="Visit Shape5.com Joomla Template Club" target="blank"></a>
+</span>
+		</div>		
+	</div>
+<div style="height:50px;clear:both;"></div>
+	
+</div>
+</div>
+</div>
+
+<script type="text/javascript" src="http://www.mmust.ac.ke/templates/university/js/s5_suckerfish.js"></script>
+
+
+
+<script type="text/javascript" src="http://www.mmust.ac.ke/templates/university/js/tooltips.js"></script>
+
+
+
+			<div class="moduletable-s5_box">
+					<script type="text/javascript" src="http://www.mmust.ac.ke/modules/mod_s5_box/js/s5_box_hide_div.js"></script>
+  
+<div class="s5boxhidden"><div id="s5box_register">
+	
+						
+						
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+						<h3 class="s5_mod_h3"><span class="s5_h3_first">S5 </span> Register</h3>
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						
+<script type="application/javascript">
+function getXMLHttp()
+{
+			  var xmlHttp
+			  try
+			  {
+				//Firefox, Opera 8.0+, Safari
+				xmlHttp = new XMLHttpRequest();
+			  }
+			  catch(e)
+			  {
+				//Internet Explorer
+				try
+				{
+				  xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+				}
+				catch(e)
+				{
+				  try
+				  {
+					xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+				  }
+				  catch(e)
+				  {
+					alert("Your browser does not support AJAX!")
+					return false;
+				  }
+				}
+			  }
+			  return xmlHttp;
+		}
+function ajaxdata()
+{
+	 // document.getElementById("josForm").submit();
+	  var capch = document.getElementById("security_code").value;
+	  var jform_username = document.getElementById("jform_username").value;
+	  var jform_email1 = document.getElementById("jform_email1").value;
+	  var jform_email12 = document.getElementById("jform_email2").value;
+	  var jform_password1 = document.getElementById("jform_password1").value;
+	  var jform_password2 = document.getElementById("jform_password2").value;
+	  var captchaval = document.getElementById("captchaval").value;
+	  //alert(jform_email1);
+	  var xmlHttp = getXMLHttp();
+	  xmlHttp.onreadystatechange = function()
+	  {
+		if(xmlHttp.readyState == 4)
+		{
+			  HandleResponse(xmlHttp.responseText);
+		}
+	  }
+	
+	  xmlHttp.open("POST", "http://www.mmust.ac.ke/modules/mod_s5_register/captcha/validate.php?jcapch="+capch+"&jemail="+jform_email1+"&juser="+jform_username+"&jemail2="+jform_email12+"&jpass1="+jform_password1+"&jpass2="+jform_password2+"&captchaval="+captchaval, true);
+	  xmlHttp.send(null);
+}
+		
+function HandleResponse(response)
+{
+	  if(response == 'Success')
+	  {
+		document.getElementById("josForm").submit();
+	  }
+	  else
+	  {
+		  document.getElementById("s5_regresponse").style.display = "block";
+		  document.getElementById('s5_regresponse').innerHTML = response;  
+	  }
+}
+</script>
+
+
+<div id="s5_regresponse"></div>
+<form class="form-validate" name="josForm" id="josForm" method="post" action="index.php" >
+<div id="result" style="display:none;"></div>
+	<div class="s5_regfloatleft s5_reglabel">
+		<label for="jform_name" id="jform_name-lbl">Name: *</label>
+    </div>		
+	<div class="s5_regfloatleft s5_reginput">
+
+		<input type="text" maxlength="50" class="inputbox required" value="" size="30" id="jform_name" name="jform[name]"/>
+
+	</div>
+
+	<div style="clear:both;"></div>
+
+	<div class="s5_regfloatleft s5_reglabel">
+
+		<label for="jform_username" id="jform_username-lbl">Username: *</label>
+
+	</div>
+
+	<div class="s5_regfloatleft s5_reginput">
+
+		<input type="text" maxlength="25" class="inputbox required validate-username" value="" size="30" name="jform[username]" id="jform_username"/>
+
+	</div>
+
+	<div style="clear:both;"></div>
+
+	<div class="s5_regfloatleft s5_reglabel">
+
+		<label for="jform_email1" id="jform_email1-lbl">Email Address: *</label>
+
+	</div>
+
+	<div class="s5_regfloatleft s5_reginput">
+
+		<input type="text" maxlength="100" class="inputbox required validate-email" value="" size="30" name="jform[email1]" id="jform_email1"/>
+
+	</div>
+
+	<div style="clear:both;"></div>
+
+	<div class="s5_regfloatleft s5_reglabel">
+
+		<label for="jform_email2" id="jform_email2-lbl">Confirm email Address: *</label>
+
+	</div>
+
+	<div class="s5_regfloatleft s5_reginput">
+
+		<input type="text" maxlength="100" class="inputbox required validate-email" value="" size="30" name="jform[email2]" id="jform_email2"/>
+
+	</div>
+
+	<div style="clear:both;"></div>
+
+	<div class="s5_regfloatleft s5_reglabel">
+
+		<label for="jform_password1" id="jform_password1-lbl">Password: * </label>
+
+	</div>
+
+	<div class="s5_regfloatleft s5_reginput">
+
+		<input type="password" value="" size="30" name="jform[password1]" id="jform_password1" class="inputbox required validate-password"/>
+
+	</div>
+
+	<div style="clear:both;"></div>
+
+	<div class="s5_regfloatleft s5_reglabel">
+
+		<label for="jform_password2" id="jform_password2-lbl">Confirm Password: *</label>
+
+	</div>
+
+	<div class="s5_regfloatleft s5_reginput">
+
+		<input type="password" value="" size="30" name="jform[password2]" id="jform_password2" class="inputbox required validate-passverify"/>
+
+	</div>
+
+	<div style="clear:both;"></div>
+
+	
+
+
+
+
+  
+
+	<div class="s5_regfloatleft s5_reglabel">
+
+		<label for="security_code" id="s5_regsecurity_label">Security Code; *</label>
+
+	</div>
+
+	<div style="clear:both;"></div>
+
+	<img id="s5_regsecurity_img" src="http://www.mmust.ac.ke/modules/mod_s5_register/captcha/CaptchaSecurityImages.php?width=90&height=30&characters=5" />
+
+	<div style="clear:both;"></div>
+
+	<div class="s5_regfloatleft s5_reginput"> 
+
+		<input id="security_code" name="security_code" class="inputbox" type="text" />
+
+	</div>
+
+    <input type="hidden" name="captchaval" id="captchaval" value="1" />
+
+    
+	<div style="clear:both;"></div>
+	
+	<div class="s5_regfloatleft s5_regrequiredfields s5_reglabel"> 
+
+		<label>Fields marked with an asterisk (*) are required.</label>
+	
+	</div>
+	
+	<div style="clear:both;"></div>
+
+	
+	<input type="hidden" name="option" value="com_users" />
+
+	<button id="submit_btn" type="button"  class="btn btn-primary validate">Register</button>
+
+	<input type="hidden" name="task" value="registration.register" />
+
+	<input type="hidden" name="478840ce2681caee3f703c14f0fb7e87" value="1" />
+</form>
+
+					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	</div></div>
+	
+	
+		</div>
+	
+
+ 
+
+
+
+
+			
+		
+	<script type="text/javascript">
+		jQuery(document).ready(function($){
+			$('.s5mb').each(function(i,z){if(!z.getAttribute('rel'))z.setAttribute('rel','[me]');});
+		}(jQuery));
+		var s5mbox = {};
+		
+				
+		        jQuery(document).ready(function($){
+				
+		
+		window.s5mbox = new multiBox({
+			mbClass: '.s5mb',//class you need to add links that you want to trigger multiBox with (remember and update CSS files)
+			container: $(document.body),//where to inject multiBox
+			path: '/js/multibox/',//path to mp3player and flvplayer etc
+			useOverlay: true,//detect overlay setting
+			maxSize: {w:400, h:600},//max dimensions (width,height) - set to null to disable resizing
+			movieSize: {w:300, h:400},
+			addDownload: false,//do you want the files to be downloadable?
+			descClassName: 's5_multibox',//the class name of the description divs
+			pathToDownloadScript: '/js/multibox/forceDownload.asp',//if above is true, specify path to download script (classicASP and ASP.NET versions included)
+			addRollover: false,//add rollover fade to each multibox link
+			addOverlayIcon: false,//adds overlay icons to images within multibox links
+			addChain: false,//cycle through all images fading them out then in
+			recalcTop: true,//subtract the height of controls panel from top position
+			addTips: false,//adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)
+			autoOpen: 0//to auto open a multiBox element on page load change to (1, 2, or 3 etc)
+		});
+		
+
+		}(jQuery));
+						Eventx.onResizend(function(){		
+				s5mbox.resize(); 
+			});
+						
+	</script>
+	
+</body>
+
+</html>
+
+
+

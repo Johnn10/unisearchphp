@@ -1,0 +1,1397 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="MMU, mmu, Multimedia, unicersity, college, College, Uni, knowledge, kenya, degree, diploma, Degree, Dip, Diploma" />
+  <meta name="description" content="Multimedia University College of Kenya - ICT Centre of Excellence" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Multimedia University of Kenya</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/gk_corporate2/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/cache/gk/03dbf99567cb50a5bd17a63d3dd7dd6f.css" type="text/css" />
+  <link rel="stylesheet" href="http://mmu.ac.ke/modules/mod_gk_image_show/css/style3/style1.css" type="text/css" />
+  <link rel="stylesheet" href="http://mmu.ac.ke/modules/mod_news_pro_gk4/interface/css/style.portal.mode.3.css" type="text/css" />
+  <link rel="stylesheet" href="http://mmu.ac.ke/modules/mod_news_pro_gk4/interface/css/style.portal.mode.4.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/templates/gk_corporate2/js/domready_fix.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/components/com_k2/js/k2.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/templates/gk_corporate2/js/gk.script.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/templates/gk_corporate2/js/cufon.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/templates/gk_corporate2/fonts/milford-bold.font.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/modules/mod_gk_image_show/js/style3/engine.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.3.js"></script>
+  <script type="text/javascript" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.4.js"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});var K2RatingURL = 'http://mmu.ac.ke/';
+  </script>
+
+
+
+
+<!--[if IE 8.0]><link rel="stylesheet" href="http://mmu.ac.ke/templates/gk_corporate2/css/ie8.css" type="text/css" /><![endif]-->
+<!--[if IE 7.0]><link rel="stylesheet" href="http://mmu.ac.ke/templates/gk_corporate2/css/ie.css" type="text/css" /><![endif]-->
+<!--[if IE 7.0]><style>.clearfix { display: inline-block; } /* IE7xhtml*/</style><![endif]-->
+
+<script type="text/javascript">
+var siteurl='http://mmu.ac.ke/';
+var tmplurl='http://mmu.ac.ke/templates/gk_corporate2';
+</script>
+
+
+<link href="http://mmu.ac.ke/templates/gk_corporate2/css/menu/mega.css" rel="stylesheet" type="text/css" /><script src="http://mmu.ac.ke/templates/gk_corporate2/js/menu/mega.js" language="javascript" type="text/javascript"></script>    
+    
+		
+	        	
+	
+	<script type="text/javascript">
+	//<![CDATA[
+		if(!window.ie || (document.querySelectorAll && window.ie)){
+		
+
+				
+						Cufon.replace('.header .moduletable h3', { fontFamily: 'milford-bold' });
+						Cufon.replace('#gk-container h4.gk_tab_news_header', { fontFamily: 'milford-bold' });
+						Cufon.replace('h4.nsp_header', { fontFamily: 'milford-bold' });
+						Cufon.replace('.gk_is_text_block h4', { fontFamily: 'milford-bold' });
+						Cufon.replace('.blog_more h2', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.itemHeader h2.itemTitle', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.userItemHeader h3.userItemTitle', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.itemCommentsForm h3', { fontFamily: 'milford-bold' });
+						Cufon.replace('h3.itemCommentsCounter', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.itemListSubCategories h3', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.userBlock h2', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.subCategory h2', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.itemListCategory h2', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.catItemHeader h3.catItemTitle', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.itemExtraFields h3', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.genericItemHeader h2.genericItemTitle', { fontFamily: 'milford-bold' });
+						Cufon.replace('div.k2ItemsBlock ul li a.moduleItemTitle', { fontFamily: 'milford-bold' });
+						Cufon.replace('.gk_is_art h4', { fontFamily: 'milford-bold' });
+						Cufon.replace('.gk_is_list h3 span', { fontFamily: 'milford-bold' });
+						Cufon.replace('.header .moduletable_menu h3', { fontFamily: 'milford-bold' });
+						Cufon.replace('.header .moduletable_text h3', { fontFamily: 'milford-bold' });
+						Cufon.replace('.header h4.header_art', { fontFamily: 'milford-bold' });
+						Cufon.replace('legend', { fontFamily: 'milford-bold' });
+						Cufon.replace('.contentheading', { fontFamily: 'milford-bold' });
+						Cufon.replace('.componentheading', { fontFamily: 'milford-bold' });
+						Cufon.replace('h2.latestItemTitleList', { fontFamily: 'milford-bold' });
+						Cufon.replace('#jc h4', { fontFamily: 'milford-bold' });
+						
+		}
+	//]]>	
+	</script>
+
+
+
+<style type="text/css">	
+	body {
+		font-family: Tahoma, Geneva, sans-serif;
+	}
+	
+    .header .moduletable h3,
+	#gk-container h4.gk_tab_news_header,
+	h4.nsp_header, 
+	.gk_is_text_block h4,	
+	.blog_more h2,
+	div.itemHeader h2.itemTitle,
+	div.userItemHeader h3.userItemTitle,
+	div.itemCommentsForm h3,
+	h3.itemCommentsCounter,
+	div.itemListSubCategories h3,
+	div.userBlock h2,
+	div.subCategory h2,
+	div.itemListCategory h2,
+	div.catItemHeader h3.catItemTitle, 
+	div.itemExtraFields h3,
+	div.genericItemHeader h2.genericItemTitle, 
+	div.k2ItemsBlock ul li a.moduleItemTitle,
+	.gk_is_art h4,
+	.gk_is_list h3 span,	
+	.header .moduletable_menu h3,
+	.header .moduletable_text h3,
+	.header h4.header_art,
+	legend,
+	.contentheading,
+	.componentheading,
+	h2.latestItemTitleList,
+	#jc h4	
+	{
+		font-family: Tahoma, Geneva, sans-serif;
+	}
+</style>
+<!--Width of template -->
+
+<style type="text/css">
+.main {width: 980px;margin: 0 auto;}
+</style>
+
+ 
+
+	</head>
+
+<body id="bd" class="fs3 Others">
+	
+	<div id="gk-wrapper" class="main">
+		<a name="Top" id="Top"></a>
+		<!-- TOOLBAR -->
+		
+
+<div id="gk-toolbar">	
+
+	
+	<div id="gk-search">
+
+		
+
+<script type="text/javascript">
+window.addEvent('load', function(){
+	var input = $('mod_search_searchword');
+	input.addEvents({
+		'blur' : function(){ if(input.value == '') input.value='Course search'; },
+		'focus' : function(){ if(input.value == 'Course search') input.value='';	}
+	});
+	input.value = 'Course search';
+	
+	if($('mod_search_button')){
+		$('mod_search_button').addEvent('click', function(){ 
+			input.focus(); 
+		});
+	}
+});
+</script>
+
+<form action="index.php" method="post">
+	<div class="mod_search">
+ 		<input name="searchword" id="mod_search_searchword" maxlength="40" alt="Search" class="inputbox" type="text" size="40" />
+			</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="0" />
+</form>
+
+	</div>
+
+	
+	
+
+	
+	<div id="gk-tools">
+
+		<div>
+
+			
+
+			
+			
+
+			
+			<a href="http://mmu.ac.ke/index.php?option=com_user&amp;view=register" id="btn_register">Register</a>
+
+			
+			
+
+			
+			<a href="http://mmu.ac.ke/index.php?option=com_user&amp;view=login" id="btn_login">Login</a>
+
+			
+			
+
+		
+
+		</div>
+
+	</div>
+
+	
+</div>
+
+		<!-- MAIN NAVIGATION -->
+		
+<h1 class="logo">
+
+	<a href="/index.php" title=""><span></span></a>
+
+</h1>
+
+
+
+
+<div id="gk-nav" class="clearfix">
+
+	<div id="gk-mainnav" class="clearfix">
+
+		<div class="gk-megamenu clearfix">
+<ul class="megamenu level0"><li class="mega active first"><a href="http://mmu.ac.ke/" class="mega active first" id="menu1" title="Home"><span class="menu-title">Home</span></a></li><li class="mega haschild"><a href="/index.php?option=com_content&amp;view=category&amp;id=43&amp;Itemid=61" class="mega haschild" id="menu61" title="About  MMU"><span class="menu-title">About  MMU</span></a><div class="childcontent cols2 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 400px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=251&amp;Itemid=62" class="mega first" id="menu62" title="Message by the Vice Chancellor"><span class="menu-title">Message by the Vice Chancellor</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=82&amp;Itemid=63" class="mega" id="menu63" title="Historical background"><span class="menu-title">Historical background</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=73" class="mega" id="menu73" title="Vision and Mission"><span class="menu-title">Vision and Mission</span></a></li><li class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=277&amp;Itemid=343" class="mega haschild" id="menu343" title="Campuses"><span class="menu-title">Campuses</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=283&amp;Itemid=349" class="mega first" id="menu349" title="Main Campus"><span class="menu-title">Main Campus</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=284&amp;Itemid=350" class="mega last" id="menu350" title="CBD Campus"><span class="menu-title">CBD Campus</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=83" class="mega haschild" id="menu83" title="Administration"><span class="menu-title">Administration</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=248&amp;Itemid=315" class="mega first" id="menu315" title="Chancellor"><span class="menu-title">Chancellor</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=246&amp;Itemid=314" class="mega" id="menu314" title="The Council"><span class="menu-title">The Council</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=301&amp;Itemid=367" class="mega last" id="menu367" title="University Management Board"><span class="menu-title">University Management Board</span></a></li></ul></div></div>
+</div></div></li></ul></div><div class="megacol column2 last" style="width: 200px;"><ul class="megamenu level1"><li class="mega first haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=278&amp;Itemid=344" class="mega first haschild" id="menu344" title="Directorates"><span class="menu-title">Directorates</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=285&amp;Itemid=351" class="mega first" id="menu351" title="Post Graduate Studies"><span class="menu-title">Post Graduate Studies</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=286&amp;Itemid=352" class="mega" id="menu352" title="Centre for Further Education"><span class="menu-title">Centre for Further Education</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=287&amp;Itemid=353" class="mega" id="menu353" title="Open, Distance and e-Learning"><span class="menu-title">Open, Distance and e-Learning</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=288&amp;Itemid=354" class="mega last" id="menu354" title="Centre for Sustainability"><span class="menu-title">Centre for Sustainability</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=279&amp;Itemid=345" class="mega haschild" id="menu345" title="Accreditation"><span class="menu-title">Accreditation</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=289&amp;Itemid=355" class="mega first" id="menu355" title="CUE  Accreditation"><span class="menu-title">CUE  Accreditation</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=280&amp;Itemid=346" class="mega haschild" id="menu346" title="Facilities and Amenities"><span class="menu-title">Facilities and Amenities</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=290&amp;Itemid=356" class="mega first" id="menu356" title="Hotel and Conference Centre"><span class="menu-title">Hotel and Conference Centre</span></a></li><li class="mega"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=90&amp;Itemid=268" class="mega" id="menu268" title="Health Club"><span class="menu-title">Health Club</span></a></li><li class="mega"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=91&amp;Itemid=267" class="mega" id="menu267" title="Dispensary"><span class="menu-title">Dispensary</span></a></li><li class="mega last"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=92&amp;Itemid=269" class="mega last" id="menu269" title="ICT Museum"><span class="menu-title">ICT Museum</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=281&amp;Itemid=347" class="mega" id="menu347" title="Contact Info"><span class="menu-title">Contact Info</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu95" title="Faculty info"><span class="menu-title">Faculty info</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 230px;"><div class="megacol column1 first" style="width: 230px;"><ul class="megamenu level1"><li class="mega first haschild"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=85&amp;Itemid=233" class="mega first haschild" id="menu233" title="Faculty of Computing &amp; IT"><span class="menu-title">Faculty of Computing &amp; IT</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 300px;"><div class="megacol column1 first" style="width: 300px;"><ul class="megamenu level2"><li class="mega first haschild"><a class="mega first haschild" id="menu280" title="Undergraduate"><span class="menu-title">Undergraduate</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 270px;"><div class="megacol column1 first" style="width: 270px;"><ul class="megamenu level3"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=110&amp;Itemid=240" class="mega first" id="menu240" title="BSc in Computer Science"><span class="menu-title">BSc in Computer Science</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=198" class="mega" id="menu198" title="BSc in Information Technology"><span class="menu-title">BSc in Information Technology</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=197" class="mega" id="menu197" title="BSc in Computer Technology"><span class="menu-title">BSc in Computer Technology</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=102&amp;Itemid=239" class="mega" id="menu239" title="Bachelor of Business IT"><span class="menu-title">Bachelor of Business IT</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=272&amp;Itemid=339" class="mega last" id="menu339" title="BSc in Software Engineering"><span class="menu-title">BSc in Software Engineering</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a class="mega haschild" id="menu281" title="Diploma"><span class="menu-title">Diploma</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 270px;"><div class="megacol column1 first" style="width: 270px;"><ul class="megamenu level3"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=246" class="mega first" id="menu246" title="Int. Diploma in Computer Studies"><span class="menu-title">Int. Diploma in Computer Studies</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=103&amp;Itemid=247" class="mega" id="menu247" title="Int. Advanced Diploma in Computer Studies"><span class="menu-title">Int. Advanced Diploma in Computer Studies</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=273&amp;Itemid=340" class="mega last" id="menu340" title="Diploma in ICT"><span class="menu-title">Diploma in ICT</span></a></li></ul></div></div>
+</div></div></li><li class="mega last haschild"><a class="mega last haschild" id="menu282" title="Certificates"><span class="menu-title">Certificates</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 270px;"><div class="megacol column1 first" style="width: 270px;"><ul class="megamenu level3"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=107&amp;Itemid=243" class="mega first" id="menu243" title="CISCO Academy courses - CCNA"><span class="menu-title">CISCO Academy courses - CCNA</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=142&amp;Itemid=262" class="mega last" id="menu262" title="Int.l Computer Driving Licence (ICDL)"><span class="menu-title">Int.l Computer Driving Licence (ICDL)</span></a></li></ul></div></div>
+</div></div></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=86&amp;Itemid=234" class="mega haschild" id="menu234" title="Faculty of Engineering"><span class="menu-title">Faculty of Engineering</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 300px;"><div class="megacol column1 first" style="width: 300px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=196" class="mega first" id="menu196" title="BSc. Telecomms &amp; Information Eng."><span class="menu-title">BSc. Telecomms &amp; Information Eng.</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=274&amp;Itemid=341" class="mega last" id="menu341" title="Diploma in ETE"><span class="menu-title">Diploma in ETE</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=88&amp;Itemid=235" class="mega haschild" id="menu235" title="Faculty of Business Studies"><span class="menu-title">Faculty of Business Studies</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=90&amp;Itemid=209" class="mega first" id="menu209" title="Bachelor of Commerce"><span class="menu-title">Bachelor of Commerce</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=91&amp;Itemid=210" class="mega" id="menu210" title="Bachelor of Procurement"><span class="menu-title">Bachelor of Procurement</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=260&amp;Itemid=327" class="mega" id="menu327" title="Bachelor of BIT"><span class="menu-title">Bachelor of BIT</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=275&amp;Itemid=342" class="mega" id="menu342" title="BSc in Actuarial Science"><span class="menu-title">BSc in Actuarial Science</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=261&amp;Itemid=328" class="mega" id="menu328" title="Diploma in HRM"><span class="menu-title">Diploma in HRM</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=262&amp;Itemid=329" class="mega" id="menu329" title="Diploma in Procurement"><span class="menu-title">Diploma in Procurement</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=263&amp;Itemid=330" class="mega" id="menu330" title="Diploma in BA"><span class="menu-title">Diploma in BA</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=264&amp;Itemid=331" class="mega last" id="menu331" title="CIPS Courses"><span class="menu-title">CIPS Courses</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=87&amp;Itemid=236" class="mega haschild" id="menu236" title="Faculty of Media &amp; Communication"><span class="menu-title">Faculty of Media &amp; Communication</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 250px;"><div class="megacol column1 first" style="width: 250px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=265&amp;Itemid=332" class="mega first" id="menu332" title="Bachelor of Journalism"><span class="menu-title">Bachelor of Journalism</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=266&amp;Itemid=333" class="mega" id="menu333" title="Bachelor of Applied Communication"><span class="menu-title">Bachelor of Applied Communication</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=267&amp;Itemid=334" class="mega" id="menu334" title="Bachelor of Film and Animation"><span class="menu-title">Bachelor of Film and Animation</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=268&amp;Itemid=335" class="mega" id="menu335" title="Diploma in Journalism"><span class="menu-title">Diploma in Journalism</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=269&amp;Itemid=336" class="mega" id="menu336" title="Diploma in Film and Animation"><span class="menu-title">Diploma in Film and Animation</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=270&amp;Itemid=337" class="mega" id="menu337" title="Diploma in Strategic PR"><span class="menu-title">Diploma in Strategic PR</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=271&amp;Itemid=338" class="mega last" id="menu338" title="Cert in Mass Communication"><span class="menu-title">Cert in Mass Communication</span></a></li></ul></div></div>
+</div></div></li><li class="mega last haschild"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=254&amp;Itemid=320" class="mega last haschild" id="menu320" title="Faculty of Science and Technology"><span class="menu-title">Faculty of Science and Technology</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=256&amp;Itemid=323" class="mega first" id="menu323" title="BSc in Applied Physics and CS"><span class="menu-title">BSc in Applied Physics and CS</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=257&amp;Itemid=324" class="mega" id="menu324" title="BSc in Analytical Chemistry"><span class="menu-title">BSc in Analytical Chemistry</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=258&amp;Itemid=325" class="mega" id="menu325" title="BSc in Mathematics and CS"><span class="menu-title">BSc in Mathematics and CS</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=259&amp;Itemid=326" class="mega last" id="menu326" title="BSc in Industrial Chemistry"><span class="menu-title">BSc in Industrial Chemistry</span></a></li></ul></div></div>
+</div></div></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu27" title="Students' Services"><span class="menu-title">Students' Services</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="http://students.mmu.ac.ke" class="mega first" id="menu2" title="Student Portal"><span class="menu-title">Student Portal</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu248" title="Students' Clubs"><span class="menu-title">Students' Clubs</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=118&amp;Itemid=249" class="mega first" id="menu249" title="Drama Club"><span class="menu-title">Drama Club</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=119&amp;Itemid=250" class="mega" id="menu250" title="Journalism Club"><span class="menu-title">Journalism Club</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=122&amp;Itemid=251" class="mega last" id="menu251" title="ICT Club"><span class="menu-title">ICT Club</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="http://alumni.mmu.ac.ke" class="mega" id="menu207" title="MMU Alumni"><span class="menu-title">MMU Alumni</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=204" class="mega" id="menu204" title="Housing"><span class="menu-title">Housing</span></a></li><li class="mega"><a href="/index.php?option=com_k2&amp;view=itemlist&amp;layout=category&amp;Itemid=266" class="mega" id="menu266" title="Sports &amp; Games"><span class="menu-title">Sports &amp; Games</span></a></li><li class="mega"><a href="http://studsrv.mmu.ac.ke:8082/NimboStratus" target="_blank" class="mega" id="menu290" title="Login to SmartCampus"><span class="menu-title">Login to SmartCampus</span></a></li><li class="mega last"><a href="http://mail.students.mmu.ac.ke" target="_blank" class="mega last" id="menu291" title="Students' emails"><span class="menu-title">Students' emails</span></a></li></ul></div></div>
+</div></div></li><li class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=152&amp;Itemid=260" class="mega haschild" id="menu260" title="Research"><span class="menu-title">Research</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 400px;"><div class="megacol column1 first" style="width: 400px;"><ul class="megamenu level1"><li class="mega first"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=95&amp;Itemid=271" class="mega first" id="menu271" title="Research"><span class="menu-title">Research</span></a></li><li class="mega haschild"><a href="/index.php?option=com_phocadownload&amp;view=sections&amp;Itemid=279" class="mega haschild" id="menu279" title="Downloads"><span class="menu-title">Downloads</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li class="mega first"><a href="http://mmu.ac.ke/downloads/Alcohol,_Drugs_Substance_Abuse_Policy.pdf" target="_blank" class="mega first" id="menu297" title="Students' Alcohal and Drugs"><span class="menu-title">Students' Alcohal and Drugs</span></a></li><li class="mega last"><a href="http://mmu.ac.ke/downloads/wstudy_policy.pdf" target="_blank" class="mega last" id="menu298" title="Work Study policy"><span class="menu-title">Work Study policy</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=291&amp;Itemid=357" class="mega" id="menu357" title="Publications"><span class="menu-title">Publications</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=292&amp;Itemid=358" class="mega" id="menu358" title="Students Innovation"><span class="menu-title">Students Innovation</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=293&amp;Itemid=359" class="mega" id="menu359" title="Books and Journals"><span class="menu-title">Books and Journals</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=294&amp;Itemid=360" class="mega" id="menu360" title="Ongoing Funded Reseach Projects"><span class="menu-title">Ongoing Funded Reseach Projects</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=295&amp;Itemid=361" class="mega" id="menu361" title="Funding Opportunities"><span class="menu-title">Funding Opportunities</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=296&amp;Itemid=362" class="mega last" id="menu362" title="Reaserch Policies"><span class="menu-title">Reaserch Policies</span></a></li></ul></div></div>
+</div></div></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=111&amp;Itemid=203" class="mega" id="menu203" title="Library"><span class="menu-title">Library</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=276&amp;Itemid=259" class="mega" id="menu259" title="Vacancies"><span class="menu-title">Vacancies</span></a></li><li class="mega"><a href="http://elearning.mmu.ac.ke/moodle" class="mega" id="menu79" title="eLearning"><span class="menu-title">eLearning</span></a></li><li class="mega haschild"><a href="#" class="mega haschild" id="menu89" title="Downloads"><span class="menu-title">Downloads</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li class="mega first"><a href="/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=75&amp;Itemid=264" class="mega first" id="menu264" title="Registrar Academic Affairs"><span class="menu-title">Registrar Academic Affairs</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=298&amp;Itemid=364" class="mega" id="menu364" title="Admission"><span class="menu-title">Admission</span></a></li><li class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=299&amp;Itemid=365" class="mega" id="menu365" title="Procurement"><span class="menu-title">Procurement</span></a></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=300&amp;Itemid=366" class="mega last" id="menu366" title="Intake Adverts"><span class="menu-title">Intake Adverts</span></a></li></ul></div></div>
+</div></div></li><li class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=297&amp;Itemid=363" class="mega last" id="menu363" title="Media Centre"><span class="menu-title">Media Centre</span></a></li></ul>
+</div>			<script type="text/javascript">
+			var megamenu = new gkMegaMenuMoo ('gk-mainnav', {
+				'bgopacity': 0, 
+				'delayHide': 1000, 
+				'slide': 1, 
+				'fading': 1,
+				'direction':'down',
+				'action':'mouseover',
+				'tips': false,
+				'duration': 500,
+				'hidestyle': 'fastwhenshow'
+			});			
+			</script>
+			
+		
+
+		
+	</div>
+
+</div>
+
+
+
+<ul class="no-display">
+
+    <li><a href="/#gk-content" title="Skip to content">Skip to content</a></li>
+
+</ul>		<!-- HEADER -->
+		
+
+
+
+
+
+
+
+
+
+	
+
+	<div id="gk-header">				
+
+
+				<div class="moduletable clear">
+			   			<div class="moduletable_content">
+				
+<div id="gk_is-newsimage1" class="gk_is_wrapper gk_is_wrapper-style1 clearfix">
+
+	<div class="gk_is_preloader"><span>LOADING</span></div>
+
+		<div class="gk_is_prev" style="top:127px;"><div>PREV</div></div>
+	<div class="gk_is_next" style="top:127px;"><div>NEXT</div></div>
+		
+	<div class="gk_is_image right" style="width:680px;height:300px;">
+
+					
+						
+			<div class="gk_is_slide" style="z-index: 1;" title="Welcome">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/351007new.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 2;" title="MARK OF EXCELLENCE">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/706748CS.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 3;" title="Inauguration">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/764222Council_Chair.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 4;" title="Welcome">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/397984new_vc.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 5;" title="Welcome">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/124460new_dvc.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 6;" title="Welcome">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/423931new_dvc1.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 7;" title="Partnership">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/838066Africa_24_Media.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 8;" title="INNOVATION">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/368597Innovation.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 9;" title="OUR CBD CAMPUS">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/837665cbd_campus.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 10;" title="EXPO">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/687096Expo.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 11;" title=" SERENE ENVIRONMENT ">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/941651Media.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 12;" title="EXCELLENCE">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/921388710385slide6.png</div>
+			
+					
+						
+			<div class="gk_is_slide" style="z-index: 13;" title="Students Portal">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/766840Student_Portal.png</div>
+			
+			</div>
+	
+	<div class="gk_is_content" style="position:relative;margin-right:680px;">
+				
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:5;width:100%;">
+			<div>
+															<h4><a href="#">Welcome</a></h4>
+													<p>
+					Welcome to Multimedia University of Kenya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fully Fledged Public University 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:6;width:100%;">
+			<div>
+															<h4><a href="/index.php?option=com_content&amp;view=article&amp;id=124">MARK OF EXCELLENCE</a></h4>
+													<p>
+					Education Cabinet Secretary congratulates Chancellor after the award of Honorary Degree 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:7;width:100%;">
+			<div>
+															<h4><a href="/index.php?option=com_content&amp;view=article&amp;id=124">Inauguration</a></h4>
+													<p>
+					VC recieves the University Charter from Chairman of Council during inauguration 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:8;width:100%;">
+			<div>
+															<h4><a href="/">Welcome</a></h4>
+													<p>
+					Welcome to Multimedia University of Kenya 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:9;width:100%;">
+			<div>
+															<h4><a href="#">Welcome</a></h4>
+													<p>
+					Welcome to Multimedia University of Kenya 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:10;width:100%;">
+			<div>
+															<h4><a href="#">Welcome</a></h4>
+													<p>
+					Welcome to Multimedia University of Kenya 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:11;width:100%;">
+			<div>
+															<h4><a href="/index.php?option=com_content&amp;view=article&amp;id=81&amp;catid=43&amp;Itemid=61">Partnership</a></h4>
+													<p>
+					&nbsp;Versity partners with Africa 24 Media 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:12;width:100%;">
+			<div>
+															<h4><a href="/index.php?option=com_content&amp;view=article&amp;id=0&amp;Itemid=51">INNOVATION</a></h4>
+													<p>
+					Students win big in innovations 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:13;width:100%;">
+			<div>
+															<h4><a href="/index.php?option=com_content&amp;view=article&amp;id=0&amp;Itemid=51">OUR CBD CAMPUS</a></h4>
+													<p>
+					For more information: CBD@mmu.ac.ke 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:14;width:100%;">
+			<div>
+															<h4><a href="http://mmu.ac.ke/index.php?option=com_k2&amp;view=item&amp;layout=item&amp;id=142&amp;Itemid=296">EXPO</a></h4>
+													<p>
+					Varsity rewarded for its innovations, products and services  				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:15;width:100%;">
+			<div>
+															<h4><a href="#"> SERENE ENVIRONMENT </a></h4>
+													<p>
+					Varsity offers conducive learning environment 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:16;width:100%;">
+			<div>
+															<h4><a href="/index.php?option=com_content&amp;view=article&amp;id=124">EXCELLENCE</a></h4>
+													<p>
+					Leader in Innovative Technologies 				</p>
+				
+							</div>
+		</div>
+				
+					
+		<div class="gk_is_art gk_unvisible" style="position:absolute;z-index:17;width:100%;">
+			<div>
+															<h4><a href="#">Students Portal</a></h4>
+													<p>
+					Have you visited the students portal on http://students.mmu.ac.ke ? 				</p>
+				
+							</div>
+		</div>
+			</div>
+</div>
+<script type="text/javascript">
+	try {$Gavick;}catch(e){$Gavick = {};};
+	$Gavick["gk_is-newsimage1"] = {
+		"anim_speed": 1000,
+		"anim_interval": 5000,
+		"autoanimation": true,
+		"anim_type" : "top",
+		"actual_animation": false,
+		"actual_slide": 0
+	};
+</script>
+
+<script type="text/javascript" src="http://mmu.ac.ke/templates/gk_corporate2/js/gk_image_show.js"></script>			</div>
+		</div>
+			
+
+
+	</div>
+
+
+	
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="gk-breadcrumb">
+
+
+	<p class="mod_whosonline text"> We have&nbsp;<span>239 guests</span>&nbsp;online</p>
+
+
+
+	
+
+
+	
+
+	<div id="gk-date">
+
+
+		Thursday, 19 Feb 2015
+
+	</div>
+
+
+	
+
+</div>
+
+
+
+
+
+
+
+		<!-- TOP MODULES -->
+		
+<div id="gk-topsl1" class="clearfix">	
+	<div class="inner cleft cright ctop clearfix">
+		<div class="clearfix">
+						<div class="gk-box column gk-box-full" style="width: 100%;">
+						<div class="moduletablestyle.portal.mode.4">
+										
+				<h3><span><span class="first-word">Faculties</span> news and information</span></h3>
+			   			<div class="moduletable_content">
+				
+<div class="nsp_main_portal_mode4 autoanim nsp_fs100" id="nsp-nsp_178">
+		<div class="nsp_images">
+		<div class="nsp_arts">
+			<div class="nsp_arts_scroll">
+							<div class="nsp_art">
+					<div style="width:230px;height:120px;">
+						<div class="nsp_image_gallery"><a href="/index.php?option=com_k2&amp;view=item&amp;id=85:faculty-of-computing-and-it&amp;Itemid=233" class=" tleft fleft" title="Faculty of Computing and IT"><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.cit 2nsp_178.jpg" alt="Faculty of Computing and IT" style="width:230px;height:120px;margin:3px 5px 3px 5px;"  title="Faculty of Computing and IT" /></a></div>						<div class="nsp_art_headline">
+							<div class="nsp_headline"><h4 class="nsp_header tleft fnone"><a href="/index.php?option=com_k2&amp;view=item&amp;id=85:faculty-of-computing-and-it&amp;Itemid=233" title="Faculty of Computing and IT">Faculty of Computing and IT</a></h4></div>						</div>
+					</div>
+				</div>
+							<div class="nsp_art">
+					<div style="width:230px;height:120px;">
+						<div class="nsp_image_gallery"><a href="/index.php?option=com_k2&amp;view=item&amp;id=86:faculty-of-engineering&amp;Itemid=234" class=" tleft fleft" title="Faculty of Engineering "><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.mmu_progs.eng_lab3nsp_178.jpg" alt="Faculty of Engineering " style="width:230px;height:120px;margin:3px 5px 3px 5px;"  title="Faculty of Engineering " /></a></div>						<div class="nsp_art_headline">
+							<div class="nsp_headline"><h4 class="nsp_header tleft fnone"><a href="/index.php?option=com_k2&amp;view=item&amp;id=86:faculty-of-engineering&amp;Itemid=234" title="Faculty of Engineering ">Faculty of Engineering </a></h4></div>						</div>
+					</div>
+				</div>
+							<div class="nsp_art">
+					<div style="width:230px;height:120px;">
+						<div class="nsp_image_gallery"><a href="/index.php?option=com_k2&amp;view=item&amp;id=87:faculty-of-media-and-communication&amp;Itemid=236" class=" tleft fleft" title="Faculty of Media and Communication"><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.media 12nsp_178.jpg" alt="Faculty of Media and Communication" style="width:230px;height:120px;margin:3px 5px 3px 5px;"  title="Faculty of Media and Communication" /></a></div>						<div class="nsp_art_headline">
+							<div class="nsp_headline"><h4 class="nsp_header tleft fnone"><a href="/index.php?option=com_k2&amp;view=item&amp;id=87:faculty-of-media-and-communication&amp;Itemid=236" title="Faculty of Media and Communication">Faculty of Media and Communication</a></h4></div>						</div>
+					</div>
+				</div>
+							<div class="nsp_art">
+					<div style="width:230px;height:120px;">
+						<div class="nsp_image_gallery"><a href="/index.php?option=com_k2&amp;view=item&amp;id=88:faculty-of-business-studies&amp;Itemid=235" class=" tleft fleft" title="Faculty of Business Studies"><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.bus 2nsp_178.jpg" alt="Faculty of Business Studies" style="width:230px;height:120px;margin:3px 5px 3px 5px;"  title="Faculty of Business Studies" /></a></div>						<div class="nsp_art_headline">
+							<div class="nsp_headline"><h4 class="nsp_header tleft fnone"><a href="/index.php?option=com_k2&amp;view=item&amp;id=88:faculty-of-business-studies&amp;Itemid=235" title="Faculty of Business Studies">Faculty of Business Studies</a></h4></div>						</div>
+					</div>
+				</div>
+							<div class="nsp_art">
+					<div style="width:230px;height:120px;">
+						<div class="nsp_image_gallery"><a href="/index.php?option=com_k2&amp;view=item&amp;id=254:faculty-of-science-and-technology&amp;Itemid=320" class=" tleft fleft" title="Faculty of Science and Technology"><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.faculty of sciencensp_178.jpg" alt="Faculty of Science and Technology" style="width:230px;height:120px;margin:3px 5px 3px 5px;"  title="Faculty of Science and Technology" /></a></div>						<div class="nsp_art_headline">
+							<div class="nsp_headline"><h4 class="nsp_header tleft fnone"><a href="/index.php?option=com_k2&amp;view=item&amp;id=254:faculty-of-science-and-technology&amp;Itemid=320" title="Faculty of Science and Technology">Faculty of Science and Technology</a></h4></div>						</div>
+					</div>
+				</div>
+						</div>	
+		</div>
+	</div>
+			
+	<a class="nsp_prev">Prev</a>
+	<a class="nsp_next">Next</a>
+</div>
+
+
+<script type="text/javascript" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/interface/scripts/engine.portal.mode.4.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_178"] = {
+	"animation_speed": 350};
+//]]>
+</script>				</div>
+		</div>
+	
+			</div>
+																																												
+		</div>
+	</div>		
+</div>
+
+		<!-- MAIN CONTAINER -->
+		<div id="gk-container">
+			<div class="static clearfix">
+				<div id="gk-mainbody" style="width:64%">
+					<!-- CONTENT -->
+
+
+<div id="gk-main" style="width:100%">
+              <div class="gk-mass gk-mass-top clearfix">
+               		<div class="moduletable">
+										
+				<h3><span><span class="first-word">Message</span> by Vice Chancellor</span></h3>
+			   			<div class="moduletable_content">
+				<p>I am humbled as I take over as the new and first appointed Vice-Chancellor of Multimedia University of Kenya after its inauguration as a fully fledged university in March 2013. <a href="/index.php?option=com_content&amp;view=article&amp;id=251&amp;Itemid=62"><strong>Read more &gt;&gt;</strong></a></p>			</div>
+		</div>
+			<div class="moduletable">
+										
+				<h3><span><span class="first-word">News</span> </span></h3>
+			   			<div class="moduletable_content">
+				
+<div class="nsp_main_portal_mode3 nsp_fs100" id="nsp-nsp_174">
+		<div class="nsp_titles">
+				<div class="nsp_title_block">	
+			<div class="nsp_title_tab"><div class="nsp_date">02 Feb 2015</div><div class="nsp_title">MMU student setting the pace in animation field</div></div><div class="nsp_art_more unvisible"><div class="nsp_art_main"><a href="/index.php?option=com_k2&amp;view=item&amp;id=286:mmu-student-setting-the-pace-in-animation-field&amp;Itemid=263" class=" tleft fleft" title="MMU student setting the pace in animation field"><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.animation 1nsp_174.png" alt="MMU student setting the pace in animation field" style="width:204px;height:118px;margin:7px 14px 10px 0;"  title="MMU student setting the pace in animation field" /></a><p class="nsp_text tleft fleft">At the age of 22, Mogire Naftal, animation major student at Multimedia University of Kenya is riding high on the wave of animation creativity in the country.
+The young animator already...</p><a class="readon readon_class  fright" href="/index.php?option=com_k2&amp;view=item&amp;id=286:mmu-student-setting-the-pace-in-animation-field&amp;Itemid=263">Read more</a></div></div>		</div>
+				<div class="nsp_title_block">	
+			<div class="nsp_title_tab"><div class="nsp_date">30 Jan 2015</div><div class="nsp_title">Administration Police Clergy hold three day Workshop</div></div><div class="nsp_art_more unvisible"><div class="nsp_art_main"><a href="/index.php?option=com_k2&amp;view=item&amp;id=285:administration-police-clergy-hold-three-day-workshop&amp;Itemid=263" class=" tleft fleft" title="Administration Police Clergy hold three day Workshop"><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/k2.items.cache.f9bbdeb62248e2fc4418a6935e64cf4c_Lnsp_174.jpg" alt="Administration Police Clergy hold three day Workshop" style="width:204px;height:118px;margin:7px 14px 10px 0;"  title="Administration Police Clergy hold three day Workshop" /></a><p class="nsp_text tleft fleft">&nbsp;
+Administration Police officers involved in clergy work are undergoing a three day training work at Multimedia University of Kenya with the aim of equipping the police men and women of...</p><a class="readon readon_class  fright" href="/index.php?option=com_k2&amp;view=item&amp;id=285:administration-police-clergy-hold-three-day-workshop&amp;Itemid=263">Read more</a></div></div>		</div>
+				<div class="nsp_title_block">	
+			<div class="nsp_title_tab"><div class="nsp_date">22 Jan 2015</div><div class="nsp_title">ISO Certification training launched</div></div><div class="nsp_art_more unvisible"><div class="nsp_art_main"><a href="/index.php?option=com_k2&amp;view=item&amp;id=284:iso-certification-training-launched&amp;Itemid=263" class=" tleft fleft" title="ISO Certification training launched"><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/k2.items.cache.d632334130a2b9d194362b7d857b88bf_Lnsp_174.jpg" alt="ISO Certification training launched" style="width:204px;height:118px;margin:7px 14px 10px 0;"  title="ISO Certification training launched" /></a><p class="nsp_text tleft fleft">Multimedia University of Kenya has officially launched its International Organization for Standardization (ISO) 9001-2008 Certification training which applies to good management practices and quality service delivery standards.
+The Certification process commenced...</p><a class="readon readon_class  fright" href="/index.php?option=com_k2&amp;view=item&amp;id=284:iso-certification-training-launched&amp;Itemid=263">Read more</a></div></div>		</div>
+				<div class="nsp_title_block">	
+			<div class="nsp_title_tab"><div class="nsp_date">21 Jan 2015</div><div class="nsp_title">CBD Campus to be transformed to world class facility </div></div><div class="nsp_art_more unvisible"><div class="nsp_art_main"><a href="/index.php?option=com_k2&amp;view=item&amp;id=283:cbd-campus-to-be-transformed-to-world-class-facility&amp;Itemid=263" class=" tleft fleft" title="CBD Campus to be transformed to world class facility "><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.inspect 1nsp_174.png" alt="CBD Campus to be transformed to world class facility " style="width:204px;height:118px;margin:7px 14px 10px 0;"  title="CBD Campus to be transformed to world class facility " /></a><p class="nsp_text tleft fleft">Multimedia University of Kenya top management has pledged to transform the university’s Nairobi CBD Campus to a world class facility that mirrors the main campus in terms of physical infrastructure...</p><a class="readon readon_class  fright" href="/index.php?option=com_k2&amp;view=item&amp;id=283:cbd-campus-to-be-transformed-to-world-class-facility&amp;Itemid=263">Read more</a></div></div>		</div>
+				<div class="nsp_title_block">	
+			<div class="nsp_title_tab"><div class="nsp_date">16 Jan 2015</div><div class="nsp_title">MMU and Africa 24 Media reaffirm partnership commitment </div></div><div class="nsp_art_more unvisible"><div class="nsp_art_main"><a href="/index.php?option=com_k2&amp;view=item&amp;id=282:mmu-and-africa-24-media-reaffirm-partnership-commitment&amp;Itemid=263" class=" tleft fleft" title="MMU and Africa 24 Media reaffirm partnership commitment "><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/stories.24 media 2nsp_174.png" alt="MMU and Africa 24 Media reaffirm partnership commitment " style="width:204px;height:118px;margin:7px 14px 10px 0;"  title="MMU and Africa 24 Media reaffirm partnership commitment " /></a><p class="nsp_text tleft fleft">The media training partnership between Multimedia University of Kenya and Africa 24 Media received a big boost after MMU and the media company renewed their commitment to the partnership which...</p><a class="readon readon_class  fright" href="/index.php?option=com_k2&amp;view=item&amp;id=282:mmu-and-africa-24-media-reaffirm-partnership-commitment&amp;Itemid=263">Read more</a></div></div>		</div>
+				<div class="nsp_title_block">	
+			<div class="nsp_title_tab"><div class="nsp_date">19 Dec 2014</div><div class="nsp_title">MMU Lecturer wins $14000 Research Grant.</div></div><div class="nsp_art_more unvisible"><div class="nsp_art_main"><a href="/index.php?option=com_k2&amp;view=item&amp;id=281:mmu-lecturer-wins-$14000-research-grant&amp;Itemid=263" class=" tleft fleft" title="MMU Lecturer wins $14000 Research Grant."><img class="nsp_image tleft fleft" src="http://mmu.ac.ke/modules/mod_news_pro_gk4/cache/k2.items.cache.3f670763861139bf2201e7bc224257d4_Lnsp_174.jpg" alt="MMU Lecturer wins $14000 Research Grant." style="width:204px;height:118px;margin:7px 14px 10px 0;"  title="MMU Lecturer wins $14000 Research Grant." /></a><p class="nsp_text tleft fleft">&nbsp;
+Multimedia University of Kenya’s Senior Lecturer, Dr. Dickson Andala has won The World Academy of Sciences (TWAS) Research Grant for his research proposal entitled: Development of novel Nano Bioadsorbents for...</p><a class="readon readon_class  fright" href="/index.php?option=com_k2&amp;view=item&amp;id=281:mmu-lecturer-wins-$14000-research-grant&amp;Itemid=263">Read more</a></div></div>		</div>
+			
+	</div>
+	</div>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+try {$Gavick;}catch(e){$Gavick = {};};
+$Gavick["nsp-nsp_174"] = {
+	"animation_speed": 350,
+	"open_first": 1};
+//]]>
+</script>				</div>
+		</div>
+			<div class="moduletable">
+			   			<div class="moduletable_content">
+				<h4><a href="/index.php?option=com_k2&amp;view=itemlist&amp;layout=category&amp;task=category&amp;id=25&amp;Itemid=288"><strong>More on news and events</strong> &gt;&gt;&gt;</a></h4>			</div>
+		</div>
+	
+          </div>
+                    <div id="gk-contentwrap">
+               
+                              <div id="gk-content" style="width:100%">
+                    <div id="gk-current-content" style="width:100%">
+                                            
+                        <div>
+                            <div class="inner gk-mass">       
+                                         					      
+                                                                               						
+                                      <div id="component_wrap" class="clearfix clear">
+        									<div>
+        	                                            	                                            	                                    <div id="mainbody">
+        	                                         		<div class="moduletable clear">
+										
+				<h3><span><span class="first-word">STUDENTS'</span> PORTAL</span></h3>
+			   			<div class="moduletable_content">
+				<p><span style="font-size: 10pt;"><strong>&nbsp;</strong></span></p>
+<p><span style="font-size: 10pt;"><a href="http://students.mmu.ac.ke/index.php?option=com_k2&amp;view=item&amp;id=83:soccer-team-recover-to-fire-past-cooperative-university"><strong>Soccer team recover to fire past Cooperative University</strong></a></span></p>
+<p style="text-align: justify;"><a href="http://students.mmu.ac.ke/index.php?option=com_k2&amp;view=item&amp;id=83:soccer-team-recover-to-fire-past-cooperative-university"><img style="float: left;" alt="1d73e13563b8be946c0f00bab252d7ea L" src="/images/1d73e13563b8be946c0f00bab252d7ea_L.jpg" height="181" width="323" /></a>It was a sweet recovery for the Multimedia University of Kenya soccer team when they beat Cooperative University 3-0 in a Kenya Universities Sports Association (KUSA) match that played at Nazarene University on Sunday.</p>
+<p style="margin-left: 30px;"><a href="http://students.mmu.ac.ke/index.php?option=com_k2&amp;view=item&amp;id=83:soccer-team-recover-to-fire-past-cooperative-university">Read More&gt;&gt;</a></p>
+<p style="text-align: justify;"><br /><br /></p>
+<p>&nbsp;</p>			</div>
+		</div>
+	
+        	                                    </div>
+        	                                            	                                                                                </div>
+                                      </div>
+                                                                            
+                                                             </div>
+                         </div>
+                         
+                                             </div>
+                                   </div>
+                                        </div>
+          </div>
+<!-- //CONTENT -->
+									</div>
+				
+<div id="gk-right" class="column" style="width:36%">
+		<div class="gk-mass gk-mass-top clearfix">
+		<div class="inner ctop cbottom cright">
+            		<div class="moduletableclear nsp_bt">
+			   			<div class="moduletable_content">
+				<p><a target="_blank" href="http://mail2.mmu.ac.ke"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/stories/staff_email2png.png" alt="" height="54" width="243" /></a></p>
+<p>&nbsp;</p>			</div>
+		</div>
+			<div class="moduletable">
+										
+				<h3><span><span class="first-word">ICDL</span> ADVERT</span></h3>
+			   			<div class="moduletable_content">
+				<p>&nbsp;</p>
+<p><a href="/images/downloads/icdl%20advert.pdf"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/stories/icdl-advert.png" alt="" height="144" width="314" /></a></p>			</div>
+		</div>
+			<div class="moduletable clear">
+										
+				<h3><span><span class="first-word">MMU</span> - News in Pictures. </span></h3>
+			   			<div class="moduletable_content">
+				
+<div id="gk_is-newsimage2" class="gk_is_wrapper gk_is_wrapper-style3">
+
+		<div class="gk_is_popup-style3">
+		<div class="wrap">
+	        <div class="close"></div>
+	        <div class="tl"></div>
+	        <div class="t"></div>
+	        <div class="tr"></div>
+	        <div class="ml"></div>
+	        <div class="m">
+	              <div class="padding">
+                        <div class="overlay"></div>
+  						<div class="prev">PREV</div>
+				  		<div class="next">NEXT</div>
+  						  						<div class="text" style="height:truepx;"></div>
+						  						<div class="content"></div>
+				  </div>
+	        </div>
+	        <div class="mr"></div>
+	        <div class="bl"></div>
+	        <div class="b"></div>
+	        <div class="br"></div>
+	  	</div>
+	</div>
+		
+		
+	<div class="gk_is_thumbs">
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/579615DSC_0144.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/579615DSC_0144.JPG" alt="Devolution PS" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/440525DSC_0145.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/440525DSC_0145.JPG" alt="Devolution PS" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/923694DSC_0146.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/923694DSC_0146.JPG" alt="Devolution PS" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						<div class="clear"></div>
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/471867DSC_0147.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/471867DSC_0147.JPG" alt="Devolution PS" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/446148DSC_0148.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/446148DSC_0148.JPG" alt="Devolution PS" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/727941DSC_0150.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/727941DSC_0150.JPG" alt="Devolution PS" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						<div class="clear"></div>
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/879799DSC_0151.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/879799DSC_0151.JPG" alt="Devolution PS" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/419530DSC_0154.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/419530DSC_0154.JPG" alt="Slide test" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/757721DSC_0155.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/757721DSC_0155.JPG" alt="Slide test" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						<div class="clear"></div>
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/894065DSC_0158.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/894065DSC_0158.JPG" alt="Slide test" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/693075DSC_0163.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/693075DSC_0163.JPG" alt="Slide test" style="margin:5px;border:none;" />
+			</a>
+			
+					
+						
+						
+			<a href="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/785651DSC_0164.JPG">
+				<img src="http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_small/785651DSC_0164.JPG" alt="Slide test" style="margin:5px;border:none;" />
+			</a>
+			
+			</div>		
+	
+	<div class="gk_is_images gk_unvisible">
+			
+						
+			<div class="gk_is_image" style="z-index: 1;" title="Devolution PS">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=168" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/579615DSC_0144.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=168">Devolution PS</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 2;" title="Devolution PS">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=124" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/440525DSC_0145.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=124">Devolution PS</a>
+														</span>
+						</h4>
+												
+												<p>
+							You can reach us on the following addressesMain CampusMultimedia University of KenyaMagadi Road - Ongata RongaiP.O. Box 30305 - 00100Nairobi, KenyaTelephones    : 254 20 2071243, 254 2071391/2/3
+Fax        : 254 20 891949 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 3;" title="Devolution PS">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=124" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/923694DSC_0146.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=124">Devolution PS</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 4;" title="Devolution PS">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=124" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/471867DSC_0147.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=124">Devolution PS</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 5;" title="Devolution PS">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=124" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/446148DSC_0148.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=124">Devolution PS</a>
+														</span>
+						</h4>
+												
+												<p>
+							MMU Tree Planting Day 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 6;" title="Devolution PS">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=124" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/727941DSC_0150.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=124">Devolution PS</a>
+														</span>
+						</h4>
+												
+												<p>
+							You can reach us on the following addressesMain CampusMultimedia University of KenyaMagadi Road - Ongata RongaiP.O. Box 30305 - 00100Nairobi, KenyaTelephones    : 254 20 2071243, 254 2071391/2/3
+Fax        : 254 20 891949 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 7;" title="Devolution PS">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=124" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/879799DSC_0151.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=124">Devolution PS</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 8;" title="Slide test">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=168" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/419530DSC_0154.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=168">Slide test</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 9;" title="Slide test">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=168" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/757721DSC_0155.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=168">Slide test</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 10;" title="Slide test">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=168" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/894065DSC_0158.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=168">Slide test</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 11;" title="Slide test">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=168" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/693075DSC_0163.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=168">Slide test</a>
+														</span>
+						</h4>
+												
+												<p>
+							&nbsp;
+
+&nbsp; 													</p>
+											</div>
+							</div>
+			
+						
+			<div class="gk_is_image" style="z-index: 12;" title="Slide test">
+				<a href="/index.php?option=com_content&amp;view=article&amp;id=168" class="gk_is_image_path">http://mmu.ac.ke/components/com_gk3_photoslide/thumbs_big/785651DSC_0164.JPG</a>
+								
+										
+					
+					<div class="gk_is_text_block" style="height:truepx;">
+												<h4>
+							<span>
+															<a href="/index.php?option=com_content&amp;view=article&amp;id=168">Slide test</a>
+														</span>
+						</h4>
+												
+												<p>
+							 
+ 
+  													</p>
+											</div>
+							</div>
+			</div>
+</div>
+<script type="text/javascript">
+	try {$Gavick;}catch(e){$Gavick = {};};
+	$Gavick["gk_is-newsimage2"] = {
+		"width":860,
+		"height":570	};
+</script>
+
+			</div>
+		</div>
+	
+        </div>
+	</div>
+	
+	
+		<div class="gk-mass gk-mass-bottom clearfix">
+	   	<div class="inner ctop cbottom cright">
+		  		<div class="moduletableclear nsp_bt">
+										
+				<h3><span><span class="first-word">Our</span> Contacts</span></h3>
+			   			<div class="moduletable_content">
+				<p>For more information please do not hesitate to contact us on the following contact list:</p>
+<p><strong>MMULTIMEDIA UNIVERISTY OF KENYA</strong></p>
+<p>P.O BOX 15653- 00503</p>
+<p>Nairobi, Kenya</p>
+<p style="text-align: justify;">Tel: 020 2071391/2</p>
+<p style="text-align: justify;">Fax: 020 2071247</p>
+<p>Website:<strong> www.mmu.ac.ke</strong></p>
+<p>Email: <strong><a href="mailto:info@mmu.ac.ke">info@mmu.ac.ke</a></strong></p>
+<p><br style="float: left; width: 45%; margin: 2px 30px 6px 0pt;" /></p>			</div>
+		</div>
+	
+		</div>
+	</div>
+	</div>
+			</div>		
+		</div>
+		<!-- BOTTOM MODULES -->
+				<!-- FOOTER -->
+		<div id="gk-footer" class="clearfix">
+		<div class="gk-footnav">
+		<ul class="menu"><li class="item104"><a href="/index.php?option=com_content&amp;view=frontpage&amp;Itemid=104"><span>Home</span></a></li></ul>
+	</div>
+		
+		
+			
+
+	<div class="gk-copyright">
+				Copyright 2010 © Multimedia University of Kenya. All rights reserved.	</div>
+</div>	</div>
+	
+    	<!-- POPUPS -->
+	
+
+
+		
+
+<div id="popup_login" class="gk_popup">
+
+	<div class="gk_popup_wrap">
+
+		
+		<div class="popup_col">
+
+			
+
+
+<div class="mod_login">
+
+	
+	
+
+	
+	
+
+	<form action="/index.php" method="post" name="login" id="form-login" >
+
+		
+		<p class="username">
+
+			<label for="modlgn_username">Username</label><br />
+
+			<input id="modlgn_username" type="text" name="username" class="inputbox" alt="username" size="18" />
+
+		</p>
+
+		<p class="password">
+
+			<label for="modlgn_passwd">Password</label><br />
+
+			<input id="modlgn_passwd" type="password" name="passwd" class="inputbox" size="18" alt="password" />
+
+		</p>
+
+		
+		<p class="remember">
+
+			<label for="modlgn_remember">Remember Me</label>
+
+			<input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes" alt="Remember Me" />
+
+		</p>
+
+		
+		
+
+		<div class="buttons">
+
+			<input type="submit" name="Submit" class="button" value="Login" />
+
+		</div>
+
+		
+
+		<ul>
+
+			<li>
+
+				<a href="/index.php?option=com_user&amp;view=reset">
+
+				Forgot your password?</a>
+
+			</li>
+
+			<li>
+
+				<a href="/index.php?option=com_user&amp;view=remind">
+
+				Forgot your username?</a>
+
+			</li>
+
+			
+		</ul>
+		
+		<div style="clear: both;"></div>
+		
+		
+		<input type="hidden" name="option" value="com_user" />
+
+		<input type="hidden" name="task" value="login" />
+
+		<input type="hidden" name="return" value="Lw==" />
+
+		<input type="hidden" name="f8b0b062ef5ba8d99a9c326022d7a436" value="1" />
+	</form>
+
+	
+</div>
+
+		</div>        
+
+  	</div>
+
+</div>
+
+		
+	
+
+<div id="popup_register" class="gk_popup">
+	<div class="gk_popup_wrap">
+		
+	
+
+		<script type="text/javascript" src="http://mmu.ac.ke/media/system/js/validate.js"></script>
+		<script type="text/javascript">Window.onDomReady(function(){document.formvalidator.setHandler('passverify', function (value) { return ($('password').value == value); }	);});</script>
+
+		<form action="/index.php?option=com_user" method="post" id="josForm" name="josForm" class="form-validate">
+		
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" class="contentpane">
+		<tr>
+			<td width="30%" height="40">
+				<label id="namemsg" for="name">Name:</label>
+			</td>
+		  	<td>
+		  		<input type="text" name="name" id="name" size="40" value="" class="inputbox required" maxlength="50" /> *
+		  	</td>
+		</tr>
+		<tr>
+			<td height="40">
+				<label id="usernamemsg" for="username">Username:</label>
+			</td>
+			<td>
+				<input type="text" id="username" name="username" size="40" value="" class="inputbox required validate-username" maxlength="25" /> *
+			</td>
+		</tr>
+		<tr>
+			<td height="40">
+				<label id="emailmsg" for="email">Email:</label>
+			</td>
+			<td>
+				<input type="text" id="email" name="email" size="40" value="" class="inputbox required validate-email" maxlength="100" /> *
+			</td>
+		</tr>
+		<tr>
+			<td height="40">
+				<label id="pwmsg" for="password">Password:</label>
+			</td>
+		  	<td>
+		  		<input class="inputbox required validate-password" type="password" id="password" name="password" size="40" value="" /> *
+		  	</td>
+		</tr>
+		<tr>
+			<td height="40">
+				<label id="pw2msg" for="password2">Verify password:</label>
+			</td>
+			<td>
+				<input class="inputbox required validate-passverify" type="password" id="password2" name="password2" size="40" value="" /> *
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" height="40">
+				<p class="information_td">* Field is required</p>
+			</td>
+		</tr>
+		</table>
+			<p class="form_buttons"><span class="btn"><button class="button validate" type="submit">REGISTER</button></span></p>
+			<input type="hidden" name="task" value="register_save" />
+			<input type="hidden" name="id" value="0" />
+			<input type="hidden" name="gid" value="0" />
+			<input type="hidden" name="f8b0b062ef5ba8d99a9c326022d7a436" value="1" />		</form>	
+		
+  	</div>
+</div>		
+			
+</body>
+</html>
