@@ -101,7 +101,7 @@ foreach($datas as $data)
                   <div class="col-xs-12">
                   	
                   	
-                  <input type="checkbox" name="subject[]" value="<?php echo  $data["subject_id"] ?>">   <p class=""><?php echo  $data["subject_name"] ?></p> 
+                  <input type="checkbox" name="subject[]" value="<?php echo  $data["subject_id"] ?>">   <span="content"><?php echo  $data["subject_name"] ?></span> 
                    
                   </div>
                 </div>

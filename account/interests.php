@@ -97,14 +97,14 @@ foreach($datas as $data)
                   <div class="col-xs-12">
                   	
                   	
-                  <input type="checkbox" name="interest[]" value="<?php echo  $data["interest_id"] ?>">   <p class="announcement-heading"><?php echo  $data["interest_name"] ?></p> 
+                  <input type="checkbox" name="interest[]" value="<?php echo  $data["interest_id"] ?>">   <span="content"><?php echo  $data["interest_name"] ?></span> 
                    
                   </div>
                 </div>
               </div>
               
   
-              <a href="#">
+              
                 <div class="panel-footer announcement-bottom">
                   <div class="row">
                     <div class="col-xs-12">
@@ -113,7 +113,7 @@ foreach($datas as $data)
                     
                   </div>
                 </div>
-              </a>
+              
               </div>
             </div>
           

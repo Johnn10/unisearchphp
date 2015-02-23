@@ -100,14 +100,14 @@ foreach($datas as $data)
                   
                   <div class="col-xs-12">
                   	
-                  <input type="checkbox" name="personality[]" value="<?php echo  $data["personality_id"] ?>" onclick="interests.php">     <p class="announcement-heading"><?php echo  $data["personality_name"] ?></p>
+                  <input type="checkbox" name="personality[]" value="<?php echo  $data["personality_id"] ?>" onclick="interests.php">     <span class="content"><?php echo  $data["personality_name"] ?></span> 
                    
                   </div>
                 </div>
               </div>
               
   
-              <a href="#">
+              
                 <div class="panel-footer announcement-bottom">
                   <div class="row">
                     <div class="col-xs-12">
@@ -116,7 +116,7 @@ foreach($datas as $data)
                     
                   </div>
                 </div>
-              </a>
+             
               </div>
             </div>
           
@@ -133,9 +133,7 @@ foreach($datas as $data)
 		</div>
 		
 		
-		<iframe width="100%" height="100%" style="border-width: 0px;" src="http://www.16personalities.com/free-personality-test">
-			
-		</iframe>
+		
 	  </div>
 	</div>
 	

@@ -11,3 +11,4 @@ http://www.piu.ac.ke/
 http://www.zetech.ac.ke/
 http://mmu.ac.ke
 http://www.mmust.ac.ke
+http://www.ku.ac.ug
