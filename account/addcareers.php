@@ -145,7 +145,9 @@ foreach($datas as $data)
             
                   	<td> <?php echo  $data["career_name"] ?> </td>
                   		<td><?php echo  $data["career_description"] ?></td>
-                  			<td><a class="btn btn-success" href="addcareers.php?action=edit&careerid=<?php echo  $data["career_id"]; ?>" >Edit  </a> &nbsp;&nbsp; <a class="btn btn-danger" href="addcareers.php?action=delete&careerid=<?php echo  $data["career_id"]; ?>" >Delete  </a></td>
+                  			<td><a class="btn btn-success" href="addcareers.php?action=edit&careerid=<?php echo  $data["career_id"]; ?>" >Edit  </a> 
+                  				&nbsp;&nbsp; <a class="btn btn-danger" href="match.php?careerid=<?php echo  $data["career_id"]; ?>" >Match  </a>
+                  				&nbsp;&nbsp; <a class="btn btn-danger" href="addcareers.php?action=delete&careerid=<?php echo  $data["career_id"]; ?>" >Delete  </a></td>
                   
           <?php
           
