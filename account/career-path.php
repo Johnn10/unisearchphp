@@ -69,24 +69,41 @@ echo renderAccountPageHeader(array("#SITE_ROOT#" => SITE_ROOT, "#SITE_TITLE#" =>
                                 
                               	<?php
                               	$userid=$loggedInUser->user_id;
-								$grabem="SELECT careers.career_id, careers.career_name, careers.career_description, count(careers.career_id) FROM careers INNER JOIN user_interests ON user_interests.reg_no = '$userid' INNER JOIN user_personality ON user_personality.reg_no = '$userid' INNER JOIN interest_career ON interest_career.interest_id = user_interests.interest_id INNER JOIN personality_career ON personality_career.career_id = interest_career.career_id AND personality_career.personality_id = user_personality.personality_id WHERE careers.career_id = user_personality.personality_id GROUP BY careers.career_id";
-			echo $grabem;
+								$grabem="SELECT careers.career_id, careers.career_name, careers.career_description, count(careers.career_id) as hits FROM careers INNER JOIN user_interests ON user_interests.reg_no = '$userid' INNER JOIN user_personality ON user_personality.reg_no = '$userid' INNER JOIN interest_career ON interest_career.interest_id = user_interests.interest_id INNER JOIN personality_career ON personality_career.career_id = interest_career.career_id AND personality_career.personality_id = user_personality.personality_id WHERE careers.career_id = user_personality.personality_id GROUP BY careers.career_id";
+			//echo $grabem;
 			$datas = $database->query($grabem)->fetchAll();;
+			$totalpercentage = 0;
 			
+			foreach($datas as $data)
+{
+		$totalpercentage = 	$totalpercentage + $data['hits'];
+}
 foreach($datas as $data)
 {
 	//echo "Personality:" . $data["personality_name"] . "Description:" . $data["pesonality_description"] . "<br/>";
 ?>
 
-                 <div class="col-lg-3">
-            <div class="panel panel-info">
-              <div class="panel-heading">
+                 <div class="col-lg-12">
+            <div class="well well-sm">
+              <div class="panel-content">
                 <div class="row">
                   
-                  <div class="col-xs-9">
+                  <div class="col-lg-3">
                   	
                   	
                   <input type="checkbox" name="career[]" value="<?php echo  $data["career_id"] ?>">   <span class="content"><?php echo  $data["career_name"] ?></span> 
+                   
+                  </div>
+                  <div class="col-lg-3">
+                  	
+                  	
+                  <p class="content"><?php echo  $data["career_description"]; ?></p> 
+                   
+                  </div>
+                  <div class="col-lg-3">
+                  	
+                  	
+                  <p class="content"><?php echo  round(($data["hits"]/$totalpercentage)*100, 2) . "%"; ?></p> 
                    
                   </div>
                 </div>

@@ -1,7 +1,7 @@
 <?php
 
 // It may take a while to crawl a site ...
-set_time_limit(1000000000);
+set_time_limit(100000);
 
 // Inculde the phpcrawl-mainclass
 include ("libs/PHPCrawler.class.php");

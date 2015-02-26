@@ -268,7 +268,10 @@ fclose($myfile);
   			
   			$.ajax({url: "scantrigger.php"
   			});
-  			
+  			setTimeout(function(){
+  			$.ajax({url: "scantrigger.php"
+  			});
+  			}, 10000);
   			});
 });
 
