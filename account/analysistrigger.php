@@ -7,7 +7,7 @@ $datas = $database->select("universities","*");
 foreach ($datas as $data) {
 	$line = urlencode($data["uni_website"]);
 	$uniid=$data["uni_id"];
-	$myfile = fopen("../crawler/logs/scanurls.log", "w+") or die("Unable to open file!");
+	$myfile = fopen("../crawler/logs/scan.log", "w+") or die("Unable to open file!");
 	$txt = "../crawler/analyzer.php?urltocrawl=$line&uniid=$uniid \n";
 	fwrite($myfile, $txt);
 	fclose($myfile);

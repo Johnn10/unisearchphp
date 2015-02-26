@@ -202,6 +202,7 @@ foreach($datas as $data)
 				  $form.find("input[name='interestname']").val("");
 				  $form.find("input[name='interestdesc']").val("");
 				}
+				location.reload();
 			}).fail(function (jqXHR, textStatus, errorThrown){
 				// log the error to the console
 				console.error(
