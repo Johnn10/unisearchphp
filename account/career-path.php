@@ -59,7 +59,7 @@ echo renderAccountPageHeader(array("#SITE_ROOT#" => SITE_ROOT, "#SITE_TITLE#" =>
                         	</h3>
                     	</div>
                     	<ul>
-                            <li><a href="#course" data-toggle="tab">Career</a></li>
+                            <li><a href="#career" data-toggle="tab">Career</a></li>
                             <li><a href="#subject" data-toggle="tab">Course</a></li>
                             <li><a href="#personality" data-toggle="tab">University</a></li>
                            
@@ -68,7 +68,10 @@ echo renderAccountPageHeader(array("#SITE_ROOT#" => SITE_ROOT, "#SITE_TITLE#" =>
                             <div class="tab-pane" id="career">
                                 
                               	<?php
-			$datas = $database->select("careers", "*");
+                              	$userid=$loggedInUser->user_id;
+								$grabem="SELECT careers.career_id, careers.career_name, careers.career_description, count(careers.career_id) FROM careers INNER JOIN user_interests ON user_interests.reg_no = '$userid' INNER JOIN user_personality ON user_personality.reg_no = '$userid' INNER JOIN interest_career ON interest_career.interest_id = user_interests.interest_id INNER JOIN personality_career ON personality_career.career_id = interest_career.career_id AND personality_career.personality_id = user_personality.personality_id WHERE careers.career_id = user_personality.personality_id GROUP BY careers.career_id";
+			echo $grabem;
+			$datas = $database->query($grabem)->fetchAll();;
 			
 foreach($datas as $data)
 {
