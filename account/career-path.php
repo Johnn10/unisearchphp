@@ -1,20 +1,19 @@
 <?php
 
-require_once("../models/config.php");
-require_once("../databaseconnector.php");
+require_once ("../models/config.php");
+require_once ("../databaseconnector.php");
 
 // Request method: GET
 $ajax = checkRequestMode("get");
 
-if (!securePage(__FILE__)){
-    apiReturnError($ajax);
+if (!securePage(__FILE__)) {
+	apiReturnError($ajax);
 }
 
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
 
-if(isset($_GET["course"])&&isset($_GET["subject"])&&isset($_GET["personality"]))
+if (isset($_GET["course"]) && isset($_GET["subject"]) && isset($_GET["personality"]))
 	header("Location: addcareers.php");
-
 ?>
 
 <!DOCTYPE html>
@@ -60,8 +59,8 @@ echo renderAccountPageHeader(array("#SITE_ROOT#" => SITE_ROOT, "#SITE_TITLE#" =>
                     	</div>
                     	<ul>
                             <li><a href="#career" data-toggle="tab">Career</a></li>
-                            <li><a href="#subject" data-toggle="tab">Course</a></li>
-                            <li><a href="#personality" data-toggle="tab">University</a></li>
+                            <li><a href="#course" data-toggle="tab">Course</a></li>
+                            <li><a href="#university" data-toggle="tab">University</a></li>
                            
                         </ul>
                         <div class="tab-content">
@@ -69,7 +68,7 @@ echo renderAccountPageHeader(array("#SITE_ROOT#" => SITE_ROOT, "#SITE_TITLE#" =>
                                 
                               	<?php
                               	$userid=$loggedInUser->user_id;
-								$grabem="SELECT careers.career_id, careers.career_name, careers.career_description, count(careers.career_id) as hits FROM careers INNER JOIN user_interests ON user_interests.reg_no = '$userid' INNER JOIN user_personality ON user_personality.reg_no = '$userid' INNER JOIN interest_career ON interest_career.interest_id = user_interests.interest_id INNER JOIN personality_career ON personality_career.career_id = interest_career.career_id AND personality_career.personality_id = user_personality.personality_id WHERE careers.career_id = user_personality.personality_id GROUP BY careers.career_id";
+								$grabem="SELECT careers.career_id, careers.career_name, careers.career_description, count(careers.career_id) as hits FROM careers INNER JOIN user_interests ON user_interests.reg_no = '$userid' INNER JOIN user_personality ON user_personality.reg_no = '$userid' INNER JOIN interest_career ON interest_career.interest_id = user_interests.interest_id INNER JOIN personality_career ON personality_career.career_id = interest_career.career_id AND personality_career.personality_id = user_personality.personality_id WHERE user_personality.personality_id = personality_career.personality_id AND careers.career_id = personality_career.career_id GROUP BY careers.career_id";
 			//echo $grabem;
 			$datas = $database->query($grabem)->fetchAll();;
 			$totalpercentage = 0;
@@ -91,140 +90,19 @@ foreach($datas as $data)
                   <div class="col-lg-3">
                   	
                   	
-                  <input type="checkbox" name="career[]" value="<?php echo  $data["career_id"] ?>">   <span class="content"><?php echo  $data["career_name"] ?></span> 
+                  <input type="checkbox" name="career[]" class="careerchoice" value="<?php echo  $data["career_id"] ?>">   <span class="content"><?php echo  $data["career_name"] ?></span> 
                    
                   </div>
                   <div class="col-lg-3">
                   	
                   	
-                  <p class="content"><?php echo  $data["career_description"]; ?></p> 
+                  <p class="content"><?php echo $data["career_description"]; ?></p> 
                    
                   </div>
                   <div class="col-lg-3">
                   	
                   	
-                  <p class="content"><?php echo  round(($data["hits"]/$totalpercentage)*100, 2) . "%"; ?></p> 
-                   
-                  </div>
-                </div>
-              </div>
-              
-  
-             
-              </div>
-            </div>
-          
-          <?php
-          
-          }
-
-?>  
-                                
-                            </div>
-                            
-                            <div class="tab-pane" id="subject">
-                            	
-                            	<?php
-			$datas = $database->select("subjects", "*");
-			
-foreach($datas as $data)
-{
-	//echo "Personality:" . $data["personality_name"] . "Description:" . $data["pesonality_description"] . "<br/>";
-?>
-
-                 <div class="col-lg-3">
-            <div class="panel panel-info">
-              <div class="panel-heading">
-                <div class="row">
-                  
-                  <div class="col-xs-9">
-                  	
-                  	
-                  <input type="checkbox" name="subject[]" value="<?php echo  $data["subject_id"] ?>">    <span class="content"><?php echo  $data["subject_name"] ?></span> 
-                   
-                  </div>
-                </div>
-              </div>
-              
-  
-             
-              </div>
-            </div>
-          
-          <?php
-          
-          }
-
-?>            </div>
-                            
-                            
-                            <div class="tab-pane" id="personality">
-                            	
-                            	<?php
-			$datas = $database->select("personalities", "*");
-			
-foreach($datas as $data)
-{
-	//echo "Personality:" . $data["personality_name"] . "Description:" . $data["pesonality_description"] . "<br/>";
-?>
-
-                 <div class="col-lg-3">
-            <div class="panel panel-info">
-              <div class="panel-heading">
-                <div class="row">
-                  
-                  <div class="col-xs-12">
-                  	
-                  	
-                  <input type="checkbox" name="personality[]" value="<?php echo  $data["personality_id"] ?>">   <span class="content"><?php echo  $data["personality_name"] ?></span> 
-                   
-                  </div>
-                </div>
-              </div>
-              
-  
-              <a href="#">
-                <div class="panel-footer announcement-bottom">
-                  <div class="row">
-                    <div class="col-xs-12">
-                     <?php echo  $data["pesonality_description"] ?> 
-                    </div>
-                    
-                  </div>
-                </div>
-              </a>
-              </div>
-            </div>
-          
-          <?php
-          
-          }
-
-?>
-                                
-                            </div>
-                            
-                            
-                            
-                            <div class="tab-pane" id="interest">
-                                
-                                <?php
-			$datas = $database->select("interests", "*");
-			
-foreach($datas as $data)
-{
-	//echo "Personality:" . $data["personality_name"] . "Description:" . $data["pesonality_description"] . "<br/>";
-?>
-
-                 <div class="col-lg-3">
-            <div class="panel panel-info">
-              <div class="panel-heading">
-                <div class="row">
-                  
-                  <div class="col-xs-12">
-                  	
-                  	
-                  <input type="checkbox" name="interest[]" value="<?php echo  $data["interest_id"] ?>">    <span class="content"><?php echo  $data["interest_name"] ?></span> 
+                  <p class="content"><?php echo round(($data["hits"] / $totalpercentage) * 100, 2) . "%"; ?></p> 
                    
                   </div>
                 </div>
@@ -238,9 +116,22 @@ foreach($datas as $data)
           <?php
 
 		}
-	?>
+	?>  
                                 
                             </div>
+                            
+                            <div class="tab-pane" id="course">
+                            	 
+                            	 </div>
+                            
+                            
+                            <div class="tab-pane" id="university">
+                            	  
+                            </div>
+                            
+                            
+                            
+                            
                         </div>
                         <div class="wizard-footer">
                         	<input type="hidden" name="careerid" value="<?php echo $_GET['careerid']; ?>"/>
@@ -316,7 +207,27 @@ foreach($datas as $data)
 				// prevent default posting of form
 				event.preventDefault();
 			});
-			$('#myWizard').easyWizard();
+			$('.careerchoice').click(function() {
+
+				$.get('careerpath/courses.php?id=' + $(this).val(), function(data) {
+					$('#course').html(data);
+					$('.btn-next').trigger('click');
+				});
+				
+				
+			$('#course').on('click', '.coursechoice', function() { 
+				$('.btn-next').trigger('click');
+				$.get('careerpath/universities.php?id=' + $(this).val(), function(data) {
+					$('#university').html(data);
+					$('.btn-next').trigger('click');
+				});
+				
+			}); 
+			
+				$('#myWizard').easyWizard();
+
+			});
+			
 		});
 	</script>
 	

@@ -126,7 +126,14 @@ foreach($datas as $data)
                 </div>
               </div>
               
-  
+   <div class="panel-footer announcement-bottom" style="min-height: 40px !important;">
+                  <div class="row">
+                    <div class="col-xs-12">
+                     <?php echo  $data["course_description"] ?> 
+                    </div>
+                    
+                  </div>
+                </div>
              
               </div>
             </div>
