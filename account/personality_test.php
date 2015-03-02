@@ -42,14 +42,15 @@ if (!securePage(__FILE__)){
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
 
 $user_id = $loggedInUser->user_id;
-if(isset($_GET["personality"]))
-foreach($_GET["personality"] as $personality_id)
+if(isset($_GET["personality"])){
+foreach($_GET["personality"] as $personality_id){
 $last_user_id = $database->insert("user_personality", [
 	"reg_no" => $user_id,
 	"personality_id" =>  $personality_id
 ]);
-
-
+header("Location: academics.php");
+}
+}
 ?>
 
 <!DOCTYPE html>

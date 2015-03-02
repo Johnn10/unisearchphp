@@ -1,4 +1,5 @@
 <?php
+ini_set('max_execution_time', 300);
 include ("../crawler/ganon.php");
 $lines = file('../crawler/indexes.txt', FILE_SKIP_EMPTY_LINES);
 

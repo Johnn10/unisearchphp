@@ -43,8 +43,8 @@ if (!securePage(__FILE__)){
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
 $count=0;
 $user_id = $loggedInUser->user_id;
-if(isset($_GET["subject"]))
-	foreach($_GET["subject"] as $subject_id)
+if(isset($_GET["subject"])){
+	foreach($_GET["subject"] as $subject_id){
 	
 		$last_user_id = $database->insert("user_subject", [
 		"reg_no" => $user_id,
@@ -53,6 +53,11 @@ if(isset($_GET["subject"]))
 		
 		]);
 		$count++;
+	}
+	header("Location: interests.php");
+		
+}
+
 ?>
 <!DOCTYPE html>
 <html lang="en">

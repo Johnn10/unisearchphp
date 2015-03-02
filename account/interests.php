@@ -42,13 +42,16 @@ if (!securePage(__FILE__)){
 setReferralPage(getAbsoluteDocumentPath(__FILE__));
 
 $user_id = $loggedInUser->user_id;
-if(isset($_GET["interest"]))
-foreach($_GET["interest"] as $interest_id)
+if(isset($_GET["interest"])){
+foreach($_GET["interest"] as $interest_id){
 $last_user_id = $database->insert("user_interests", [
 	"reg_no" => $user_id,
 	"interest_id" =>  $interest_id
 ]);
 
+header("Location: career-path.php");
+}
+}
 ?>
 
 <!DOCTYPE html>
