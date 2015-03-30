@@ -69,10 +69,7 @@ $last_user_id = $database->insert("user_interests", [
 					<th>
 						Course Description
 					</th>
-					<th>
-						Action
-					</th>
-					
+										
 				</thead>
 				<tbody>
 			<?php
@@ -87,7 +84,6 @@ foreach($datas as $data)
             
                   	<td> <?php echo  $data["course_name"] ?> </td>
                   		<td><?php echo  $data["course_description"] ?></td>
-                  			<td><a class="btn btn-success" href="<?php echo  $data["course_id"] ?>" target="_blank">view </a></td>
                   
           <?php
           
